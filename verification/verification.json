@@ -1,0 +1,23 @@
+{
+  "study": "specdebt",
+  "date": "2026-09-28",
+  "package_version": "0.2.0",
+  "release_scope": "code, archived results, tables, figures and reproducibility verification; manuscript files are intentionally excluded",
+  "standalone_full_run": "passed",
+  "principal_numeric_fields_matched": 193,
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-08,
+  "csv_files_byte_identical": [
+    "benchmark_declaration_curve.csv",
+    "benchmark_specifications.csv",
+    "melanopic_declaration_curve.csv",
+    "melanopic_specifications.csv",
+    "synthetic_corpus.csv"
+  ],
+  "regression_tests_passed": 9,
+  "regression_tests_skipped_for_absent_optional_study": 0,
+  "python_files_syntax_checked": 36,
+  "embedded_figures": 4,
+  "native_equations": 3,
+  "scope": "Numerical reproducibility and internal consistency. No physical or external-renderer validation is claimed."
+}

@@ -1,0 +1,3 @@
+specdebt completed in 2.03 s
+Figures written: specdebt
+PASS: 193 numeric fields match the archived results (rtol=1e-9, atol=1e-8).

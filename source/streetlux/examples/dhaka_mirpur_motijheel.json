@@ -1,0 +1,122 @@
+{
+  "name": "Mirpur-10 to Motijheel, morning",
+  "site": {
+    "name": "Dhaka",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "timezone_hours": 6.0
+  },
+  "date": {
+    "year": 2026,
+    "month": 3,
+    "day": 15,
+    "start_hour": 8.0
+  },
+  "atmosphere": {
+    "turbidity_beta": 0.34,
+    "turbidity_alpha": 1.2,
+    "ozone_cm": 0.26,
+    "water_cm": 4.5,
+    "pressure_mb": 1010.0,
+    "cloud_cover": 0.15,
+    "ground_albedo": 0.12
+  },
+  "sections": [
+    {
+      "name": "Residential para lane",
+      "length_m": 420,
+      "azimuth_deg": 150,
+      "width_m": 5.5,
+      "left_height_m": 18.0,
+      "right_height_m": 21.0,
+      "left_material": "unrendered_brick",
+      "right_material": "cement_plaster",
+      "ground_material": "brick_pavement",
+      "eye_offset_m": 1.2,
+      "eye_height_m": 1.55,
+      "canopy": {
+        "cover": 0.15,
+        "base_m": 4.0,
+        "top_m": 8.0,
+        "leaf": "green_foliage"
+      }
+    },
+    {
+      "name": "Mixed-use collector",
+      "length_m": 900,
+      "azimuth_deg": 165,
+      "width_m": 11.0,
+      "left_height_m": 24.0,
+      "right_height_m": 24.0,
+      "left_material": "cement_plaster",
+      "right_material": "ochre_painted",
+      "ground_material": "asphalt",
+      "eye_offset_m": 4.0,
+      "eye_height_m": 1.55,
+      "canopy": {
+        "cover": 0.1,
+        "base_m": 4.0,
+        "top_m": 8.0,
+        "leaf": "green_foliage"
+      }
+    },
+    {
+      "name": "Kazi Nazrul arterial",
+      "length_m": 2600,
+      "azimuth_deg": 172,
+      "width_m": 30.0,
+      "left_height_m": 26.0,
+      "right_height_m": 30.0,
+      "left_material": "glass_curtainwall",
+      "right_material": "grey_concrete",
+      "ground_material": "asphalt",
+      "eye_offset_m": 12.0,
+      "eye_height_m": 1.55,
+      "canopy": {
+        "cover": 0.2,
+        "base_m": 4.5,
+        "top_m": 10.0,
+        "leaf": "green_foliage"
+      }
+    },
+    {
+      "name": "Flyover underpass",
+      "length_m": 350,
+      "azimuth_deg": 175,
+      "width_m": 22.0,
+      "left_height_m": 40.0,
+      "right_height_m": 40.0,
+      "left_material": "grey_concrete",
+      "right_material": "grey_concrete",
+      "ground_material": "asphalt",
+      "eye_offset_m": 8.0,
+      "eye_height_m": 1.55,
+      "canopy": {
+        "cover": 0.85,
+        "base_m": 6.0,
+        "top_m": 9.0,
+        "leaf": "grey_concrete",
+        "transmittance": "opaque"
+      }
+    },
+    {
+      "name": "Motijheel office canyon",
+      "length_m": 700,
+      "azimuth_deg": 120,
+      "width_m": 16.0,
+      "left_height_m": 45.0,
+      "right_height_m": 42.0,
+      "left_material": "glass_curtainwall",
+      "right_material": "grey_concrete",
+      "ground_material": "concrete_pavement",
+      "eye_offset_m": 6.0,
+      "eye_height_m": 1.55,
+      "canopy": {
+        "cover": 0.05,
+        "base_m": 4.0,
+        "top_m": 8.0,
+        "leaf": "green_foliage"
+      }
+    }
+  ]
+}

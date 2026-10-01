@@ -1,0 +1,35 @@
+{
+  "study": "specdebt",
+  "package_version": "0.2.0",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "platform": "Linux",
+  "wall_clock_s": 1.82,
+  "parameters_source": "pipeline.py",
+  "reference_data": {
+    "reference_dir": "source/reference_data",
+    "official_action_spectra": true,
+    "official_solar_spectrum": true,
+    "official_daylight_components": false,
+    "cie_photopic_md5": "f389958555461a7d9a7562145e8ca9c0",
+    "cie_aopic_md5": "f1ddfef144176812c3cb9d8fba1f3141",
+    "astm_e490_nm_sha256": "15e94b52340dc13c5acfb97023fe193b695588e4513e0620f658126fb3802688",
+    "model_grid_nm": {
+      "start": 380.0,
+      "stop": 780.0,
+      "step": 5.0
+    },
+    "photopic_peak_nm": 555.0,
+    "melanopic_peak_nm": 490.0,
+    "k_mel_v_d65_derived_W_per_lm": 0.0013264190212874294,
+    "k_mel_v_d65_official_W_per_lm": 0.0013262,
+    "k_mel_deviation_pct": 0.0165149515479846,
+    "der_d65_numerical": 1.00016514951548
+  },
+  "reference_sha256": {
+    "e490_00a_amo.csv": "8bf91354cbf7a2d99c681ce8dcd2c4779cd9be4597a8080785fcd575ff3f3cb7",
+    "CIE_a-opic_action_spectra.csv": "d69ff61bd49d63f530b4fcc7be9ba2db37bf31cba1bb50a8e87c1bc86f725250",
+    "CIE_sle_photopic.csv": "ee5d5d17922ae645d4af52cacf6a50bdb9385749f9d2181ca312eb2b08febac2",
+    "e490_00a_amo_nm.csv": "15e94b52340dc13c5acfb97023fe193b695588e4513e0620f658126fb3802688"
+  }
+}

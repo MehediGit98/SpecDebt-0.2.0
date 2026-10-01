@@ -1,0 +1,9 @@
+declared,n,residual_flip_rate,search,max_cell_residual,mixed_cells,n_cells
+[],0,0.14236111111111116,exhaustive_best_subset,0.14236111111111116,1,1
+"[""action_spectrum""]",1,0.1423611111111111,exhaustive_best_subset,0.1440972222222222,2,2
+"[""hour"", ""blind_coverage""]",2,0.10069444444444445,exhaustive_best_subset,0.375,3,6
+"[""hour"", ""month"", ""blind_coverage""]",3,0.06597222222222222,exhaustive_best_subset,0.29166666666666663,4,12
+"[""view_heading_deg"", ""hour"", ""month"", ""blind_coverage""]",4,0.03298611111111111,exhaustive_best_subset,0.4166666666666667,10,96
+"[""view_heading_deg"", ""hour"", ""cloud_cover"", ""month"", ""blind_coverage""]",5,0.005208333333333333,exhaustive_best_subset,0.5,4,288
+"[""view_heading_deg"", ""eye_height_m"", ""hour"", ""cloud_cover"", ""month"", ""blind_coverage""]",6,0.001736111111111111,exhaustive_best_subset,0.5,2,576
+"[""view_heading_deg"", ""eye_height_m"", ""hour"", ""cloud_cover"", ""month"", ""blind_coverage"", ""action_spectrum""]",7,0.0,exhaustive_best_subset,0.0,0,1152

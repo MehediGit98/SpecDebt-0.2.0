@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "specdebt"
+version = "0.2.0"
+description = "Measuring the specification debt of a reported metric"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0", "streetlux>=0.2.0", "shadeparadox>=0.2.0"]
+
+[project.scripts]
+specdebt = "specdebt.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["specdebt*"]

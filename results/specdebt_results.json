@@ -1,0 +1,535 @@
+{
+  "melanopic": {
+    "metric": "melanopic EDI at the eye",
+    "units": "lx",
+    "decision": {
+      "type": "threshold",
+      "value": 250.0,
+      "kind": "ge",
+      "label": "Exploratory 250 lx melanopic EDI threshold"
+    },
+    "mode": "full_factorial",
+    "n_specifications": 1152,
+    "n_undeclared_factors": 7,
+    "envelope": {
+      "min": 109.95453089953939,
+      "p05": 163.75047300162828,
+      "median": 594.0346367657927,
+      "mean": 767.3504806553875,
+      "p95": 2018.4736310383464,
+      "max": 3648.5209657122755,
+      "spread": 3538.566434812736,
+      "ratio_max_min": 33.182088412943784,
+      "crosses_zero": false,
+      "spread_pct_of_median": 595.6835200853567,
+      "n": 1152
+    },
+    "pass_rate": 0.8576388888888888,
+    "pairwise_disagreement": 0.24418885030864204,
+    "comparison_outcomes": null,
+    "flip_rate": 0.14236111111111116,
+    "decision_entropy_bits": 0.5903891042521847,
+    "determinate": false,
+    "attribution_value": {
+      "blind_coverage": 0.2961221874072183,
+      "hour": 0.22005594878734594,
+      "view_heading_deg": 0.1641576268727892,
+      "month": 0.09046851282702228,
+      "cloud_cover": 0.029628203820102245,
+      "eye_height_m": 0.0006055003460907895,
+      "action_spectrum": 4.173919994719709e-05
+    },
+    "attribution_decision": {
+      "hour": 0.2207835489286068,
+      "blind_coverage": 0.08593364273723708,
+      "month": 0.07198578058655082,
+      "view_heading_deg": 0.05875382640466078,
+      "cloud_cover": 0.0061222474572923905,
+      "eye_height_m": 0.0002221783351436738,
+      "action_spectrum": 2.4686481682630425e-05
+    },
+    "decision_flip_by_factor": {
+      "hour": 0.37239583333333337,
+      "view_heading_deg": 0.20833333333333326,
+      "blind_coverage": 0.20486111111111105,
+      "month": 0.1875,
+      "cloud_cover": 0.0625,
+      "eye_height_m": 0.01041666666666663,
+      "action_spectrum": 0.00347222222222221
+    },
+    "minimum_declaration_set": {
+      "set": [
+        "view_heading_deg",
+        "hour",
+        "cloud_cover",
+        "month",
+        "blind_coverage"
+      ],
+      "residual_flip_rate": 0.005208333333333333,
+      "search": "exhaustive",
+      "baseline_flip_rate": 0.14236111111111116,
+      "tolerance": 0.01,
+      "max_cell_residual": 0.5,
+      "mixed_cells": 4,
+      "n_cells": 288
+    },
+    "profile": {
+      "top_factor": "blind_coverage",
+      "top_factor_share": 0.3696538313072904,
+      "herfindahl": 0.2682183968464643,
+      "shape": "mixed",
+      "declarations_to_determinacy": 5,
+      "n_undeclared_factors": 7
+    },
+    "sufficiency_curve": [
+      {
+        "declared": [],
+        "n": 0,
+        "residual_flip_rate": 0.14236111111111116,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.14236111111111116,
+        "mixed_cells": 1,
+        "n_cells": 1
+      },
+      {
+        "declared": [
+          "action_spectrum"
+        ],
+        "n": 1,
+        "residual_flip_rate": 0.1423611111111111,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.1440972222222222,
+        "mixed_cells": 2,
+        "n_cells": 2
+      },
+      {
+        "declared": [
+          "hour",
+          "blind_coverage"
+        ],
+        "n": 2,
+        "residual_flip_rate": 0.10069444444444445,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.375,
+        "mixed_cells": 3,
+        "n_cells": 6
+      },
+      {
+        "declared": [
+          "hour",
+          "month",
+          "blind_coverage"
+        ],
+        "n": 3,
+        "residual_flip_rate": 0.06597222222222222,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.29166666666666663,
+        "mixed_cells": 4,
+        "n_cells": 12
+      },
+      {
+        "declared": [
+          "view_heading_deg",
+          "hour",
+          "month",
+          "blind_coverage"
+        ],
+        "n": 4,
+        "residual_flip_rate": 0.03298611111111111,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.4166666666666667,
+        "mixed_cells": 10,
+        "n_cells": 96
+      },
+      {
+        "declared": [
+          "view_heading_deg",
+          "hour",
+          "cloud_cover",
+          "month",
+          "blind_coverage"
+        ],
+        "n": 5,
+        "residual_flip_rate": 0.005208333333333333,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.5,
+        "mixed_cells": 4,
+        "n_cells": 288
+      },
+      {
+        "declared": [
+          "view_heading_deg",
+          "eye_height_m",
+          "hour",
+          "cloud_cover",
+          "month",
+          "blind_coverage"
+        ],
+        "n": 6,
+        "residual_flip_rate": 0.001736111111111111,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.5,
+        "mixed_cells": 2,
+        "n_cells": 576
+      },
+      {
+        "declared": [
+          "view_heading_deg",
+          "eye_height_m",
+          "hour",
+          "cloud_cover",
+          "month",
+          "blind_coverage",
+          "action_spectrum"
+        ],
+        "n": 7,
+        "residual_flip_rate": 0.0,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.0,
+        "mixed_cells": 0,
+        "n_cells": 1152
+      }
+    ],
+    "counters": {
+      "specifications_evaluated": 1152,
+      "evaluation_failures": 0,
+      "grid_size": 1152,
+      "undeclared_grid_size": 1152
+    },
+    "wall_clock_s": 0.28
+  },
+  "benchmark": {
+    "metric": "accuracy(A) minus accuracy(B)",
+    "units": "accuracy points",
+    "decision": {
+      "type": "comparison",
+      "label": "Model A scores above Model B"
+    },
+    "mode": "full_factorial",
+    "n_specifications": 144,
+    "n_undeclared_factors": 5,
+    "envelope": {
+      "min": -0.1166666666666667,
+      "p05": -0.10333333333333339,
+      "median": 0.025595926976778954,
+      "mean": 0.0012028568954994745,
+      "p95": 0.07007478741932183,
+      "max": 0.07007478741932183,
+      "spread": 0.18674145408598852,
+      "ratio_max_min": null,
+      "crosses_zero": true,
+      "spread_pct_of_median": 729.5748821888867,
+      "n": 144
+    },
+    "pass_rate": 0.5833333333333334,
+    "pairwise_disagreement": 0.4861111111111111,
+    "comparison_outcomes": {
+      "A_wins": 84,
+      "B_wins": 54,
+      "ties": 6
+    },
+    "flip_rate": 0.41666666666666663,
+    "decision_entropy_bits": 0.9798687566511528,
+    "determinate": false,
+    "attribution_value": {
+      "extraction": 0.9564199962389628,
+      "abstention": 0.03225392099775061,
+      "subsample_seed": 4.5731681146733804e-05,
+      "normalisation": 1.8863541017673029e-34,
+      "max_chars": 1.8863541017673029e-34
+    },
+    "attribution_decision": {
+      "extraction": 0.7714285714285715,
+      "abstention": 0.02857142857142856,
+      "subsample_seed": 0.014285714285714285,
+      "normalisation": 0.0,
+      "max_chars": 0.0
+    },
+    "decision_flip_by_factor": {
+      "extraction": 1.0,
+      "abstention": 0.16666666666666663,
+      "subsample_seed": 0.125,
+      "normalisation": 0.0,
+      "max_chars": 0.0
+    },
+    "minimum_declaration_set": {
+      "set": [
+        "extraction",
+        "abstention",
+        "subsample_seed"
+      ],
+      "residual_flip_rate": 0.0,
+      "search": "exhaustive",
+      "baseline_flip_rate": 0.41666666666666663,
+      "tolerance": 0.01,
+      "max_cell_residual": 0.0,
+      "mixed_cells": 0,
+      "n_cells": 24
+    },
+    "profile": {
+      "top_factor": "extraction",
+      "top_factor_share": 0.967331838995767,
+      "herfindahl": 0.9367950777276938,
+      "shape": "concentrated",
+      "declarations_to_determinacy": 3,
+      "n_undeclared_factors": 5
+    },
+    "sufficiency_curve": [
+      {
+        "declared": [],
+        "n": 0,
+        "residual_flip_rate": 0.41666666666666663,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.41666666666666663,
+        "mixed_cells": 1,
+        "n_cells": 1
+      },
+      {
+        "declared": [
+          "extraction"
+        ],
+        "n": 1,
+        "residual_flip_rate": 0.08333333333333333,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.3333333333333333,
+        "mixed_cells": 1,
+        "n_cells": 4
+      },
+      {
+        "declared": [
+          "extraction",
+          "abstention"
+        ],
+        "n": 2,
+        "residual_flip_rate": 0.04166666666666667,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.33333333333333337,
+        "mixed_cells": 1,
+        "n_cells": 8
+      },
+      {
+        "declared": [
+          "extraction",
+          "abstention",
+          "subsample_seed"
+        ],
+        "n": 3,
+        "residual_flip_rate": 0.0,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.0,
+        "mixed_cells": 0,
+        "n_cells": 24
+      },
+      {
+        "declared": [
+          "extraction",
+          "abstention",
+          "max_chars",
+          "subsample_seed"
+        ],
+        "n": 4,
+        "residual_flip_rate": 0.0,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.0,
+        "mixed_cells": 0,
+        "n_cells": 48
+      },
+      {
+        "declared": [
+          "extraction",
+          "normalisation",
+          "abstention",
+          "max_chars",
+          "subsample_seed"
+        ],
+        "n": 5,
+        "residual_flip_rate": 0.0,
+        "search": "exhaustive_best_subset",
+        "max_cell_residual": 0.0,
+        "mixed_cells": 0,
+        "n_cells": 144
+      }
+    ],
+    "counters": {
+      "specifications_evaluated": 144,
+      "evaluation_failures": 0,
+      "grid_size": 144,
+      "undeclared_grid_size": 144
+    },
+    "wall_clock_s": 0.21
+  },
+  "melanopic_specification": {
+    "name": "250 lx melanopic threshold test",
+    "n_factors": 7,
+    "n_free": 7,
+    "n_undeclared": 7,
+    "grid_size": 1152,
+    "undeclared_grid_size": 1152,
+    "factors": [
+      {
+        "name": "view_heading_deg",
+        "levels": [
+          "0",
+          "45",
+          "90",
+          "135",
+          "180",
+          "225",
+          "270",
+          "315"
+        ],
+        "n_levels": 8,
+        "declared": false,
+        "domain": "geometry",
+        "justification": "This experimental grid varies the evaluated vertical direction using eight cardinal and intercardinal headings. These are uniformly weighted experimental alternatives."
+      },
+      {
+        "name": "eye_height_m",
+        "levels": [
+          "1.2",
+          "1.5"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "geometry",
+        "justification": "Two illustrative eye heights represent seated and elevated eyes; neither is claimed to be required by a certification protocol."
+      },
+      {
+        "name": "hour",
+        "levels": [
+          "9.0",
+          "11.0",
+          "13.0"
+        ],
+        "n_levels": 3,
+        "declared": false,
+        "domain": "sampling",
+        "justification": "Three assumed daytime assessment hours span the morning and early afternoon."
+      },
+      {
+        "name": "cloud_cover",
+        "levels": [
+          "0.15",
+          "0.5",
+          "0.85"
+        ],
+        "n_levels": 3,
+        "declared": false,
+        "domain": "sampling",
+        "justification": "Three assumed cloud fractions describe contrasting sky condition."
+      },
+      {
+        "name": "month",
+        "levels": [
+          "1",
+          "7"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "sampling",
+        "justification": "January and July scenarios in Dhaka. Month is varied as an experimental factor."
+      },
+      {
+        "name": "blind_coverage",
+        "levels": [
+          "0.0",
+          "0.5"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "operation",
+        "justification": "Whether the occupant's blinds were up or half down at the moment of measurement. These are modelled operational alternatives."
+      },
+      {
+        "name": "action_spectrum",
+        "levels": [
+          "cie_s026",
+          "analytic"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "metrology",
+        "justification": "Official CIE S 026 melanopic calibration versus the legacy analytic approximation used by the original testbed. The physical simulation itself remains on the official CIE/ASTM baseline."
+      }
+    ]
+  },
+  "benchmark_specification": {
+    "name": "Benchmark comparison, Model A vs Model B",
+    "n_factors": 5,
+    "n_free": 5,
+    "n_undeclared": 5,
+    "grid_size": 144,
+    "undeclared_grid_size": 144,
+    "factors": [
+      {
+        "name": "extraction",
+        "levels": [
+          "last_number",
+          "first_number",
+          "after_answer_is",
+          "boxed_else_last"
+        ],
+        "n_levels": 4,
+        "declared": false,
+        "domain": "scoring",
+        "justification": "Four answer-extraction rules in common use across public evaluation harnesses. None is mandated by the benchmark."
+      },
+      {
+        "name": "normalisation",
+        "levels": [
+          "exact",
+          "strip_punct",
+          "numeric_tolerant"
+        ],
+        "n_levels": 3,
+        "declared": false,
+        "domain": "scoring",
+        "justification": "String equality, punctuation-stripped equality, and numeric equality. Harnesses differ and rarely say which."
+      },
+      {
+        "name": "abstention",
+        "levels": [
+          "wrong",
+          "excluded"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "scoring",
+        "justification": "Whether a refusal counts against the model or is dropped from the denominator."
+      },
+      {
+        "name": "max_chars",
+        "levels": [
+          "200",
+          "4000"
+        ],
+        "n_levels": 2,
+        "declared": false,
+        "domain": "scoring",
+        "justification": "Response truncation before scoring. A real harness setting that interacts with chain-of-thought formats."
+      },
+      {
+        "name": "subsample_seed",
+        "levels": [
+          "None",
+          "1",
+          "2"
+        ],
+        "n_levels": 3,
+        "declared": false,
+        "domain": "sampling",
+        "justification": "Whether the full set or an 80% resample is scored. Included to separate ordinary sampling noise from specification effects."
+      }
+    ]
+  },
+  "provenance": {
+    "version": "0.2.0",
+    "spectral_inputs": {
+      "official_action_spectra": true,
+      "official_daylight_components": false,
+      "official_solar_spectrum": true
+    },
+    "corpus_seed": 0,
+    "n_items": 600
+  }
+}

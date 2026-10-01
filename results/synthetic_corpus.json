@@ -1,0 +1,7212 @@
+{
+  "A": {
+    "name": "Model A",
+    "rows": [
+      {
+        "gold": 850,
+        "text": "First 7, then 36. So the result is 850",
+        "abstain": false,
+        "correct_value": 850
+      },
+      {
+        "gold": 637,
+        "text": "637 (approximately)",
+        "abstain": false,
+        "correct_value": 637
+      },
+      {
+        "gold": 511,
+        "text": "We compute step by step. \\\\boxed{511}",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 270,
+        "text": "First 17, then 36. So the result is 270.",
+        "abstain": false,
+        "correct_value": 270
+      },
+      {
+        "gold": 308,
+        "text": "We compute step by step. \\\\boxed{310}",
+        "abstain": false,
+        "correct_value": 310
+      },
+      {
+        "gold": 42,
+        "text": "First 45, then 30. So the result is 42",
+        "abstain": false,
+        "correct_value": 42
+      },
+      {
+        "gold": 77,
+        "text": "77 metres",
+        "abstain": false,
+        "correct_value": 77
+      },
+      {
+        "gold": 18,
+        "text": "First 11, then 32. So the result is 18",
+        "abstain": false,
+        "correct_value": 18
+      },
+      {
+        "gold": 176,
+        "text": "The answer is 176.",
+        "abstain": false,
+        "correct_value": 176
+      },
+      {
+        "gold": 812,
+        "text": "The answer is 813.",
+        "abstain": false,
+        "correct_value": 813
+      },
+      {
+        "gold": 649,
+        "text": "The answer is 649.",
+        "abstain": false,
+        "correct_value": 649
+      },
+      {
+        "gold": 912,
+        "text": "The answer is 913.",
+        "abstain": false,
+        "correct_value": 913
+      },
+      {
+        "gold": 504,
+        "text": "504",
+        "abstain": false,
+        "correct_value": 504
+      },
+      {
+        "gold": 606,
+        "text": "606 (approximately)",
+        "abstain": false,
+        "correct_value": 606
+      },
+      {
+        "gold": 969,
+        "text": "First 30, then 32. So the result is 969",
+        "abstain": false,
+        "correct_value": 969
+      },
+      {
+        "gold": 729,
+        "text": "First 38, then 23. So the result is 730.",
+        "abstain": false,
+        "correct_value": 730
+      },
+      {
+        "gold": 632,
+        "text": "636",
+        "abstain": false,
+        "correct_value": 636
+      },
+      {
+        "gold": 543,
+        "text": "We compute step by step. \\\\boxed{543}",
+        "abstain": false,
+        "correct_value": 543
+      },
+      {
+        "gold": 560,
+        "text": "First 21, then 42. So the result is 561",
+        "abstain": false,
+        "correct_value": 561
+      },
+      {
+        "gold": 934,
+        "text": "934 (approximately)",
+        "abstain": false,
+        "correct_value": 934
+      },
+      {
+        "gold": 278,
+        "text": "285 metres",
+        "abstain": false,
+        "correct_value": 285
+      },
+      {
+        "gold": 815,
+        "text": "First 43, then 22. So the result is 822.",
+        "abstain": false,
+        "correct_value": 822
+      },
+      {
+        "gold": 670,
+        "text": "First 6, then 46. So the result is 678",
+        "abstain": false,
+        "correct_value": 678
+      },
+      {
+        "gold": 4,
+        "text": "First 47, then 30. So the result is 7",
+        "abstain": false,
+        "correct_value": 7
+      },
+      {
+        "gold": 394,
+        "text": "399 metres",
+        "abstain": false,
+        "correct_value": 399
+      },
+      {
+        "gold": 856,
+        "text": "The answer is 863.",
+        "abstain": false,
+        "correct_value": 863
+      },
+      {
+        "gold": 554,
+        "text": "554 (approximately)",
+        "abstain": false,
+        "correct_value": 554
+      },
+      {
+        "gold": 35,
+        "text": "35",
+        "abstain": false,
+        "correct_value": 35
+      },
+      {
+        "gold": 764,
+        "text": "We compute step by step. \\\\boxed{764}",
+        "abstain": false,
+        "correct_value": 764
+      },
+      {
+        "gold": 729,
+        "text": "729",
+        "abstain": false,
+        "correct_value": 729
+      },
+      {
+        "gold": 846,
+        "text": "First 26, then 35. So the result is 846",
+        "abstain": false,
+        "correct_value": 846
+      },
+      {
+        "gold": 177,
+        "text": "The answer is 178.",
+        "abstain": false,
+        "correct_value": 178
+      },
+      {
+        "gold": 91,
+        "text": "First 42, then 17. So the result is 91",
+        "abstain": false,
+        "correct_value": 91
+      },
+      {
+        "gold": 862,
+        "text": "We compute step by step. \\\\boxed{862}",
+        "abstain": false,
+        "correct_value": 862
+      },
+      {
+        "gold": 24,
+        "text": "We compute step by step. \\\\boxed{29}",
+        "abstain": false,
+        "correct_value": 29
+      },
+      {
+        "gold": 541,
+        "text": "First 4, then 11. So the result is 542",
+        "abstain": false,
+        "correct_value": 542
+      },
+      {
+        "gold": 82,
+        "text": "First 32, then 49. So the result is 82",
+        "abstain": false,
+        "correct_value": 82
+      },
+      {
+        "gold": 300,
+        "text": "The answer is 300.",
+        "abstain": false,
+        "correct_value": 300
+      },
+      {
+        "gold": 481,
+        "text": "483 (approximately)",
+        "abstain": false,
+        "correct_value": 483
+      },
+      {
+        "gold": 423,
+        "text": "We compute step by step. \\\\boxed{423}",
+        "abstain": false,
+        "correct_value": 423
+      },
+      {
+        "gold": 404,
+        "text": "The answer is 404.",
+        "abstain": false,
+        "correct_value": 404
+      },
+      {
+        "gold": 30,
+        "text": "The answer is 30.",
+        "abstain": false,
+        "correct_value": 30
+      },
+      {
+        "gold": 7,
+        "text": "The answer is 7.",
+        "abstain": false,
+        "correct_value": 7
+      },
+      {
+        "gold": 125,
+        "text": "The answer is 125.",
+        "abstain": false,
+        "correct_value": 125
+      },
+      {
+        "gold": 10,
+        "text": "15 (approximately)",
+        "abstain": false,
+        "correct_value": 15
+      },
+      {
+        "gold": 670,
+        "text": "We compute step by step. \\\\boxed{670}",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 526,
+        "text": "528 metres",
+        "abstain": false,
+        "correct_value": 528
+      },
+      {
+        "gold": 647,
+        "text": "First 33, then 22. So the result is 649.",
+        "abstain": false,
+        "correct_value": 649
+      },
+      {
+        "gold": 258,
+        "text": "First 46, then 45. So the result is 258",
+        "abstain": false,
+        "correct_value": 258
+      },
+      {
+        "gold": 615,
+        "text": "We compute step by step. \\\\boxed{615}",
+        "abstain": false,
+        "correct_value": 615
+      },
+      {
+        "gold": 763,
+        "text": "763",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 384,
+        "text": "388 (approximately)",
+        "abstain": false,
+        "correct_value": 388
+      },
+      {
+        "gold": 461,
+        "text": "We compute step by step. \\\\boxed{461}",
+        "abstain": false,
+        "correct_value": 461
+      },
+      {
+        "gold": 996,
+        "text": "First 43, then 18. So the result is 997",
+        "abstain": false,
+        "correct_value": 997
+      },
+      {
+        "gold": 804,
+        "text": "First 26, then 11. So the result is 804",
+        "abstain": false,
+        "correct_value": 804
+      },
+      {
+        "gold": 979,
+        "text": "We compute step by step. \\\\boxed{979}",
+        "abstain": false,
+        "correct_value": 979
+      },
+      {
+        "gold": 380,
+        "text": "First 16, then 16. So the result is 380.",
+        "abstain": false,
+        "correct_value": 380
+      },
+      {
+        "gold": 685,
+        "text": "The answer is 685.",
+        "abstain": false,
+        "correct_value": 685
+      },
+      {
+        "gold": 949,
+        "text": "First 44, then 49. So the result is 949",
+        "abstain": false,
+        "correct_value": 949
+      },
+      {
+        "gold": 650,
+        "text": "First 23, then 19. So the result is 651.",
+        "abstain": false,
+        "correct_value": 651
+      },
+      {
+        "gold": 839,
+        "text": "First 40, then 15. So the result is 839",
+        "abstain": false,
+        "correct_value": 839
+      },
+      {
+        "gold": 688,
+        "text": "The answer is 688.",
+        "abstain": false,
+        "correct_value": 688
+      },
+      {
+        "gold": 703,
+        "text": "The answer is 703.",
+        "abstain": false,
+        "correct_value": 703
+      },
+      {
+        "gold": 389,
+        "text": "First 25, then 6. So the result is 389.",
+        "abstain": false,
+        "correct_value": 389
+      },
+      {
+        "gold": 874,
+        "text": "874 (approximately)",
+        "abstain": false,
+        "correct_value": 874
+      },
+      {
+        "gold": 136,
+        "text": "136",
+        "abstain": false,
+        "correct_value": 136
+      },
+      {
+        "gold": 579,
+        "text": "First 19, then 36. So the result is 579",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 721,
+        "text": "The answer is 721.",
+        "abstain": false,
+        "correct_value": 721
+      },
+      {
+        "gold": 844,
+        "text": "First 45, then 22. So the result is 844.",
+        "abstain": false,
+        "correct_value": 844
+      },
+      {
+        "gold": 525,
+        "text": "The answer is 525.",
+        "abstain": false,
+        "correct_value": 525
+      },
+      {
+        "gold": 376,
+        "text": "First 4, then 37. So the result is 376",
+        "abstain": false,
+        "correct_value": 376
+      },
+      {
+        "gold": 311,
+        "text": "311",
+        "abstain": false,
+        "correct_value": 311
+      },
+      {
+        "gold": 423,
+        "text": "We compute step by step. \\\\boxed{423}",
+        "abstain": false,
+        "correct_value": 423
+      },
+      {
+        "gold": 486,
+        "text": "486 metres",
+        "abstain": false,
+        "correct_value": 486
+      },
+      {
+        "gold": 718,
+        "text": "718",
+        "abstain": false,
+        "correct_value": 718
+      },
+      {
+        "gold": 888,
+        "text": "888",
+        "abstain": false,
+        "correct_value": 888
+      },
+      {
+        "gold": 74,
+        "text": "81 (approximately)",
+        "abstain": false,
+        "correct_value": 81
+      },
+      {
+        "gold": 933,
+        "text": "First 30, then 35. So the result is 933.",
+        "abstain": false,
+        "correct_value": 933
+      },
+      {
+        "gold": 531,
+        "text": "First 18, then 42. So the result is 535",
+        "abstain": false,
+        "correct_value": 535
+      },
+      {
+        "gold": 358,
+        "text": "First 29, then 21. So the result is 358",
+        "abstain": false,
+        "correct_value": 358
+      },
+      {
+        "gold": 672,
+        "text": "First 24, then 23. So the result is 675.",
+        "abstain": false,
+        "correct_value": 675
+      },
+      {
+        "gold": 571,
+        "text": "We compute step by step. \\\\boxed{571}",
+        "abstain": false,
+        "correct_value": 571
+      },
+      {
+        "gold": 255,
+        "text": "First 26, then 5. So the result is 263.",
+        "abstain": false,
+        "correct_value": 263
+      },
+      {
+        "gold": 322,
+        "text": "The answer is 322.",
+        "abstain": false,
+        "correct_value": 322
+      },
+      {
+        "gold": 719,
+        "text": "719",
+        "abstain": false,
+        "correct_value": 719
+      },
+      {
+        "gold": 594,
+        "text": "594",
+        "abstain": false,
+        "correct_value": 594
+      },
+      {
+        "gold": 504,
+        "text": "First 42, then 12. So the result is 504.",
+        "abstain": false,
+        "correct_value": 504
+      },
+      {
+        "gold": 338,
+        "text": "First 14, then 38. So the result is 338.",
+        "abstain": false,
+        "correct_value": 338
+      },
+      {
+        "gold": 760,
+        "text": "760 (approximately)",
+        "abstain": false,
+        "correct_value": 760
+      },
+      {
+        "gold": 392,
+        "text": "We compute step by step. \\\\boxed{392}",
+        "abstain": false,
+        "correct_value": 392
+      },
+      {
+        "gold": 329,
+        "text": "The answer is 329.",
+        "abstain": false,
+        "correct_value": 329
+      },
+      {
+        "gold": 889,
+        "text": "889 (approximately)",
+        "abstain": false,
+        "correct_value": 889
+      },
+      {
+        "gold": 265,
+        "text": "269 metres",
+        "abstain": false,
+        "correct_value": 269
+      },
+      {
+        "gold": 228,
+        "text": "The answer is 228.",
+        "abstain": false,
+        "correct_value": 228
+      },
+      {
+        "gold": 714,
+        "text": "714 (approximately)",
+        "abstain": false,
+        "correct_value": 714
+      },
+      {
+        "gold": 623,
+        "text": "We compute step by step. \\\\boxed{623}",
+        "abstain": false,
+        "correct_value": 623
+      },
+      {
+        "gold": 50,
+        "text": "The answer is 57.",
+        "abstain": false,
+        "correct_value": 57
+      },
+      {
+        "gold": 85,
+        "text": "First 21, then 21. So the result is 91.",
+        "abstain": false,
+        "correct_value": 91
+      },
+      {
+        "gold": 378,
+        "text": "First 39, then 25. So the result is 378",
+        "abstain": false,
+        "correct_value": 378
+      },
+      {
+        "gold": 832,
+        "text": "832 (approximately)",
+        "abstain": false,
+        "correct_value": 832
+      },
+      {
+        "gold": 401,
+        "text": "404",
+        "abstain": false,
+        "correct_value": 404
+      },
+      {
+        "gold": 786,
+        "text": "First 24, then 22. So the result is 794",
+        "abstain": false,
+        "correct_value": 794
+      },
+      {
+        "gold": 317,
+        "text": "317 metres",
+        "abstain": false,
+        "correct_value": 317
+      },
+      {
+        "gold": 240,
+        "text": "First 31, then 45. So the result is 248",
+        "abstain": false,
+        "correct_value": 248
+      },
+      {
+        "gold": 791,
+        "text": "The answer is 791.",
+        "abstain": false,
+        "correct_value": 791
+      },
+      {
+        "gold": 875,
+        "text": "First 46, then 31. So the result is 875.",
+        "abstain": false,
+        "correct_value": 875
+      },
+      {
+        "gold": 81,
+        "text": "We compute step by step. \\\\boxed{81}",
+        "abstain": false,
+        "correct_value": 81
+      },
+      {
+        "gold": 60,
+        "text": "First 45, then 20. So the result is 60",
+        "abstain": false,
+        "correct_value": 60
+      },
+      {
+        "gold": 671,
+        "text": "First 22, then 48. So the result is 671.",
+        "abstain": false,
+        "correct_value": 671
+      },
+      {
+        "gold": 337,
+        "text": "337",
+        "abstain": false,
+        "correct_value": 337
+      },
+      {
+        "gold": 573,
+        "text": "We compute step by step. \\\\boxed{573}",
+        "abstain": false,
+        "correct_value": 573
+      },
+      {
+        "gold": 151,
+        "text": "First 40, then 35. So the result is 151",
+        "abstain": false,
+        "correct_value": 151
+      },
+      {
+        "gold": 859,
+        "text": "First 13, then 29. So the result is 859",
+        "abstain": false,
+        "correct_value": 859
+      },
+      {
+        "gold": 450,
+        "text": "450 metres",
+        "abstain": false,
+        "correct_value": 450
+      },
+      {
+        "gold": 894,
+        "text": "We compute step by step. \\\\boxed{894}",
+        "abstain": false,
+        "correct_value": 894
+      },
+      {
+        "gold": 795,
+        "text": "We compute step by step. \\\\boxed{798}",
+        "abstain": false,
+        "correct_value": 798
+      },
+      {
+        "gold": 705,
+        "text": "First 14, then 29. So the result is 705.",
+        "abstain": false,
+        "correct_value": 705
+      },
+      {
+        "gold": 231,
+        "text": "231 (approximately)",
+        "abstain": false,
+        "correct_value": 231
+      },
+      {
+        "gold": 766,
+        "text": "First 44, then 17. So the result is 766.",
+        "abstain": false,
+        "correct_value": 766
+      },
+      {
+        "gold": 53,
+        "text": "53 (approximately)",
+        "abstain": false,
+        "correct_value": 53
+      },
+      {
+        "gold": 570,
+        "text": "We compute step by step. \\\\boxed{570}",
+        "abstain": false,
+        "correct_value": 570
+      },
+      {
+        "gold": 405,
+        "text": "406",
+        "abstain": false,
+        "correct_value": 406
+      },
+      {
+        "gold": 995,
+        "text": "995",
+        "abstain": false,
+        "correct_value": 995
+      },
+      {
+        "gold": 199,
+        "text": "The answer is 205.",
+        "abstain": false,
+        "correct_value": 205
+      },
+      {
+        "gold": 945,
+        "text": "First 16, then 20. So the result is 945.",
+        "abstain": false,
+        "correct_value": 945
+      },
+      {
+        "gold": 92,
+        "text": "98 (approximately)",
+        "abstain": false,
+        "correct_value": 98
+      },
+      {
+        "gold": 623,
+        "text": "623 (approximately)",
+        "abstain": false,
+        "correct_value": 623
+      },
+      {
+        "gold": 580,
+        "text": "First 38, then 33. So the result is 580.",
+        "abstain": false,
+        "correct_value": 580
+      },
+      {
+        "gold": 898,
+        "text": "We compute step by step. \\\\boxed{906}",
+        "abstain": false,
+        "correct_value": 906
+      },
+      {
+        "gold": 299,
+        "text": "299 (approximately)",
+        "abstain": false,
+        "correct_value": 299
+      },
+      {
+        "gold": 901,
+        "text": "901 (approximately)",
+        "abstain": false,
+        "correct_value": 901
+      },
+      {
+        "gold": 671,
+        "text": "First 19, then 2. So the result is 671.",
+        "abstain": false,
+        "correct_value": 671
+      },
+      {
+        "gold": 889,
+        "text": "First 30, then 24. So the result is 893",
+        "abstain": false,
+        "correct_value": 893
+      },
+      {
+        "gold": 200,
+        "text": "207 metres",
+        "abstain": false,
+        "correct_value": 207
+      },
+      {
+        "gold": 757,
+        "text": "The answer is 760.",
+        "abstain": false,
+        "correct_value": 760
+      },
+      {
+        "gold": 941,
+        "text": "941 metres",
+        "abstain": false,
+        "correct_value": 941
+      },
+      {
+        "gold": 50,
+        "text": "We compute step by step. \\\\boxed{50}",
+        "abstain": false,
+        "correct_value": 50
+      },
+      {
+        "gold": 366,
+        "text": "The answer is 366.",
+        "abstain": false,
+        "correct_value": 366
+      },
+      {
+        "gold": 636,
+        "text": "We compute step by step. \\\\boxed{636}",
+        "abstain": false,
+        "correct_value": 636
+      },
+      {
+        "gold": 107,
+        "text": "107 (approximately)",
+        "abstain": false,
+        "correct_value": 107
+      },
+      {
+        "gold": 510,
+        "text": "512",
+        "abstain": false,
+        "correct_value": 512
+      },
+      {
+        "gold": 629,
+        "text": "First 28, then 44. So the result is 629.",
+        "abstain": false,
+        "correct_value": 629
+      },
+      {
+        "gold": 763,
+        "text": "763",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 926,
+        "text": "926 (approximately)",
+        "abstain": false,
+        "correct_value": 926
+      },
+      {
+        "gold": 410,
+        "text": "The answer is 410.",
+        "abstain": false,
+        "correct_value": 410
+      },
+      {
+        "gold": 441,
+        "text": "441",
+        "abstain": false,
+        "correct_value": 441
+      },
+      {
+        "gold": 474,
+        "text": "We compute step by step. \\\\boxed{474}",
+        "abstain": false,
+        "correct_value": 474
+      },
+      {
+        "gold": 953,
+        "text": "953",
+        "abstain": false,
+        "correct_value": 953
+      },
+      {
+        "gold": 197,
+        "text": "First 27, then 15. So the result is 197.",
+        "abstain": false,
+        "correct_value": 197
+      },
+      {
+        "gold": 500,
+        "text": "500 metres",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 51,
+        "text": "51 (approximately)",
+        "abstain": false,
+        "correct_value": 51
+      },
+      {
+        "gold": 425,
+        "text": "425 metres",
+        "abstain": false,
+        "correct_value": 425
+      },
+      {
+        "gold": 944,
+        "text": "950 (approximately)",
+        "abstain": false,
+        "correct_value": 950
+      },
+      {
+        "gold": 620,
+        "text": "620 (approximately)",
+        "abstain": false,
+        "correct_value": 620
+      },
+      {
+        "gold": 350,
+        "text": "350 (approximately)",
+        "abstain": false,
+        "correct_value": 350
+      },
+      {
+        "gold": 994,
+        "text": "First 10, then 29. So the result is 994",
+        "abstain": false,
+        "correct_value": 994
+      },
+      {
+        "gold": 603,
+        "text": "First 14, then 20. So the result is 603.",
+        "abstain": false,
+        "correct_value": 603
+      },
+      {
+        "gold": 948,
+        "text": "We compute step by step. \\\\boxed{948}",
+        "abstain": false,
+        "correct_value": 948
+      },
+      {
+        "gold": 18,
+        "text": "First 24, then 4. So the result is 18.",
+        "abstain": false,
+        "correct_value": 18
+      },
+      {
+        "gold": 460,
+        "text": "The answer is 460.",
+        "abstain": false,
+        "correct_value": 460
+      },
+      {
+        "gold": 834,
+        "text": "First 9, then 24. So the result is 842",
+        "abstain": false,
+        "correct_value": 842
+      },
+      {
+        "gold": 757,
+        "text": "First 48, then 41. So the result is 757.",
+        "abstain": false,
+        "correct_value": 757
+      },
+      {
+        "gold": 408,
+        "text": "First 42, then 17. So the result is 408",
+        "abstain": false,
+        "correct_value": 408
+      },
+      {
+        "gold": 497,
+        "text": "497 (approximately)",
+        "abstain": false,
+        "correct_value": 497
+      },
+      {
+        "gold": 420,
+        "text": "First 26, then 28. So the result is 420",
+        "abstain": false,
+        "correct_value": 420
+      },
+      {
+        "gold": 529,
+        "text": "First 28, then 43. So the result is 529.",
+        "abstain": false,
+        "correct_value": 529
+      },
+      {
+        "gold": 231,
+        "text": "231",
+        "abstain": false,
+        "correct_value": 231
+      },
+      {
+        "gold": 785,
+        "text": "The answer is 785.",
+        "abstain": false,
+        "correct_value": 785
+      },
+      {
+        "gold": 79,
+        "text": "We compute step by step. \\\\boxed{83}",
+        "abstain": false,
+        "correct_value": 83
+      },
+      {
+        "gold": 415,
+        "text": "420 (approximately)",
+        "abstain": false,
+        "correct_value": 420
+      },
+      {
+        "gold": 283,
+        "text": "We compute step by step. \\\\boxed{284}",
+        "abstain": false,
+        "correct_value": 284
+      },
+      {
+        "gold": 734,
+        "text": "736 (approximately)",
+        "abstain": false,
+        "correct_value": 736
+      },
+      {
+        "gold": 749,
+        "text": "753 (approximately)",
+        "abstain": false,
+        "correct_value": 753
+      },
+      {
+        "gold": 711,
+        "text": "711",
+        "abstain": false,
+        "correct_value": 711
+      },
+      {
+        "gold": 923,
+        "text": "First 30, then 3. So the result is 926",
+        "abstain": false,
+        "correct_value": 926
+      },
+      {
+        "gold": 931,
+        "text": "We compute step by step. \\\\boxed{931}",
+        "abstain": false,
+        "correct_value": 931
+      },
+      {
+        "gold": 186,
+        "text": "First 42, then 38. So the result is 193.",
+        "abstain": false,
+        "correct_value": 193
+      },
+      {
+        "gold": 116,
+        "text": "First 40, then 14. So the result is 116",
+        "abstain": false,
+        "correct_value": 116
+      },
+      {
+        "gold": 133,
+        "text": "First 40, then 29. So the result is 133.",
+        "abstain": false,
+        "correct_value": 133
+      },
+      {
+        "gold": 728,
+        "text": "First 13, then 27. So the result is 733.",
+        "abstain": false,
+        "correct_value": 733
+      },
+      {
+        "gold": 969,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 926,
+        "text": "926 (approximately)",
+        "abstain": false,
+        "correct_value": 926
+      },
+      {
+        "gold": 668,
+        "text": "First 37, then 32. So the result is 668.",
+        "abstain": false,
+        "correct_value": 668
+      },
+      {
+        "gold": 967,
+        "text": "The answer is 967.",
+        "abstain": false,
+        "correct_value": 967
+      },
+      {
+        "gold": 870,
+        "text": "870",
+        "abstain": false,
+        "correct_value": 870
+      },
+      {
+        "gold": 16,
+        "text": "16 (approximately)",
+        "abstain": false,
+        "correct_value": 16
+      },
+      {
+        "gold": 120,
+        "text": "123",
+        "abstain": false,
+        "correct_value": 123
+      },
+      {
+        "gold": 863,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 84,
+        "text": "84 (approximately)",
+        "abstain": false,
+        "correct_value": 84
+      },
+      {
+        "gold": 980,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 826,
+        "text": "834 metres",
+        "abstain": false,
+        "correct_value": 834
+      },
+      {
+        "gold": 956,
+        "text": "First 38, then 37. So the result is 956.",
+        "abstain": false,
+        "correct_value": 956
+      },
+      {
+        "gold": 361,
+        "text": "We compute step by step. \\\\boxed{361}",
+        "abstain": false,
+        "correct_value": 361
+      },
+      {
+        "gold": 150,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 517,
+        "text": "The answer is 517.",
+        "abstain": false,
+        "correct_value": 517
+      },
+      {
+        "gold": 971,
+        "text": "First 33, then 27. So the result is 972",
+        "abstain": false,
+        "correct_value": 972
+      },
+      {
+        "gold": 368,
+        "text": "368 metres",
+        "abstain": false,
+        "correct_value": 368
+      },
+      {
+        "gold": 889,
+        "text": "889 (approximately)",
+        "abstain": false,
+        "correct_value": 889
+      },
+      {
+        "gold": 384,
+        "text": "390 metres",
+        "abstain": false,
+        "correct_value": 390
+      },
+      {
+        "gold": 821,
+        "text": "821",
+        "abstain": false,
+        "correct_value": 821
+      },
+      {
+        "gold": 230,
+        "text": "230 (approximately)",
+        "abstain": false,
+        "correct_value": 230
+      },
+      {
+        "gold": 480,
+        "text": "The answer is 480.",
+        "abstain": false,
+        "correct_value": 480
+      },
+      {
+        "gold": 327,
+        "text": "First 46, then 7. So the result is 327",
+        "abstain": false,
+        "correct_value": 327
+      },
+      {
+        "gold": 233,
+        "text": "First 38, then 25. So the result is 239.",
+        "abstain": false,
+        "correct_value": 239
+      },
+      {
+        "gold": 892,
+        "text": "892",
+        "abstain": false,
+        "correct_value": 892
+      },
+      {
+        "gold": 801,
+        "text": "801 (approximately)",
+        "abstain": false,
+        "correct_value": 801
+      },
+      {
+        "gold": 141,
+        "text": "The answer is 141.",
+        "abstain": false,
+        "correct_value": 141
+      },
+      {
+        "gold": 922,
+        "text": "First 33, then 25. So the result is 922.",
+        "abstain": false,
+        "correct_value": 922
+      },
+      {
+        "gold": 970,
+        "text": "First 9, then 24. So the result is 973",
+        "abstain": false,
+        "correct_value": 973
+      },
+      {
+        "gold": 267,
+        "text": "267",
+        "abstain": false,
+        "correct_value": 267
+      },
+      {
+        "gold": 427,
+        "text": "The answer is 427.",
+        "abstain": false,
+        "correct_value": 427
+      },
+      {
+        "gold": 539,
+        "text": "The answer is 539.",
+        "abstain": false,
+        "correct_value": 539
+      },
+      {
+        "gold": 657,
+        "text": "First 48, then 14. So the result is 657.",
+        "abstain": false,
+        "correct_value": 657
+      },
+      {
+        "gold": 443,
+        "text": "The answer is 443.",
+        "abstain": false,
+        "correct_value": 443
+      },
+      {
+        "gold": 150,
+        "text": "First 27, then 10. So the result is 150.",
+        "abstain": false,
+        "correct_value": 150
+      },
+      {
+        "gold": 930,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 691,
+        "text": "691 (approximately)",
+        "abstain": false,
+        "correct_value": 691
+      },
+      {
+        "gold": 42,
+        "text": "42 metres",
+        "abstain": false,
+        "correct_value": 42
+      },
+      {
+        "gold": 813,
+        "text": "816",
+        "abstain": false,
+        "correct_value": 816
+      },
+      {
+        "gold": 731,
+        "text": "732 (approximately)",
+        "abstain": false,
+        "correct_value": 732
+      },
+      {
+        "gold": 184,
+        "text": "First 28, then 47. So the result is 184.",
+        "abstain": false,
+        "correct_value": 184
+      },
+      {
+        "gold": 614,
+        "text": "The answer is 614.",
+        "abstain": false,
+        "correct_value": 614
+      },
+      {
+        "gold": 502,
+        "text": "502",
+        "abstain": false,
+        "correct_value": 502
+      },
+      {
+        "gold": 30,
+        "text": "First 27, then 48. So the result is 30.",
+        "abstain": false,
+        "correct_value": 30
+      },
+      {
+        "gold": 926,
+        "text": "926 metres",
+        "abstain": false,
+        "correct_value": 926
+      },
+      {
+        "gold": 719,
+        "text": "First 33, then 15. So the result is 719",
+        "abstain": false,
+        "correct_value": 719
+      },
+      {
+        "gold": 311,
+        "text": "The answer is 311.",
+        "abstain": false,
+        "correct_value": 311
+      },
+      {
+        "gold": 17,
+        "text": "24 (approximately)",
+        "abstain": false,
+        "correct_value": 24
+      },
+      {
+        "gold": 93,
+        "text": "First 8, then 30. So the result is 97.",
+        "abstain": false,
+        "correct_value": 97
+      },
+      {
+        "gold": 757,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 150,
+        "text": "150 (approximately)",
+        "abstain": false,
+        "correct_value": 150
+      },
+      {
+        "gold": 513,
+        "text": "First 18, then 29. So the result is 513.",
+        "abstain": false,
+        "correct_value": 513
+      },
+      {
+        "gold": 898,
+        "text": "First 24, then 4. So the result is 898.",
+        "abstain": false,
+        "correct_value": 898
+      },
+      {
+        "gold": 928,
+        "text": "We compute step by step. \\\\boxed{928}",
+        "abstain": false,
+        "correct_value": 928
+      },
+      {
+        "gold": 269,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 67,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 495,
+        "text": "First 13, then 11. So the result is 495",
+        "abstain": false,
+        "correct_value": 495
+      },
+      {
+        "gold": 840,
+        "text": "846 metres",
+        "abstain": false,
+        "correct_value": 846
+      },
+      {
+        "gold": 624,
+        "text": "First 22, then 10. So the result is 624.",
+        "abstain": false,
+        "correct_value": 624
+      },
+      {
+        "gold": 68,
+        "text": "First 46, then 40. So the result is 68.",
+        "abstain": false,
+        "correct_value": 68
+      },
+      {
+        "gold": 650,
+        "text": "The answer is 650.",
+        "abstain": false,
+        "correct_value": 650
+      },
+      {
+        "gold": 345,
+        "text": "The answer is 345.",
+        "abstain": false,
+        "correct_value": 345
+      },
+      {
+        "gold": 227,
+        "text": "We compute step by step. \\\\boxed{233}",
+        "abstain": false,
+        "correct_value": 233
+      },
+      {
+        "gold": 431,
+        "text": "First 25, then 30. So the result is 431",
+        "abstain": false,
+        "correct_value": 431
+      },
+      {
+        "gold": 872,
+        "text": "First 48, then 9. So the result is 872",
+        "abstain": false,
+        "correct_value": 872
+      },
+      {
+        "gold": 965,
+        "text": "965 (approximately)",
+        "abstain": false,
+        "correct_value": 965
+      },
+      {
+        "gold": 142,
+        "text": "First 3, then 49. So the result is 145.",
+        "abstain": false,
+        "correct_value": 145
+      },
+      {
+        "gold": 562,
+        "text": "562",
+        "abstain": false,
+        "correct_value": 562
+      },
+      {
+        "gold": 761,
+        "text": "We compute step by step. \\\\boxed{763}",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 260,
+        "text": "The answer is 265.",
+        "abstain": false,
+        "correct_value": 265
+      },
+      {
+        "gold": 273,
+        "text": "First 49, then 48. So the result is 280",
+        "abstain": false,
+        "correct_value": 280
+      },
+      {
+        "gold": 242,
+        "text": "First 29, then 21. So the result is 248",
+        "abstain": false,
+        "correct_value": 248
+      },
+      {
+        "gold": 210,
+        "text": "210",
+        "abstain": false,
+        "correct_value": 210
+      },
+      {
+        "gold": 887,
+        "text": "888 metres",
+        "abstain": false,
+        "correct_value": 888
+      },
+      {
+        "gold": 219,
+        "text": "219 (approximately)",
+        "abstain": false,
+        "correct_value": 219
+      },
+      {
+        "gold": 227,
+        "text": "We compute step by step. \\\\boxed{227}",
+        "abstain": false,
+        "correct_value": 227
+      },
+      {
+        "gold": 127,
+        "text": "132",
+        "abstain": false,
+        "correct_value": 132
+      },
+      {
+        "gold": 126,
+        "text": "133 metres",
+        "abstain": false,
+        "correct_value": 133
+      },
+      {
+        "gold": 778,
+        "text": "778",
+        "abstain": false,
+        "correct_value": 778
+      },
+      {
+        "gold": 289,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 801,
+        "text": "First 42, then 38. So the result is 802.",
+        "abstain": false,
+        "correct_value": 802
+      },
+      {
+        "gold": 586,
+        "text": "First 49, then 48. So the result is 586",
+        "abstain": false,
+        "correct_value": 586
+      },
+      {
+        "gold": 857,
+        "text": "We compute step by step. \\\\boxed{857}",
+        "abstain": false,
+        "correct_value": 857
+      },
+      {
+        "gold": 554,
+        "text": "First 18, then 17. So the result is 554.",
+        "abstain": false,
+        "correct_value": 554
+      },
+      {
+        "gold": 763,
+        "text": "763",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 809,
+        "text": "First 21, then 35. So the result is 809",
+        "abstain": false,
+        "correct_value": 809
+      },
+      {
+        "gold": 62,
+        "text": "62 (approximately)",
+        "abstain": false,
+        "correct_value": 62
+      },
+      {
+        "gold": 560,
+        "text": "We compute step by step. \\\\boxed{560}",
+        "abstain": false,
+        "correct_value": 560
+      },
+      {
+        "gold": 455,
+        "text": "We compute step by step. \\\\boxed{455}",
+        "abstain": false,
+        "correct_value": 455
+      },
+      {
+        "gold": 289,
+        "text": "294 (approximately)",
+        "abstain": false,
+        "correct_value": 294
+      },
+      {
+        "gold": 453,
+        "text": "We compute step by step. \\\\boxed{453}",
+        "abstain": false,
+        "correct_value": 453
+      },
+      {
+        "gold": 413,
+        "text": "The answer is 414.",
+        "abstain": false,
+        "correct_value": 414
+      },
+      {
+        "gold": 492,
+        "text": "492 (approximately)",
+        "abstain": false,
+        "correct_value": 492
+      },
+      {
+        "gold": 817,
+        "text": "819",
+        "abstain": false,
+        "correct_value": 819
+      },
+      {
+        "gold": 825,
+        "text": "We compute step by step. \\\\boxed{831}",
+        "abstain": false,
+        "correct_value": 831
+      },
+      {
+        "gold": 626,
+        "text": "First 19, then 3. So the result is 626",
+        "abstain": false,
+        "correct_value": 626
+      },
+      {
+        "gold": 710,
+        "text": "First 7, then 20. So the result is 710",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 958,
+        "text": "958 metres",
+        "abstain": false,
+        "correct_value": 958
+      },
+      {
+        "gold": 636,
+        "text": "We compute step by step. \\\\boxed{637}",
+        "abstain": false,
+        "correct_value": 637
+      },
+      {
+        "gold": 370,
+        "text": "First 48, then 43. So the result is 370",
+        "abstain": false,
+        "correct_value": 370
+      },
+      {
+        "gold": 83,
+        "text": "First 11, then 10. So the result is 83.",
+        "abstain": false,
+        "correct_value": 83
+      },
+      {
+        "gold": 552,
+        "text": "We compute step by step. \\\\boxed{552}",
+        "abstain": false,
+        "correct_value": 552
+      },
+      {
+        "gold": 232,
+        "text": "First 19, then 45. So the result is 235.",
+        "abstain": false,
+        "correct_value": 235
+      },
+      {
+        "gold": 594,
+        "text": "First 10, then 49. So the result is 594.",
+        "abstain": false,
+        "correct_value": 594
+      },
+      {
+        "gold": 27,
+        "text": "The answer is 27.",
+        "abstain": false,
+        "correct_value": 27
+      },
+      {
+        "gold": 847,
+        "text": "The answer is 847.",
+        "abstain": false,
+        "correct_value": 847
+      },
+      {
+        "gold": 943,
+        "text": "943 metres",
+        "abstain": false,
+        "correct_value": 943
+      },
+      {
+        "gold": 147,
+        "text": "First 46, then 37. So the result is 147",
+        "abstain": false,
+        "correct_value": 147
+      },
+      {
+        "gold": 818,
+        "text": "First 22, then 11. So the result is 818",
+        "abstain": false,
+        "correct_value": 818
+      },
+      {
+        "gold": 407,
+        "text": "We compute step by step. \\\\boxed{414}",
+        "abstain": false,
+        "correct_value": 414
+      },
+      {
+        "gold": 43,
+        "text": "We compute step by step. \\\\boxed{43}",
+        "abstain": false,
+        "correct_value": 43
+      },
+      {
+        "gold": 909,
+        "text": "We compute step by step. \\\\boxed{909}",
+        "abstain": false,
+        "correct_value": 909
+      },
+      {
+        "gold": 940,
+        "text": "940 metres",
+        "abstain": false,
+        "correct_value": 940
+      },
+      {
+        "gold": 44,
+        "text": "We compute step by step. \\\\boxed{49}",
+        "abstain": false,
+        "correct_value": 49
+      },
+      {
+        "gold": 593,
+        "text": "First 39, then 43. So the result is 593",
+        "abstain": false,
+        "correct_value": 593
+      },
+      {
+        "gold": 822,
+        "text": "We compute step by step. \\\\boxed{827}",
+        "abstain": false,
+        "correct_value": 827
+      },
+      {
+        "gold": 789,
+        "text": "First 30, then 24. So the result is 789",
+        "abstain": false,
+        "correct_value": 789
+      },
+      {
+        "gold": 416,
+        "text": "416",
+        "abstain": false,
+        "correct_value": 416
+      },
+      {
+        "gold": 859,
+        "text": "859 (approximately)",
+        "abstain": false,
+        "correct_value": 859
+      },
+      {
+        "gold": 829,
+        "text": "We compute step by step. \\\\boxed{837}",
+        "abstain": false,
+        "correct_value": 837
+      },
+      {
+        "gold": 115,
+        "text": "First 23, then 18. So the result is 115",
+        "abstain": false,
+        "correct_value": 115
+      },
+      {
+        "gold": 11,
+        "text": "First 2, then 27. So the result is 11.",
+        "abstain": false,
+        "correct_value": 11
+      },
+      {
+        "gold": 103,
+        "text": "We compute step by step. \\\\boxed{103}",
+        "abstain": false,
+        "correct_value": 103
+      },
+      {
+        "gold": 365,
+        "text": "The answer is 365.",
+        "abstain": false,
+        "correct_value": 365
+      },
+      {
+        "gold": 111,
+        "text": "First 9, then 8. So the result is 119.",
+        "abstain": false,
+        "correct_value": 119
+      },
+      {
+        "gold": 80,
+        "text": "The answer is 80.",
+        "abstain": false,
+        "correct_value": 80
+      },
+      {
+        "gold": 259,
+        "text": "First 3, then 12. So the result is 260",
+        "abstain": false,
+        "correct_value": 260
+      },
+      {
+        "gold": 652,
+        "text": "652 metres",
+        "abstain": false,
+        "correct_value": 652
+      },
+      {
+        "gold": 524,
+        "text": "We compute step by step. \\\\boxed{524}",
+        "abstain": false,
+        "correct_value": 524
+      },
+      {
+        "gold": 275,
+        "text": "275 (approximately)",
+        "abstain": false,
+        "correct_value": 275
+      },
+      {
+        "gold": 949,
+        "text": "First 16, then 26. So the result is 957",
+        "abstain": false,
+        "correct_value": 957
+      },
+      {
+        "gold": 702,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 634,
+        "text": "634 metres",
+        "abstain": false,
+        "correct_value": 634
+      },
+      {
+        "gold": 942,
+        "text": "We compute step by step. \\\\boxed{950}",
+        "abstain": false,
+        "correct_value": 950
+      },
+      {
+        "gold": 785,
+        "text": "First 13, then 18. So the result is 785.",
+        "abstain": false,
+        "correct_value": 785
+      },
+      {
+        "gold": 128,
+        "text": "We compute step by step. \\\\boxed{128}",
+        "abstain": false,
+        "correct_value": 128
+      },
+      {
+        "gold": 38,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 864,
+        "text": "First 38, then 31. So the result is 864",
+        "abstain": false,
+        "correct_value": 864
+      },
+      {
+        "gold": 408,
+        "text": "First 9, then 46. So the result is 413.",
+        "abstain": false,
+        "correct_value": 413
+      },
+      {
+        "gold": 61,
+        "text": "We compute step by step. \\\\boxed{68}",
+        "abstain": false,
+        "correct_value": 68
+      },
+      {
+        "gold": 477,
+        "text": "First 23, then 13. So the result is 477",
+        "abstain": false,
+        "correct_value": 477
+      },
+      {
+        "gold": 381,
+        "text": "First 45, then 23. So the result is 381.",
+        "abstain": false,
+        "correct_value": 381
+      },
+      {
+        "gold": 431,
+        "text": "431 (approximately)",
+        "abstain": false,
+        "correct_value": 431
+      },
+      {
+        "gold": 430,
+        "text": "430 metres",
+        "abstain": false,
+        "correct_value": 430
+      },
+      {
+        "gold": 315,
+        "text": "320",
+        "abstain": false,
+        "correct_value": 320
+      },
+      {
+        "gold": 489,
+        "text": "We compute step by step. \\\\boxed{489}",
+        "abstain": false,
+        "correct_value": 489
+      },
+      {
+        "gold": 492,
+        "text": "First 22, then 18. So the result is 500",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 975,
+        "text": "The answer is 975.",
+        "abstain": false,
+        "correct_value": 975
+      },
+      {
+        "gold": 692,
+        "text": "The answer is 692.",
+        "abstain": false,
+        "correct_value": 692
+      },
+      {
+        "gold": 775,
+        "text": "775 (approximately)",
+        "abstain": false,
+        "correct_value": 775
+      },
+      {
+        "gold": 10,
+        "text": "The answer is 16.",
+        "abstain": false,
+        "correct_value": 16
+      },
+      {
+        "gold": 309,
+        "text": "We compute step by step. \\\\boxed{310}",
+        "abstain": false,
+        "correct_value": 310
+      },
+      {
+        "gold": 982,
+        "text": "First 33, then 37. So the result is 989",
+        "abstain": false,
+        "correct_value": 989
+      },
+      {
+        "gold": 271,
+        "text": "We compute step by step. \\\\boxed{271}",
+        "abstain": false,
+        "correct_value": 271
+      },
+      {
+        "gold": 510,
+        "text": "The answer is 510.",
+        "abstain": false,
+        "correct_value": 510
+      },
+      {
+        "gold": 862,
+        "text": "First 47, then 33. So the result is 862.",
+        "abstain": false,
+        "correct_value": 862
+      },
+      {
+        "gold": 638,
+        "text": "First 42, then 37. So the result is 638",
+        "abstain": false,
+        "correct_value": 638
+      },
+      {
+        "gold": 880,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 165,
+        "text": "165 metres",
+        "abstain": false,
+        "correct_value": 165
+      },
+      {
+        "gold": 511,
+        "text": "We compute step by step. \\\\boxed{511}",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 635,
+        "text": "First 21, then 3. So the result is 635",
+        "abstain": false,
+        "correct_value": 635
+      },
+      {
+        "gold": 345,
+        "text": "First 5, then 19. So the result is 345.",
+        "abstain": false,
+        "correct_value": 345
+      },
+      {
+        "gold": 574,
+        "text": "First 28, then 10. So the result is 581",
+        "abstain": false,
+        "correct_value": 581
+      },
+      {
+        "gold": 993,
+        "text": "First 45, then 22. So the result is 993.",
+        "abstain": false,
+        "correct_value": 993
+      },
+      {
+        "gold": 736,
+        "text": "The answer is 736.",
+        "abstain": false,
+        "correct_value": 736
+      },
+      {
+        "gold": 316,
+        "text": "First 22, then 47. So the result is 316.",
+        "abstain": false,
+        "correct_value": 316
+      },
+      {
+        "gold": 65,
+        "text": "We compute step by step. \\\\boxed{65}",
+        "abstain": false,
+        "correct_value": 65
+      },
+      {
+        "gold": 184,
+        "text": "First 29, then 5. So the result is 188.",
+        "abstain": false,
+        "correct_value": 188
+      },
+      {
+        "gold": 273,
+        "text": "We compute step by step. \\\\boxed{273}",
+        "abstain": false,
+        "correct_value": 273
+      },
+      {
+        "gold": 879,
+        "text": "We compute step by step. \\\\boxed{879}",
+        "abstain": false,
+        "correct_value": 879
+      },
+      {
+        "gold": 272,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 811,
+        "text": "First 10, then 22. So the result is 811.",
+        "abstain": false,
+        "correct_value": 811
+      },
+      {
+        "gold": 275,
+        "text": "275 metres",
+        "abstain": false,
+        "correct_value": 275
+      },
+      {
+        "gold": 667,
+        "text": "We compute step by step. \\\\boxed{667}",
+        "abstain": false,
+        "correct_value": 667
+      },
+      {
+        "gold": 527,
+        "text": "527 metres",
+        "abstain": false,
+        "correct_value": 527
+      },
+      {
+        "gold": 957,
+        "text": "First 11, then 27. So the result is 957",
+        "abstain": false,
+        "correct_value": 957
+      },
+      {
+        "gold": 566,
+        "text": "569 (approximately)",
+        "abstain": false,
+        "correct_value": 569
+      },
+      {
+        "gold": 924,
+        "text": "We compute step by step. \\\\boxed{924}",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 961,
+        "text": "We compute step by step. \\\\boxed{961}",
+        "abstain": false,
+        "correct_value": 961
+      },
+      {
+        "gold": 748,
+        "text": "748 (approximately)",
+        "abstain": false,
+        "correct_value": 748
+      },
+      {
+        "gold": 628,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 860,
+        "text": "The answer is 860.",
+        "abstain": false,
+        "correct_value": 860
+      },
+      {
+        "gold": 995,
+        "text": "995 metres",
+        "abstain": false,
+        "correct_value": 995
+      },
+      {
+        "gold": 248,
+        "text": "The answer is 255.",
+        "abstain": false,
+        "correct_value": 255
+      },
+      {
+        "gold": 562,
+        "text": "We compute step by step. \\\\boxed{562}",
+        "abstain": false,
+        "correct_value": 562
+      },
+      {
+        "gold": 142,
+        "text": "First 41, then 37. So the result is 142.",
+        "abstain": false,
+        "correct_value": 142
+      },
+      {
+        "gold": 106,
+        "text": "First 16, then 8. So the result is 106.",
+        "abstain": false,
+        "correct_value": 106
+      },
+      {
+        "gold": 670,
+        "text": "First 29, then 11. So the result is 670.",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 49,
+        "text": "49 (approximately)",
+        "abstain": false,
+        "correct_value": 49
+      },
+      {
+        "gold": 714,
+        "text": "First 31, then 47. So the result is 720",
+        "abstain": false,
+        "correct_value": 720
+      },
+      {
+        "gold": 820,
+        "text": "First 41, then 12. So the result is 820",
+        "abstain": false,
+        "correct_value": 820
+      },
+      {
+        "gold": 168,
+        "text": "173 metres",
+        "abstain": false,
+        "correct_value": 173
+      },
+      {
+        "gold": 680,
+        "text": "First 16, then 13. So the result is 680.",
+        "abstain": false,
+        "correct_value": 680
+      },
+      {
+        "gold": 396,
+        "text": "First 33, then 43. So the result is 398",
+        "abstain": false,
+        "correct_value": 398
+      },
+      {
+        "gold": 892,
+        "text": "First 16, then 35. So the result is 892",
+        "abstain": false,
+        "correct_value": 892
+      },
+      {
+        "gold": 909,
+        "text": "The answer is 909.",
+        "abstain": false,
+        "correct_value": 909
+      },
+      {
+        "gold": 577,
+        "text": "We compute step by step. \\\\boxed{577}",
+        "abstain": false,
+        "correct_value": 577
+      },
+      {
+        "gold": 561,
+        "text": "561",
+        "abstain": false,
+        "correct_value": 561
+      },
+      {
+        "gold": 710,
+        "text": "First 22, then 32. So the result is 710",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 578,
+        "text": "578",
+        "abstain": false,
+        "correct_value": 578
+      },
+      {
+        "gold": 745,
+        "text": "745",
+        "abstain": false,
+        "correct_value": 745
+      },
+      {
+        "gold": 195,
+        "text": "195 metres",
+        "abstain": false,
+        "correct_value": 195
+      },
+      {
+        "gold": 781,
+        "text": "We compute step by step. \\\\boxed{781}",
+        "abstain": false,
+        "correct_value": 781
+      },
+      {
+        "gold": 526,
+        "text": "First 43, then 35. So the result is 526",
+        "abstain": false,
+        "correct_value": 526
+      },
+      {
+        "gold": 751,
+        "text": "First 29, then 17. So the result is 751.",
+        "abstain": false,
+        "correct_value": 751
+      },
+      {
+        "gold": 523,
+        "text": "The answer is 523.",
+        "abstain": false,
+        "correct_value": 523
+      },
+      {
+        "gold": 307,
+        "text": "The answer is 307.",
+        "abstain": false,
+        "correct_value": 307
+      },
+      {
+        "gold": 90,
+        "text": "94 (approximately)",
+        "abstain": false,
+        "correct_value": 94
+      },
+      {
+        "gold": 525,
+        "text": "525 metres",
+        "abstain": false,
+        "correct_value": 525
+      },
+      {
+        "gold": 980,
+        "text": "980 metres",
+        "abstain": false,
+        "correct_value": 980
+      },
+      {
+        "gold": 37,
+        "text": "First 4, then 29. So the result is 37",
+        "abstain": false,
+        "correct_value": 37
+      },
+      {
+        "gold": 571,
+        "text": "First 31, then 29. So the result is 571.",
+        "abstain": false,
+        "correct_value": 571
+      },
+      {
+        "gold": 447,
+        "text": "First 16, then 44. So the result is 447",
+        "abstain": false,
+        "correct_value": 447
+      },
+      {
+        "gold": 8,
+        "text": "8 metres",
+        "abstain": false,
+        "correct_value": 8
+      },
+      {
+        "gold": 543,
+        "text": "543 metres",
+        "abstain": false,
+        "correct_value": 543
+      },
+      {
+        "gold": 772,
+        "text": "773",
+        "abstain": false,
+        "correct_value": 773
+      },
+      {
+        "gold": 741,
+        "text": "First 22, then 6. So the result is 741.",
+        "abstain": false,
+        "correct_value": 741
+      },
+      {
+        "gold": 977,
+        "text": "First 47, then 27. So the result is 977.",
+        "abstain": false,
+        "correct_value": 977
+      },
+      {
+        "gold": 529,
+        "text": "We compute step by step. \\\\boxed{529}",
+        "abstain": false,
+        "correct_value": 529
+      },
+      {
+        "gold": 590,
+        "text": "First 32, then 12. So the result is 590.",
+        "abstain": false,
+        "correct_value": 590
+      },
+      {
+        "gold": 964,
+        "text": "The answer is 972.",
+        "abstain": false,
+        "correct_value": 972
+      },
+      {
+        "gold": 320,
+        "text": "We compute step by step. \\\\boxed{320}",
+        "abstain": false,
+        "correct_value": 320
+      },
+      {
+        "gold": 798,
+        "text": "First 3, then 46. So the result is 798.",
+        "abstain": false,
+        "correct_value": 798
+      },
+      {
+        "gold": 188,
+        "text": "We compute step by step. \\\\boxed{188}",
+        "abstain": false,
+        "correct_value": 188
+      },
+      {
+        "gold": 362,
+        "text": "First 49, then 10. So the result is 362",
+        "abstain": false,
+        "correct_value": 362
+      },
+      {
+        "gold": 672,
+        "text": "672 (approximately)",
+        "abstain": false,
+        "correct_value": 672
+      },
+      {
+        "gold": 579,
+        "text": "We compute step by step. \\\\boxed{579}",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 196,
+        "text": "The answer is 196.",
+        "abstain": false,
+        "correct_value": 196
+      },
+      {
+        "gold": 659,
+        "text": "The answer is 659.",
+        "abstain": false,
+        "correct_value": 659
+      },
+      {
+        "gold": 577,
+        "text": "We compute step by step. \\\\boxed{581}",
+        "abstain": false,
+        "correct_value": 581
+      },
+      {
+        "gold": 919,
+        "text": "919 (approximately)",
+        "abstain": false,
+        "correct_value": 919
+      },
+      {
+        "gold": 602,
+        "text": "First 7, then 39. So the result is 602.",
+        "abstain": false,
+        "correct_value": 602
+      },
+      {
+        "gold": 883,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 961,
+        "text": "First 8, then 7. So the result is 968.",
+        "abstain": false,
+        "correct_value": 968
+      },
+      {
+        "gold": 89,
+        "text": "89",
+        "abstain": false,
+        "correct_value": 89
+      },
+      {
+        "gold": 74,
+        "text": "81",
+        "abstain": false,
+        "correct_value": 81
+      },
+      {
+        "gold": 503,
+        "text": "The answer is 503.",
+        "abstain": false,
+        "correct_value": 503
+      },
+      {
+        "gold": 500,
+        "text": "The answer is 500.",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 555,
+        "text": "The answer is 555.",
+        "abstain": false,
+        "correct_value": 555
+      },
+      {
+        "gold": 743,
+        "text": "First 26, then 41. So the result is 748.",
+        "abstain": false,
+        "correct_value": 748
+      },
+      {
+        "gold": 316,
+        "text": "We compute step by step. \\\\boxed{316}",
+        "abstain": false,
+        "correct_value": 316
+      },
+      {
+        "gold": 178,
+        "text": "178",
+        "abstain": false,
+        "correct_value": 178
+      },
+      {
+        "gold": 680,
+        "text": "680",
+        "abstain": false,
+        "correct_value": 680
+      },
+      {
+        "gold": 388,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 928,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 64,
+        "text": "First 45, then 20. So the result is 64.",
+        "abstain": false,
+        "correct_value": 64
+      },
+      {
+        "gold": 709,
+        "text": "709",
+        "abstain": false,
+        "correct_value": 709
+      },
+      {
+        "gold": 725,
+        "text": "725 metres",
+        "abstain": false,
+        "correct_value": 725
+      },
+      {
+        "gold": 272,
+        "text": "272",
+        "abstain": false,
+        "correct_value": 272
+      },
+      {
+        "gold": 89,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 319,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 395,
+        "text": "395",
+        "abstain": false,
+        "correct_value": 395
+      },
+      {
+        "gold": 978,
+        "text": "First 24, then 30. So the result is 978",
+        "abstain": false,
+        "correct_value": 978
+      },
+      {
+        "gold": 872,
+        "text": "We compute step by step. \\\\boxed{876}",
+        "abstain": false,
+        "correct_value": 876
+      },
+      {
+        "gold": 232,
+        "text": "232 metres",
+        "abstain": false,
+        "correct_value": 232
+      },
+      {
+        "gold": 472,
+        "text": "472 metres",
+        "abstain": false,
+        "correct_value": 472
+      },
+      {
+        "gold": 600,
+        "text": "We compute step by step. \\\\boxed{600}",
+        "abstain": false,
+        "correct_value": 600
+      },
+      {
+        "gold": 911,
+        "text": "First 28, then 13. So the result is 912.",
+        "abstain": false,
+        "correct_value": 912
+      },
+      {
+        "gold": 136,
+        "text": "136 (approximately)",
+        "abstain": false,
+        "correct_value": 136
+      },
+      {
+        "gold": 765,
+        "text": "We compute step by step. \\\\boxed{768}",
+        "abstain": false,
+        "correct_value": 768
+      },
+      {
+        "gold": 924,
+        "text": "The answer is 924.",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 914,
+        "text": "914",
+        "abstain": false,
+        "correct_value": 914
+      },
+      {
+        "gold": 278,
+        "text": "279",
+        "abstain": false,
+        "correct_value": 279
+      },
+      {
+        "gold": 129,
+        "text": "The answer is 129.",
+        "abstain": false,
+        "correct_value": 129
+      },
+      {
+        "gold": 594,
+        "text": "The answer is 596.",
+        "abstain": false,
+        "correct_value": 596
+      },
+      {
+        "gold": 75,
+        "text": "First 3, then 28. So the result is 75.",
+        "abstain": false,
+        "correct_value": 75
+      },
+      {
+        "gold": 131,
+        "text": "We compute step by step. \\\\boxed{131}",
+        "abstain": false,
+        "correct_value": 131
+      },
+      {
+        "gold": 72,
+        "text": "First 27, then 44. So the result is 80.",
+        "abstain": false,
+        "correct_value": 80
+      },
+      {
+        "gold": 212,
+        "text": "216",
+        "abstain": false,
+        "correct_value": 216
+      },
+      {
+        "gold": 868,
+        "text": "We compute step by step. \\\\boxed{868}",
+        "abstain": false,
+        "correct_value": 868
+      },
+      {
+        "gold": 672,
+        "text": "First 5, then 32. So the result is 672.",
+        "abstain": false,
+        "correct_value": 672
+      },
+      {
+        "gold": 634,
+        "text": "638 (approximately)",
+        "abstain": false,
+        "correct_value": 638
+      },
+      {
+        "gold": 984,
+        "text": "The answer is 988.",
+        "abstain": false,
+        "correct_value": 988
+      },
+      {
+        "gold": 497,
+        "text": "The answer is 497.",
+        "abstain": false,
+        "correct_value": 497
+      },
+      {
+        "gold": 41,
+        "text": "First 35, then 47. So the result is 47.",
+        "abstain": false,
+        "correct_value": 47
+      },
+      {
+        "gold": 165,
+        "text": "First 27, then 30. So the result is 165.",
+        "abstain": false,
+        "correct_value": 165
+      },
+      {
+        "gold": 261,
+        "text": "The answer is 261.",
+        "abstain": false,
+        "correct_value": 261
+      },
+      {
+        "gold": 673,
+        "text": "The answer is 680.",
+        "abstain": false,
+        "correct_value": 680
+      },
+      {
+        "gold": 357,
+        "text": "357",
+        "abstain": false,
+        "correct_value": 357
+      },
+      {
+        "gold": 319,
+        "text": "The answer is 319.",
+        "abstain": false,
+        "correct_value": 319
+      },
+      {
+        "gold": 113,
+        "text": "We compute step by step. \\\\boxed{113}",
+        "abstain": false,
+        "correct_value": 113
+      },
+      {
+        "gold": 710,
+        "text": "710",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 26,
+        "text": "We compute step by step. \\\\boxed{26}",
+        "abstain": false,
+        "correct_value": 26
+      },
+      {
+        "gold": 460,
+        "text": "We compute step by step. \\\\boxed{460}",
+        "abstain": false,
+        "correct_value": 460
+      },
+      {
+        "gold": 744,
+        "text": "744 (approximately)",
+        "abstain": false,
+        "correct_value": 744
+      },
+      {
+        "gold": 507,
+        "text": "We compute step by step. \\\\boxed{507}",
+        "abstain": false,
+        "correct_value": 507
+      },
+      {
+        "gold": 686,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 789,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 226,
+        "text": "First 42, then 23. So the result is 226",
+        "abstain": false,
+        "correct_value": 226
+      },
+      {
+        "gold": 94,
+        "text": "94 (approximately)",
+        "abstain": false,
+        "correct_value": 94
+      },
+      {
+        "gold": 58,
+        "text": "We compute step by step. \\\\boxed{58}",
+        "abstain": false,
+        "correct_value": 58
+      },
+      {
+        "gold": 579,
+        "text": "579 (approximately)",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 265,
+        "text": "The answer is 265.",
+        "abstain": false,
+        "correct_value": 265
+      },
+      {
+        "gold": 198,
+        "text": "We compute step by step. \\\\boxed{198}",
+        "abstain": false,
+        "correct_value": 198
+      },
+      {
+        "gold": 734,
+        "text": "740",
+        "abstain": false,
+        "correct_value": 740
+      },
+      {
+        "gold": 807,
+        "text": "First 31, then 34. So the result is 815.",
+        "abstain": false,
+        "correct_value": 815
+      },
+      {
+        "gold": 953,
+        "text": "We compute step by step. \\\\boxed{958}",
+        "abstain": false,
+        "correct_value": 958
+      },
+      {
+        "gold": 489,
+        "text": "492 (approximately)",
+        "abstain": false,
+        "correct_value": 492
+      },
+      {
+        "gold": 523,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 987,
+        "text": "We compute step by step. \\\\boxed{990}",
+        "abstain": false,
+        "correct_value": 990
+      },
+      {
+        "gold": 504,
+        "text": "First 15, then 22. So the result is 512.",
+        "abstain": false,
+        "correct_value": 512
+      },
+      {
+        "gold": 184,
+        "text": "187 (approximately)",
+        "abstain": false,
+        "correct_value": 187
+      },
+      {
+        "gold": 257,
+        "text": "260",
+        "abstain": false,
+        "correct_value": 260
+      },
+      {
+        "gold": 962,
+        "text": "We compute step by step. \\\\boxed{965}",
+        "abstain": false,
+        "correct_value": 965
+      },
+      {
+        "gold": 45,
+        "text": "We compute step by step. \\\\boxed{45}",
+        "abstain": false,
+        "correct_value": 45
+      },
+      {
+        "gold": 800,
+        "text": "First 39, then 18. So the result is 800.",
+        "abstain": false,
+        "correct_value": 800
+      },
+      {
+        "gold": 647,
+        "text": "We compute step by step. \\\\boxed{647}",
+        "abstain": false,
+        "correct_value": 647
+      },
+      {
+        "gold": 481,
+        "text": "First 26, then 47. So the result is 483",
+        "abstain": false,
+        "correct_value": 483
+      },
+      {
+        "gold": 832,
+        "text": "First 45, then 5. So the result is 832.",
+        "abstain": false,
+        "correct_value": 832
+      },
+      {
+        "gold": 813,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 440,
+        "text": "440",
+        "abstain": false,
+        "correct_value": 440
+      },
+      {
+        "gold": 603,
+        "text": "603",
+        "abstain": false,
+        "correct_value": 603
+      },
+      {
+        "gold": 763,
+        "text": "The answer is 763.",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 655,
+        "text": "The answer is 655.",
+        "abstain": false,
+        "correct_value": 655
+      },
+      {
+        "gold": 486,
+        "text": "486 metres",
+        "abstain": false,
+        "correct_value": 486
+      },
+      {
+        "gold": 912,
+        "text": "First 26, then 33. So the result is 912",
+        "abstain": false,
+        "correct_value": 912
+      },
+      {
+        "gold": 882,
+        "text": "First 25, then 10. So the result is 882",
+        "abstain": false,
+        "correct_value": 882
+      },
+      {
+        "gold": 67,
+        "text": "67 (approximately)",
+        "abstain": false,
+        "correct_value": 67
+      },
+      {
+        "gold": 547,
+        "text": "549",
+        "abstain": false,
+        "correct_value": 549
+      },
+      {
+        "gold": 834,
+        "text": "First 43, then 21. So the result is 834",
+        "abstain": false,
+        "correct_value": 834
+      },
+      {
+        "gold": 86,
+        "text": "92 (approximately)",
+        "abstain": false,
+        "correct_value": 92
+      },
+      {
+        "gold": 382,
+        "text": "384 metres",
+        "abstain": false,
+        "correct_value": 384
+      },
+      {
+        "gold": 509,
+        "text": "First 8, then 31. So the result is 509",
+        "abstain": false,
+        "correct_value": 509
+      },
+      {
+        "gold": 326,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 695,
+        "text": "695 (approximately)",
+        "abstain": false,
+        "correct_value": 695
+      },
+      {
+        "gold": 993,
+        "text": "First 17, then 28. So the result is 993",
+        "abstain": false,
+        "correct_value": 993
+      },
+      {
+        "gold": 364,
+        "text": "First 33, then 36. So the result is 364.",
+        "abstain": false,
+        "correct_value": 364
+      },
+      {
+        "gold": 780,
+        "text": "The answer is 782.",
+        "abstain": false,
+        "correct_value": 782
+      },
+      {
+        "gold": 118,
+        "text": "We compute step by step. \\\\boxed{118}",
+        "abstain": false,
+        "correct_value": 118
+      },
+      {
+        "gold": 486,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 7,
+        "text": "7",
+        "abstain": false,
+        "correct_value": 7
+      },
+      {
+        "gold": 423,
+        "text": "429 metres",
+        "abstain": false,
+        "correct_value": 429
+      },
+      {
+        "gold": 15,
+        "text": "First 26, then 46. So the result is 15.",
+        "abstain": false,
+        "correct_value": 15
+      },
+      {
+        "gold": 876,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 968,
+        "text": "968",
+        "abstain": false,
+        "correct_value": 968
+      },
+      {
+        "gold": 88,
+        "text": "First 6, then 13. So the result is 94",
+        "abstain": false,
+        "correct_value": 94
+      },
+      {
+        "gold": 817,
+        "text": "817 metres",
+        "abstain": false,
+        "correct_value": 817
+      },
+      {
+        "gold": 708,
+        "text": "The answer is 708.",
+        "abstain": false,
+        "correct_value": 708
+      },
+      {
+        "gold": 301,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 788,
+        "text": "We compute step by step. \\\\boxed{788}",
+        "abstain": false,
+        "correct_value": 788
+      },
+      {
+        "gold": 961,
+        "text": "First 13, then 3. So the result is 967",
+        "abstain": false,
+        "correct_value": 967
+      },
+      {
+        "gold": 798,
+        "text": "First 47, then 25. So the result is 798.",
+        "abstain": false,
+        "correct_value": 798
+      },
+      {
+        "gold": 692,
+        "text": "First 16, then 29. So the result is 692",
+        "abstain": false,
+        "correct_value": 692
+      },
+      {
+        "gold": 323,
+        "text": "We compute step by step. \\\\boxed{323}",
+        "abstain": false,
+        "correct_value": 323
+      },
+      {
+        "gold": 606,
+        "text": "We compute step by step. \\\\boxed{609}",
+        "abstain": false,
+        "correct_value": 609
+      },
+      {
+        "gold": 796,
+        "text": "We compute step by step. \\\\boxed{796}",
+        "abstain": false,
+        "correct_value": 796
+      },
+      {
+        "gold": 714,
+        "text": "First 20, then 47. So the result is 714.",
+        "abstain": false,
+        "correct_value": 714
+      },
+      {
+        "gold": 226,
+        "text": "First 7, then 40. So the result is 226",
+        "abstain": false,
+        "correct_value": 226
+      },
+      {
+        "gold": 412,
+        "text": "We compute step by step. \\\\boxed{412}",
+        "abstain": false,
+        "correct_value": 412
+      },
+      {
+        "gold": 363,
+        "text": "363 metres",
+        "abstain": false,
+        "correct_value": 363
+      },
+      {
+        "gold": 694,
+        "text": "694 (approximately)",
+        "abstain": false,
+        "correct_value": 694
+      },
+      {
+        "gold": 418,
+        "text": "First 5, then 49. So the result is 424.",
+        "abstain": false,
+        "correct_value": 424
+      },
+      {
+        "gold": 420,
+        "text": "We compute step by step. \\\\boxed{420}",
+        "abstain": false,
+        "correct_value": 420
+      },
+      {
+        "gold": 541,
+        "text": "The answer is 541.",
+        "abstain": false,
+        "correct_value": 541
+      },
+      {
+        "gold": 579,
+        "text": "579 metres",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 114,
+        "text": "First 20, then 22. So the result is 121",
+        "abstain": false,
+        "correct_value": 121
+      },
+      {
+        "gold": 924,
+        "text": "The answer is 924.",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 407,
+        "text": "407 (approximately)",
+        "abstain": false,
+        "correct_value": 407
+      },
+      {
+        "gold": 176,
+        "text": "The answer is 176.",
+        "abstain": false,
+        "correct_value": 176
+      },
+      {
+        "gold": 2,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 435,
+        "text": "First 48, then 31. So the result is 435",
+        "abstain": false,
+        "correct_value": 435
+      },
+      {
+        "gold": 744,
+        "text": "748",
+        "abstain": false,
+        "correct_value": 748
+      },
+      {
+        "gold": 297,
+        "text": "297 (approximately)",
+        "abstain": false,
+        "correct_value": 297
+      },
+      {
+        "gold": 851,
+        "text": "We compute step by step. \\\\boxed{858}",
+        "abstain": false,
+        "correct_value": 858
+      },
+      {
+        "gold": 201,
+        "text": "201",
+        "abstain": false,
+        "correct_value": 201
+      },
+      {
+        "gold": 140,
+        "text": "140 (approximately)",
+        "abstain": false,
+        "correct_value": 140
+      },
+      {
+        "gold": 391,
+        "text": "First 49, then 36. So the result is 391",
+        "abstain": false,
+        "correct_value": 391
+      },
+      {
+        "gold": 703,
+        "text": "First 10, then 29. So the result is 703.",
+        "abstain": false,
+        "correct_value": 703
+      },
+      {
+        "gold": 300,
+        "text": "300 (approximately)",
+        "abstain": false,
+        "correct_value": 300
+      },
+      {
+        "gold": 820,
+        "text": "820",
+        "abstain": false,
+        "correct_value": 820
+      },
+      {
+        "gold": 22,
+        "text": "The answer is 22.",
+        "abstain": false,
+        "correct_value": 22
+      },
+      {
+        "gold": 980,
+        "text": "First 32, then 31. So the result is 980",
+        "abstain": false,
+        "correct_value": 980
+      },
+      {
+        "gold": 48,
+        "text": "First 30, then 39. So the result is 48",
+        "abstain": false,
+        "correct_value": 48
+      },
+      {
+        "gold": 843,
+        "text": "We compute step by step. \\\\boxed{843}",
+        "abstain": false,
+        "correct_value": 843
+      },
+      {
+        "gold": 5,
+        "text": "The answer is 5.",
+        "abstain": false,
+        "correct_value": 5
+      },
+      {
+        "gold": 424,
+        "text": "First 28, then 8. So the result is 424.",
+        "abstain": false,
+        "correct_value": 424
+      },
+      {
+        "gold": 310,
+        "text": "310 (approximately)",
+        "abstain": false,
+        "correct_value": 310
+      },
+      {
+        "gold": 978,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 654,
+        "text": "We compute step by step. \\\\boxed{654}",
+        "abstain": false,
+        "correct_value": 654
+      },
+      {
+        "gold": 973,
+        "text": "First 21, then 5. So the result is 973.",
+        "abstain": false,
+        "correct_value": 973
+      },
+      {
+        "gold": 415,
+        "text": "First 22, then 3. So the result is 415",
+        "abstain": false,
+        "correct_value": 415
+      },
+      {
+        "gold": 504,
+        "text": "First 35, then 8. So the result is 504",
+        "abstain": false,
+        "correct_value": 504
+      },
+      {
+        "gold": 502,
+        "text": "The answer is 502.",
+        "abstain": false,
+        "correct_value": 502
+      },
+      {
+        "gold": 753,
+        "text": "753 metres",
+        "abstain": false,
+        "correct_value": 753
+      },
+      {
+        "gold": 509,
+        "text": "The answer is 509.",
+        "abstain": false,
+        "correct_value": 509
+      },
+      {
+        "gold": 913,
+        "text": "First 24, then 5. So the result is 913",
+        "abstain": false,
+        "correct_value": 913
+      },
+      {
+        "gold": 193,
+        "text": "We compute step by step. \\\\boxed{193}",
+        "abstain": false,
+        "correct_value": 193
+      },
+      {
+        "gold": 476,
+        "text": "We compute step by step. \\\\boxed{476}",
+        "abstain": false,
+        "correct_value": 476
+      },
+      {
+        "gold": 248,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 863,
+        "text": "We compute step by step. \\\\boxed{863}",
+        "abstain": false,
+        "correct_value": 863
+      },
+      {
+        "gold": 138,
+        "text": "First 27, then 8. So the result is 138",
+        "abstain": false,
+        "correct_value": 138
+      },
+      {
+        "gold": 701,
+        "text": "The answer is 701.",
+        "abstain": false,
+        "correct_value": 701
+      },
+      {
+        "gold": 911,
+        "text": "The answer is 917.",
+        "abstain": false,
+        "correct_value": 917
+      },
+      {
+        "gold": 295,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 280,
+        "text": "First 41, then 43. So the result is 280.",
+        "abstain": false,
+        "correct_value": 280
+      },
+      {
+        "gold": 767,
+        "text": "767 metres",
+        "abstain": false,
+        "correct_value": 767
+      },
+      {
+        "gold": 591,
+        "text": "591 metres",
+        "abstain": false,
+        "correct_value": 591
+      },
+      {
+        "gold": 570,
+        "text": "First 11, then 6. So the result is 570",
+        "abstain": false,
+        "correct_value": 570
+      },
+      {
+        "gold": 883,
+        "text": "First 34, then 17. So the result is 883.",
+        "abstain": false,
+        "correct_value": 883
+      },
+      {
+        "gold": 95,
+        "text": "First 15, then 15. So the result is 95.",
+        "abstain": false,
+        "correct_value": 95
+      },
+      {
+        "gold": 274,
+        "text": "274 (approximately)",
+        "abstain": false,
+        "correct_value": 274
+      },
+      {
+        "gold": 392,
+        "text": "First 33, then 6. So the result is 392.",
+        "abstain": false,
+        "correct_value": 392
+      },
+      {
+        "gold": 916,
+        "text": "916 (approximately)",
+        "abstain": false,
+        "correct_value": 916
+      },
+      {
+        "gold": 75,
+        "text": "First 39, then 20. So the result is 75.",
+        "abstain": false,
+        "correct_value": 75
+      },
+      {
+        "gold": 453,
+        "text": "We compute step by step. \\\\boxed{453}",
+        "abstain": false,
+        "correct_value": 453
+      },
+      {
+        "gold": 476,
+        "text": "476",
+        "abstain": false,
+        "correct_value": 476
+      },
+      {
+        "gold": 16,
+        "text": "The answer is 24.",
+        "abstain": false,
+        "correct_value": 24
+      },
+      {
+        "gold": 429,
+        "text": "430 (approximately)",
+        "abstain": false,
+        "correct_value": 430
+      },
+      {
+        "gold": 648,
+        "text": "First 30, then 27. So the result is 648",
+        "abstain": false,
+        "correct_value": 648
+      },
+      {
+        "gold": 424,
+        "text": "424 (approximately)",
+        "abstain": false,
+        "correct_value": 424
+      },
+      {
+        "gold": 306,
+        "text": "We compute step by step. \\\\boxed{306}",
+        "abstain": false,
+        "correct_value": 306
+      },
+      {
+        "gold": 586,
+        "text": "586",
+        "abstain": false,
+        "correct_value": 586
+      },
+      {
+        "gold": 979,
+        "text": "979",
+        "abstain": false,
+        "correct_value": 979
+      },
+      {
+        "gold": 124,
+        "text": "124 (approximately)",
+        "abstain": false,
+        "correct_value": 124
+      },
+      {
+        "gold": 287,
+        "text": "290 metres",
+        "abstain": false,
+        "correct_value": 290
+      },
+      {
+        "gold": 932,
+        "text": "We compute step by step. \\\\boxed{933}",
+        "abstain": false,
+        "correct_value": 933
+      },
+      {
+        "gold": 297,
+        "text": "304 (approximately)",
+        "abstain": false,
+        "correct_value": 304
+      },
+      {
+        "gold": 683,
+        "text": "683 (approximately)",
+        "abstain": false,
+        "correct_value": 683
+      },
+      {
+        "gold": 352,
+        "text": "The answer is 353.",
+        "abstain": false,
+        "correct_value": 353
+      },
+      {
+        "gold": 823,
+        "text": "We compute step by step. \\\\boxed{823}",
+        "abstain": false,
+        "correct_value": 823
+      }
+    ]
+  },
+  "B": {
+    "name": "Model B",
+    "rows": [
+      {
+        "gold": 850,
+        "text": "First 26, then 48. So the result is 850",
+        "abstain": false,
+        "correct_value": 850
+      },
+      {
+        "gold": 637,
+        "text": "637 metres",
+        "abstain": false,
+        "correct_value": 637
+      },
+      {
+        "gold": 511,
+        "text": "First 36, then 25. So the result is 515",
+        "abstain": false,
+        "correct_value": 515
+      },
+      {
+        "gold": 270,
+        "text": "270 (approximately)",
+        "abstain": false,
+        "correct_value": 270
+      },
+      {
+        "gold": 308,
+        "text": "First 24, then 27. So the result is 308",
+        "abstain": false,
+        "correct_value": 308
+      },
+      {
+        "gold": 42,
+        "text": "49 (approximately)",
+        "abstain": false,
+        "correct_value": 49
+      },
+      {
+        "gold": 77,
+        "text": "77 (approximately)",
+        "abstain": false,
+        "correct_value": 77
+      },
+      {
+        "gold": 18,
+        "text": "22 (approximately)",
+        "abstain": false,
+        "correct_value": 22
+      },
+      {
+        "gold": 176,
+        "text": "181",
+        "abstain": false,
+        "correct_value": 181
+      },
+      {
+        "gold": 812,
+        "text": "The answer is 812.",
+        "abstain": false,
+        "correct_value": 812
+      },
+      {
+        "gold": 649,
+        "text": "649 (approximately)",
+        "abstain": false,
+        "correct_value": 649
+      },
+      {
+        "gold": 912,
+        "text": "912 (approximately)",
+        "abstain": false,
+        "correct_value": 912
+      },
+      {
+        "gold": 504,
+        "text": "The answer is 511.",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 606,
+        "text": "The answer is 613.",
+        "abstain": false,
+        "correct_value": 613
+      },
+      {
+        "gold": 969,
+        "text": "The answer is 969.",
+        "abstain": false,
+        "correct_value": 969
+      },
+      {
+        "gold": 729,
+        "text": "The answer is 729.",
+        "abstain": false,
+        "correct_value": 729
+      },
+      {
+        "gold": 632,
+        "text": "638",
+        "abstain": false,
+        "correct_value": 638
+      },
+      {
+        "gold": 543,
+        "text": "First 33, then 3. So the result is 543.",
+        "abstain": false,
+        "correct_value": 543
+      },
+      {
+        "gold": 560,
+        "text": "The answer is 560.",
+        "abstain": false,
+        "correct_value": 560
+      },
+      {
+        "gold": 934,
+        "text": "934 metres",
+        "abstain": false,
+        "correct_value": 934
+      },
+      {
+        "gold": 278,
+        "text": "We compute step by step. \\\\boxed{278}",
+        "abstain": false,
+        "correct_value": 278
+      },
+      {
+        "gold": 815,
+        "text": "815",
+        "abstain": false,
+        "correct_value": 815
+      },
+      {
+        "gold": 670,
+        "text": "670",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 4,
+        "text": "10",
+        "abstain": false,
+        "correct_value": 10
+      },
+      {
+        "gold": 394,
+        "text": "First 20, then 26. So the result is 394.",
+        "abstain": false,
+        "correct_value": 394
+      },
+      {
+        "gold": 856,
+        "text": "The answer is 856.",
+        "abstain": false,
+        "correct_value": 856
+      },
+      {
+        "gold": 554,
+        "text": "The answer is 554.",
+        "abstain": false,
+        "correct_value": 554
+      },
+      {
+        "gold": 35,
+        "text": "The answer is 35.",
+        "abstain": false,
+        "correct_value": 35
+      },
+      {
+        "gold": 764,
+        "text": "The answer is 769.",
+        "abstain": false,
+        "correct_value": 769
+      },
+      {
+        "gold": 729,
+        "text": "The answer is 729.",
+        "abstain": false,
+        "correct_value": 729
+      },
+      {
+        "gold": 846,
+        "text": "First 4, then 8. So the result is 846",
+        "abstain": false,
+        "correct_value": 846
+      },
+      {
+        "gold": 177,
+        "text": "The answer is 177.",
+        "abstain": false,
+        "correct_value": 177
+      },
+      {
+        "gold": 91,
+        "text": "91",
+        "abstain": false,
+        "correct_value": 91
+      },
+      {
+        "gold": 862,
+        "text": "First 5, then 30. So the result is 862.",
+        "abstain": false,
+        "correct_value": 862
+      },
+      {
+        "gold": 24,
+        "text": "24",
+        "abstain": false,
+        "correct_value": 24
+      },
+      {
+        "gold": 541,
+        "text": "541 (approximately)",
+        "abstain": false,
+        "correct_value": 541
+      },
+      {
+        "gold": 82,
+        "text": "82 metres",
+        "abstain": false,
+        "correct_value": 82
+      },
+      {
+        "gold": 300,
+        "text": "The answer is 306.",
+        "abstain": false,
+        "correct_value": 306
+      },
+      {
+        "gold": 481,
+        "text": "The answer is 487.",
+        "abstain": false,
+        "correct_value": 487
+      },
+      {
+        "gold": 423,
+        "text": "The answer is 423.",
+        "abstain": false,
+        "correct_value": 423
+      },
+      {
+        "gold": 404,
+        "text": "We compute step by step. \\\\boxed{408}",
+        "abstain": false,
+        "correct_value": 408
+      },
+      {
+        "gold": 30,
+        "text": "The answer is 37.",
+        "abstain": false,
+        "correct_value": 37
+      },
+      {
+        "gold": 7,
+        "text": "7",
+        "abstain": false,
+        "correct_value": 7
+      },
+      {
+        "gold": 125,
+        "text": "127",
+        "abstain": false,
+        "correct_value": 127
+      },
+      {
+        "gold": 10,
+        "text": "First 17, then 24. So the result is 13.",
+        "abstain": false,
+        "correct_value": 13
+      },
+      {
+        "gold": 670,
+        "text": "The answer is 670.",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 526,
+        "text": "The answer is 526.",
+        "abstain": false,
+        "correct_value": 526
+      },
+      {
+        "gold": 647,
+        "text": "The answer is 654.",
+        "abstain": false,
+        "correct_value": 654
+      },
+      {
+        "gold": 258,
+        "text": "258 (approximately)",
+        "abstain": false,
+        "correct_value": 258
+      },
+      {
+        "gold": 615,
+        "text": "First 20, then 7. So the result is 615.",
+        "abstain": false,
+        "correct_value": 615
+      },
+      {
+        "gold": 763,
+        "text": "The answer is 763.",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 384,
+        "text": "We compute step by step. \\\\boxed{384}",
+        "abstain": false,
+        "correct_value": 384
+      },
+      {
+        "gold": 461,
+        "text": "461",
+        "abstain": false,
+        "correct_value": 461
+      },
+      {
+        "gold": 996,
+        "text": "The answer is 996.",
+        "abstain": false,
+        "correct_value": 996
+      },
+      {
+        "gold": 804,
+        "text": "First 7, then 2. So the result is 807",
+        "abstain": false,
+        "correct_value": 807
+      },
+      {
+        "gold": 979,
+        "text": "The answer is 979.",
+        "abstain": false,
+        "correct_value": 979
+      },
+      {
+        "gold": 380,
+        "text": "First 40, then 28. So the result is 387",
+        "abstain": false,
+        "correct_value": 387
+      },
+      {
+        "gold": 685,
+        "text": "The answer is 685.",
+        "abstain": false,
+        "correct_value": 685
+      },
+      {
+        "gold": 949,
+        "text": "949",
+        "abstain": false,
+        "correct_value": 949
+      },
+      {
+        "gold": 650,
+        "text": "We compute step by step. \\\\boxed{650}",
+        "abstain": false,
+        "correct_value": 650
+      },
+      {
+        "gold": 839,
+        "text": "839 (approximately)",
+        "abstain": false,
+        "correct_value": 839
+      },
+      {
+        "gold": 688,
+        "text": "First 48, then 42. So the result is 688.",
+        "abstain": false,
+        "correct_value": 688
+      },
+      {
+        "gold": 703,
+        "text": "703",
+        "abstain": false,
+        "correct_value": 703
+      },
+      {
+        "gold": 389,
+        "text": "389",
+        "abstain": false,
+        "correct_value": 389
+      },
+      {
+        "gold": 874,
+        "text": "874 metres",
+        "abstain": false,
+        "correct_value": 874
+      },
+      {
+        "gold": 136,
+        "text": "The answer is 136.",
+        "abstain": false,
+        "correct_value": 136
+      },
+      {
+        "gold": 579,
+        "text": "579",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 721,
+        "text": "The answer is 729.",
+        "abstain": false,
+        "correct_value": 729
+      },
+      {
+        "gold": 844,
+        "text": "The answer is 851.",
+        "abstain": false,
+        "correct_value": 851
+      },
+      {
+        "gold": 525,
+        "text": "The answer is 530.",
+        "abstain": false,
+        "correct_value": 530
+      },
+      {
+        "gold": 376,
+        "text": "The answer is 376.",
+        "abstain": false,
+        "correct_value": 376
+      },
+      {
+        "gold": 311,
+        "text": "We compute step by step. \\\\boxed{318}",
+        "abstain": false,
+        "correct_value": 318
+      },
+      {
+        "gold": 423,
+        "text": "First 40, then 2. So the result is 423",
+        "abstain": false,
+        "correct_value": 423
+      },
+      {
+        "gold": 486,
+        "text": "First 40, then 34. So the result is 487.",
+        "abstain": false,
+        "correct_value": 487
+      },
+      {
+        "gold": 718,
+        "text": "718 metres",
+        "abstain": false,
+        "correct_value": 718
+      },
+      {
+        "gold": 888,
+        "text": "First 20, then 18. So the result is 893",
+        "abstain": false,
+        "correct_value": 893
+      },
+      {
+        "gold": 74,
+        "text": "First 28, then 29. So the result is 74",
+        "abstain": false,
+        "correct_value": 74
+      },
+      {
+        "gold": 933,
+        "text": "The answer is 933.",
+        "abstain": false,
+        "correct_value": 933
+      },
+      {
+        "gold": 531,
+        "text": "We compute step by step. \\\\boxed{531}",
+        "abstain": false,
+        "correct_value": 531
+      },
+      {
+        "gold": 358,
+        "text": "The answer is 362.",
+        "abstain": false,
+        "correct_value": 362
+      },
+      {
+        "gold": 672,
+        "text": "677 metres",
+        "abstain": false,
+        "correct_value": 677
+      },
+      {
+        "gold": 571,
+        "text": "First 33, then 29. So the result is 571",
+        "abstain": false,
+        "correct_value": 571
+      },
+      {
+        "gold": 255,
+        "text": "258 (approximately)",
+        "abstain": false,
+        "correct_value": 258
+      },
+      {
+        "gold": 322,
+        "text": "The answer is 322.",
+        "abstain": false,
+        "correct_value": 322
+      },
+      {
+        "gold": 719,
+        "text": "719",
+        "abstain": false,
+        "correct_value": 719
+      },
+      {
+        "gold": 594,
+        "text": "594",
+        "abstain": false,
+        "correct_value": 594
+      },
+      {
+        "gold": 504,
+        "text": "We compute step by step. \\\\boxed{504}",
+        "abstain": false,
+        "correct_value": 504
+      },
+      {
+        "gold": 338,
+        "text": "338 metres",
+        "abstain": false,
+        "correct_value": 338
+      },
+      {
+        "gold": 760,
+        "text": "First 30, then 35. So the result is 760",
+        "abstain": false,
+        "correct_value": 760
+      },
+      {
+        "gold": 392,
+        "text": "392 (approximately)",
+        "abstain": false,
+        "correct_value": 392
+      },
+      {
+        "gold": 329,
+        "text": "The answer is 333.",
+        "abstain": false,
+        "correct_value": 333
+      },
+      {
+        "gold": 889,
+        "text": "The answer is 889.",
+        "abstain": false,
+        "correct_value": 889
+      },
+      {
+        "gold": 265,
+        "text": "The answer is 271.",
+        "abstain": false,
+        "correct_value": 271
+      },
+      {
+        "gold": 228,
+        "text": "228",
+        "abstain": false,
+        "correct_value": 228
+      },
+      {
+        "gold": 714,
+        "text": "The answer is 714.",
+        "abstain": false,
+        "correct_value": 714
+      },
+      {
+        "gold": 623,
+        "text": "630 (approximately)",
+        "abstain": false,
+        "correct_value": 630
+      },
+      {
+        "gold": 50,
+        "text": "The answer is 50.",
+        "abstain": false,
+        "correct_value": 50
+      },
+      {
+        "gold": 85,
+        "text": "85 metres",
+        "abstain": false,
+        "correct_value": 85
+      },
+      {
+        "gold": 378,
+        "text": "378 (approximately)",
+        "abstain": false,
+        "correct_value": 378
+      },
+      {
+        "gold": 832,
+        "text": "The answer is 832.",
+        "abstain": false,
+        "correct_value": 832
+      },
+      {
+        "gold": 401,
+        "text": "The answer is 402.",
+        "abstain": false,
+        "correct_value": 402
+      },
+      {
+        "gold": 786,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 317,
+        "text": "321",
+        "abstain": false,
+        "correct_value": 321
+      },
+      {
+        "gold": 240,
+        "text": "First 26, then 2. So the result is 240.",
+        "abstain": false,
+        "correct_value": 240
+      },
+      {
+        "gold": 791,
+        "text": "The answer is 791.",
+        "abstain": false,
+        "correct_value": 791
+      },
+      {
+        "gold": 875,
+        "text": "875",
+        "abstain": false,
+        "correct_value": 875
+      },
+      {
+        "gold": 81,
+        "text": "81",
+        "abstain": false,
+        "correct_value": 81
+      },
+      {
+        "gold": 60,
+        "text": "The answer is 60.",
+        "abstain": false,
+        "correct_value": 60
+      },
+      {
+        "gold": 671,
+        "text": "671 (approximately)",
+        "abstain": false,
+        "correct_value": 671
+      },
+      {
+        "gold": 337,
+        "text": "340 metres",
+        "abstain": false,
+        "correct_value": 340
+      },
+      {
+        "gold": 573,
+        "text": "We compute step by step. \\\\boxed{575}",
+        "abstain": false,
+        "correct_value": 575
+      },
+      {
+        "gold": 151,
+        "text": "151 metres",
+        "abstain": false,
+        "correct_value": 151
+      },
+      {
+        "gold": 859,
+        "text": "First 34, then 46. So the result is 859.",
+        "abstain": false,
+        "correct_value": 859
+      },
+      {
+        "gold": 450,
+        "text": "The answer is 450.",
+        "abstain": false,
+        "correct_value": 450
+      },
+      {
+        "gold": 894,
+        "text": "The answer is 897.",
+        "abstain": false,
+        "correct_value": 897
+      },
+      {
+        "gold": 795,
+        "text": "803 (approximately)",
+        "abstain": false,
+        "correct_value": 803
+      },
+      {
+        "gold": 705,
+        "text": "The answer is 705.",
+        "abstain": false,
+        "correct_value": 705
+      },
+      {
+        "gold": 231,
+        "text": "The answer is 239.",
+        "abstain": false,
+        "correct_value": 239
+      },
+      {
+        "gold": 766,
+        "text": "The answer is 766.",
+        "abstain": false,
+        "correct_value": 766
+      },
+      {
+        "gold": 53,
+        "text": "The answer is 55.",
+        "abstain": false,
+        "correct_value": 55
+      },
+      {
+        "gold": 570,
+        "text": "570 metres",
+        "abstain": false,
+        "correct_value": 570
+      },
+      {
+        "gold": 405,
+        "text": "First 44, then 38. So the result is 405.",
+        "abstain": false,
+        "correct_value": 405
+      },
+      {
+        "gold": 995,
+        "text": "996 (approximately)",
+        "abstain": false,
+        "correct_value": 996
+      },
+      {
+        "gold": 199,
+        "text": "First 4, then 46. So the result is 199",
+        "abstain": false,
+        "correct_value": 199
+      },
+      {
+        "gold": 945,
+        "text": "The answer is 945.",
+        "abstain": false,
+        "correct_value": 945
+      },
+      {
+        "gold": 92,
+        "text": "95",
+        "abstain": false,
+        "correct_value": 95
+      },
+      {
+        "gold": 623,
+        "text": "The answer is 626.",
+        "abstain": false,
+        "correct_value": 626
+      },
+      {
+        "gold": 580,
+        "text": "The answer is 582.",
+        "abstain": false,
+        "correct_value": 582
+      },
+      {
+        "gold": 898,
+        "text": "The answer is 899.",
+        "abstain": false,
+        "correct_value": 899
+      },
+      {
+        "gold": 299,
+        "text": "300",
+        "abstain": false,
+        "correct_value": 300
+      },
+      {
+        "gold": 901,
+        "text": "901 (approximately)",
+        "abstain": false,
+        "correct_value": 901
+      },
+      {
+        "gold": 671,
+        "text": "671 (approximately)",
+        "abstain": false,
+        "correct_value": 671
+      },
+      {
+        "gold": 889,
+        "text": "The answer is 892.",
+        "abstain": false,
+        "correct_value": 892
+      },
+      {
+        "gold": 200,
+        "text": "We compute step by step. \\\\boxed{200}",
+        "abstain": false,
+        "correct_value": 200
+      },
+      {
+        "gold": 757,
+        "text": "First 20, then 21. So the result is 757.",
+        "abstain": false,
+        "correct_value": 757
+      },
+      {
+        "gold": 941,
+        "text": "The answer is 941.",
+        "abstain": false,
+        "correct_value": 941
+      },
+      {
+        "gold": 50,
+        "text": "50",
+        "abstain": false,
+        "correct_value": 50
+      },
+      {
+        "gold": 366,
+        "text": "370 metres",
+        "abstain": false,
+        "correct_value": 370
+      },
+      {
+        "gold": 636,
+        "text": "642 (approximately)",
+        "abstain": false,
+        "correct_value": 642
+      },
+      {
+        "gold": 107,
+        "text": "The answer is 107.",
+        "abstain": false,
+        "correct_value": 107
+      },
+      {
+        "gold": 510,
+        "text": "The answer is 510.",
+        "abstain": false,
+        "correct_value": 510
+      },
+      {
+        "gold": 629,
+        "text": "629 (approximately)",
+        "abstain": false,
+        "correct_value": 629
+      },
+      {
+        "gold": 763,
+        "text": "770 metres",
+        "abstain": false,
+        "correct_value": 770
+      },
+      {
+        "gold": 926,
+        "text": "933",
+        "abstain": false,
+        "correct_value": 933
+      },
+      {
+        "gold": 410,
+        "text": "418 metres",
+        "abstain": false,
+        "correct_value": 418
+      },
+      {
+        "gold": 441,
+        "text": "The answer is 441.",
+        "abstain": false,
+        "correct_value": 441
+      },
+      {
+        "gold": 474,
+        "text": "474 metres",
+        "abstain": false,
+        "correct_value": 474
+      },
+      {
+        "gold": 953,
+        "text": "The answer is 953.",
+        "abstain": false,
+        "correct_value": 953
+      },
+      {
+        "gold": 197,
+        "text": "The answer is 200.",
+        "abstain": false,
+        "correct_value": 200
+      },
+      {
+        "gold": 500,
+        "text": "500 (approximately)",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 51,
+        "text": "51",
+        "abstain": false,
+        "correct_value": 51
+      },
+      {
+        "gold": 425,
+        "text": "First 42, then 35. So the result is 425.",
+        "abstain": false,
+        "correct_value": 425
+      },
+      {
+        "gold": 944,
+        "text": "The answer is 945.",
+        "abstain": false,
+        "correct_value": 945
+      },
+      {
+        "gold": 620,
+        "text": "First 27, then 17. So the result is 624.",
+        "abstain": false,
+        "correct_value": 624
+      },
+      {
+        "gold": 350,
+        "text": "The answer is 350.",
+        "abstain": false,
+        "correct_value": 350
+      },
+      {
+        "gold": 994,
+        "text": "The answer is 994.",
+        "abstain": false,
+        "correct_value": 994
+      },
+      {
+        "gold": 603,
+        "text": "The answer is 603.",
+        "abstain": false,
+        "correct_value": 603
+      },
+      {
+        "gold": 948,
+        "text": "First 18, then 7. So the result is 951.",
+        "abstain": false,
+        "correct_value": 951
+      },
+      {
+        "gold": 18,
+        "text": "We compute step by step. \\\\boxed{24}",
+        "abstain": false,
+        "correct_value": 24
+      },
+      {
+        "gold": 460,
+        "text": "The answer is 460.",
+        "abstain": false,
+        "correct_value": 460
+      },
+      {
+        "gold": 834,
+        "text": "834",
+        "abstain": false,
+        "correct_value": 834
+      },
+      {
+        "gold": 757,
+        "text": "The answer is 757.",
+        "abstain": false,
+        "correct_value": 757
+      },
+      {
+        "gold": 408,
+        "text": "409 (approximately)",
+        "abstain": false,
+        "correct_value": 409
+      },
+      {
+        "gold": 497,
+        "text": "The answer is 497.",
+        "abstain": false,
+        "correct_value": 497
+      },
+      {
+        "gold": 420,
+        "text": "420",
+        "abstain": false,
+        "correct_value": 420
+      },
+      {
+        "gold": 529,
+        "text": "The answer is 529.",
+        "abstain": false,
+        "correct_value": 529
+      },
+      {
+        "gold": 231,
+        "text": "The answer is 231.",
+        "abstain": false,
+        "correct_value": 231
+      },
+      {
+        "gold": 785,
+        "text": "785",
+        "abstain": false,
+        "correct_value": 785
+      },
+      {
+        "gold": 79,
+        "text": "87",
+        "abstain": false,
+        "correct_value": 87
+      },
+      {
+        "gold": 415,
+        "text": "The answer is 415.",
+        "abstain": false,
+        "correct_value": 415
+      },
+      {
+        "gold": 283,
+        "text": "283 (approximately)",
+        "abstain": false,
+        "correct_value": 283
+      },
+      {
+        "gold": 734,
+        "text": "The answer is 734.",
+        "abstain": false,
+        "correct_value": 734
+      },
+      {
+        "gold": 749,
+        "text": "749 (approximately)",
+        "abstain": false,
+        "correct_value": 749
+      },
+      {
+        "gold": 711,
+        "text": "The answer is 718.",
+        "abstain": false,
+        "correct_value": 718
+      },
+      {
+        "gold": 923,
+        "text": "923",
+        "abstain": false,
+        "correct_value": 923
+      },
+      {
+        "gold": 931,
+        "text": "The answer is 932.",
+        "abstain": false,
+        "correct_value": 932
+      },
+      {
+        "gold": 186,
+        "text": "The answer is 191.",
+        "abstain": false,
+        "correct_value": 191
+      },
+      {
+        "gold": 116,
+        "text": "First 17, then 43. So the result is 116",
+        "abstain": false,
+        "correct_value": 116
+      },
+      {
+        "gold": 133,
+        "text": "133 (approximately)",
+        "abstain": false,
+        "correct_value": 133
+      },
+      {
+        "gold": 728,
+        "text": "The answer is 728.",
+        "abstain": false,
+        "correct_value": 728
+      },
+      {
+        "gold": 969,
+        "text": "The answer is 969.",
+        "abstain": false,
+        "correct_value": 969
+      },
+      {
+        "gold": 926,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 668,
+        "text": "670 (approximately)",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 967,
+        "text": "First 35, then 37. So the result is 969.",
+        "abstain": false,
+        "correct_value": 969
+      },
+      {
+        "gold": 870,
+        "text": "The answer is 870.",
+        "abstain": false,
+        "correct_value": 870
+      },
+      {
+        "gold": 16,
+        "text": "The answer is 16.",
+        "abstain": false,
+        "correct_value": 16
+      },
+      {
+        "gold": 120,
+        "text": "The answer is 122.",
+        "abstain": false,
+        "correct_value": 122
+      },
+      {
+        "gold": 863,
+        "text": "First 36, then 13. So the result is 863.",
+        "abstain": false,
+        "correct_value": 863
+      },
+      {
+        "gold": 84,
+        "text": "The answer is 84.",
+        "abstain": false,
+        "correct_value": 84
+      },
+      {
+        "gold": 980,
+        "text": "First 14, then 27. So the result is 980",
+        "abstain": false,
+        "correct_value": 980
+      },
+      {
+        "gold": 826,
+        "text": "We compute step by step. \\\\boxed{826}",
+        "abstain": false,
+        "correct_value": 826
+      },
+      {
+        "gold": 956,
+        "text": "The answer is 956.",
+        "abstain": false,
+        "correct_value": 956
+      },
+      {
+        "gold": 361,
+        "text": "The answer is 361.",
+        "abstain": false,
+        "correct_value": 361
+      },
+      {
+        "gold": 150,
+        "text": "The answer is 150.",
+        "abstain": false,
+        "correct_value": 150
+      },
+      {
+        "gold": 517,
+        "text": "The answer is 525.",
+        "abstain": false,
+        "correct_value": 525
+      },
+      {
+        "gold": 971,
+        "text": "971 (approximately)",
+        "abstain": false,
+        "correct_value": 971
+      },
+      {
+        "gold": 368,
+        "text": "The answer is 368.",
+        "abstain": false,
+        "correct_value": 368
+      },
+      {
+        "gold": 889,
+        "text": "The answer is 895.",
+        "abstain": false,
+        "correct_value": 895
+      },
+      {
+        "gold": 384,
+        "text": "We compute step by step. \\\\boxed{384}",
+        "abstain": false,
+        "correct_value": 384
+      },
+      {
+        "gold": 821,
+        "text": "821 (approximately)",
+        "abstain": false,
+        "correct_value": 821
+      },
+      {
+        "gold": 230,
+        "text": "230 (approximately)",
+        "abstain": false,
+        "correct_value": 230
+      },
+      {
+        "gold": 480,
+        "text": "The answer is 480.",
+        "abstain": false,
+        "correct_value": 480
+      },
+      {
+        "gold": 327,
+        "text": "The answer is 327.",
+        "abstain": false,
+        "correct_value": 327
+      },
+      {
+        "gold": 233,
+        "text": "The answer is 239.",
+        "abstain": false,
+        "correct_value": 239
+      },
+      {
+        "gold": 892,
+        "text": "The answer is 892.",
+        "abstain": false,
+        "correct_value": 892
+      },
+      {
+        "gold": 801,
+        "text": "801",
+        "abstain": false,
+        "correct_value": 801
+      },
+      {
+        "gold": 141,
+        "text": "141",
+        "abstain": false,
+        "correct_value": 141
+      },
+      {
+        "gold": 922,
+        "text": "The answer is 929.",
+        "abstain": false,
+        "correct_value": 929
+      },
+      {
+        "gold": 970,
+        "text": "970",
+        "abstain": false,
+        "correct_value": 970
+      },
+      {
+        "gold": 267,
+        "text": "The answer is 270.",
+        "abstain": false,
+        "correct_value": 270
+      },
+      {
+        "gold": 427,
+        "text": "433",
+        "abstain": false,
+        "correct_value": 433
+      },
+      {
+        "gold": 539,
+        "text": "542",
+        "abstain": false,
+        "correct_value": 542
+      },
+      {
+        "gold": 657,
+        "text": "The answer is 657.",
+        "abstain": false,
+        "correct_value": 657
+      },
+      {
+        "gold": 443,
+        "text": "First 9, then 15. So the result is 444.",
+        "abstain": false,
+        "correct_value": 444
+      },
+      {
+        "gold": 150,
+        "text": "The answer is 154.",
+        "abstain": false,
+        "correct_value": 154
+      },
+      {
+        "gold": 930,
+        "text": "930",
+        "abstain": false,
+        "correct_value": 930
+      },
+      {
+        "gold": 691,
+        "text": "First 40, then 14. So the result is 691",
+        "abstain": false,
+        "correct_value": 691
+      },
+      {
+        "gold": 42,
+        "text": "42 metres",
+        "abstain": false,
+        "correct_value": 42
+      },
+      {
+        "gold": 813,
+        "text": "814",
+        "abstain": false,
+        "correct_value": 814
+      },
+      {
+        "gold": 731,
+        "text": "The answer is 731.",
+        "abstain": false,
+        "correct_value": 731
+      },
+      {
+        "gold": 184,
+        "text": "185",
+        "abstain": false,
+        "correct_value": 185
+      },
+      {
+        "gold": 614,
+        "text": "614",
+        "abstain": false,
+        "correct_value": 614
+      },
+      {
+        "gold": 502,
+        "text": "First 21, then 47. So the result is 502",
+        "abstain": false,
+        "correct_value": 502
+      },
+      {
+        "gold": 30,
+        "text": "36 metres",
+        "abstain": false,
+        "correct_value": 36
+      },
+      {
+        "gold": 926,
+        "text": "The answer is 931.",
+        "abstain": false,
+        "correct_value": 931
+      },
+      {
+        "gold": 719,
+        "text": "The answer is 719.",
+        "abstain": false,
+        "correct_value": 719
+      },
+      {
+        "gold": 311,
+        "text": "313",
+        "abstain": false,
+        "correct_value": 313
+      },
+      {
+        "gold": 17,
+        "text": "The answer is 17.",
+        "abstain": false,
+        "correct_value": 17
+      },
+      {
+        "gold": 93,
+        "text": "93 (approximately)",
+        "abstain": false,
+        "correct_value": 93
+      },
+      {
+        "gold": 757,
+        "text": "The answer is 763.",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 150,
+        "text": "150",
+        "abstain": false,
+        "correct_value": 150
+      },
+      {
+        "gold": 513,
+        "text": "The answer is 513.",
+        "abstain": false,
+        "correct_value": 513
+      },
+      {
+        "gold": 898,
+        "text": "We compute step by step. \\\\boxed{898}",
+        "abstain": false,
+        "correct_value": 898
+      },
+      {
+        "gold": 928,
+        "text": "We compute step by step. \\\\boxed{928}",
+        "abstain": false,
+        "correct_value": 928
+      },
+      {
+        "gold": 269,
+        "text": "274 (approximately)",
+        "abstain": false,
+        "correct_value": 274
+      },
+      {
+        "gold": 67,
+        "text": "First 39, then 40. So the result is 75.",
+        "abstain": false,
+        "correct_value": 75
+      },
+      {
+        "gold": 495,
+        "text": "The answer is 497.",
+        "abstain": false,
+        "correct_value": 497
+      },
+      {
+        "gold": 840,
+        "text": "The answer is 844.",
+        "abstain": false,
+        "correct_value": 844
+      },
+      {
+        "gold": 624,
+        "text": "The answer is 626.",
+        "abstain": false,
+        "correct_value": 626
+      },
+      {
+        "gold": 68,
+        "text": "The answer is 68.",
+        "abstain": false,
+        "correct_value": 68
+      },
+      {
+        "gold": 650,
+        "text": "The answer is 650.",
+        "abstain": false,
+        "correct_value": 650
+      },
+      {
+        "gold": 345,
+        "text": "The answer is 353.",
+        "abstain": false,
+        "correct_value": 353
+      },
+      {
+        "gold": 227,
+        "text": "227 (approximately)",
+        "abstain": false,
+        "correct_value": 227
+      },
+      {
+        "gold": 431,
+        "text": "431",
+        "abstain": false,
+        "correct_value": 431
+      },
+      {
+        "gold": 872,
+        "text": "We compute step by step. \\\\boxed{872}",
+        "abstain": false,
+        "correct_value": 872
+      },
+      {
+        "gold": 965,
+        "text": "966",
+        "abstain": false,
+        "correct_value": 966
+      },
+      {
+        "gold": 142,
+        "text": "The answer is 146.",
+        "abstain": false,
+        "correct_value": 146
+      },
+      {
+        "gold": 562,
+        "text": "562 metres",
+        "abstain": false,
+        "correct_value": 562
+      },
+      {
+        "gold": 761,
+        "text": "We compute step by step. \\\\boxed{766}",
+        "abstain": false,
+        "correct_value": 766
+      },
+      {
+        "gold": 260,
+        "text": "266",
+        "abstain": false,
+        "correct_value": 266
+      },
+      {
+        "gold": 273,
+        "text": "We compute step by step. \\\\boxed{273}",
+        "abstain": false,
+        "correct_value": 273
+      },
+      {
+        "gold": 242,
+        "text": "245",
+        "abstain": false,
+        "correct_value": 245
+      },
+      {
+        "gold": 210,
+        "text": "The answer is 212.",
+        "abstain": false,
+        "correct_value": 212
+      },
+      {
+        "gold": 887,
+        "text": "887",
+        "abstain": false,
+        "correct_value": 887
+      },
+      {
+        "gold": 219,
+        "text": "First 25, then 26. So the result is 224.",
+        "abstain": false,
+        "correct_value": 224
+      },
+      {
+        "gold": 227,
+        "text": "231 (approximately)",
+        "abstain": false,
+        "correct_value": 231
+      },
+      {
+        "gold": 127,
+        "text": "127 metres",
+        "abstain": false,
+        "correct_value": 127
+      },
+      {
+        "gold": 126,
+        "text": "The answer is 126.",
+        "abstain": false,
+        "correct_value": 126
+      },
+      {
+        "gold": 778,
+        "text": "The answer is 778.",
+        "abstain": false,
+        "correct_value": 778
+      },
+      {
+        "gold": 289,
+        "text": "The answer is 291.",
+        "abstain": false,
+        "correct_value": 291
+      },
+      {
+        "gold": 801,
+        "text": "801 (approximately)",
+        "abstain": false,
+        "correct_value": 801
+      },
+      {
+        "gold": 586,
+        "text": "The answer is 586.",
+        "abstain": false,
+        "correct_value": 586
+      },
+      {
+        "gold": 857,
+        "text": "The answer is 865.",
+        "abstain": false,
+        "correct_value": 865
+      },
+      {
+        "gold": 554,
+        "text": "First 11, then 42. So the result is 554",
+        "abstain": false,
+        "correct_value": 554
+      },
+      {
+        "gold": 763,
+        "text": "The answer is 763.",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 809,
+        "text": "809 (approximately)",
+        "abstain": false,
+        "correct_value": 809
+      },
+      {
+        "gold": 62,
+        "text": "The answer is 62.",
+        "abstain": false,
+        "correct_value": 62
+      },
+      {
+        "gold": 560,
+        "text": "560",
+        "abstain": false,
+        "correct_value": 560
+      },
+      {
+        "gold": 455,
+        "text": "First 18, then 33. So the result is 455.",
+        "abstain": false,
+        "correct_value": 455
+      },
+      {
+        "gold": 289,
+        "text": "First 12, then 34. So the result is 289",
+        "abstain": false,
+        "correct_value": 289
+      },
+      {
+        "gold": 453,
+        "text": "453",
+        "abstain": false,
+        "correct_value": 453
+      },
+      {
+        "gold": 413,
+        "text": "413 metres",
+        "abstain": false,
+        "correct_value": 413
+      },
+      {
+        "gold": 492,
+        "text": "The answer is 492.",
+        "abstain": false,
+        "correct_value": 492
+      },
+      {
+        "gold": 817,
+        "text": "817 (approximately)",
+        "abstain": false,
+        "correct_value": 817
+      },
+      {
+        "gold": 825,
+        "text": "We compute step by step. \\\\boxed{825}",
+        "abstain": false,
+        "correct_value": 825
+      },
+      {
+        "gold": 626,
+        "text": "626 (approximately)",
+        "abstain": false,
+        "correct_value": 626
+      },
+      {
+        "gold": 710,
+        "text": "The answer is 710.",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 958,
+        "text": "The answer is 958.",
+        "abstain": false,
+        "correct_value": 958
+      },
+      {
+        "gold": 636,
+        "text": "636",
+        "abstain": false,
+        "correct_value": 636
+      },
+      {
+        "gold": 370,
+        "text": "370 metres",
+        "abstain": false,
+        "correct_value": 370
+      },
+      {
+        "gold": 83,
+        "text": "The answer is 83.",
+        "abstain": false,
+        "correct_value": 83
+      },
+      {
+        "gold": 552,
+        "text": "The answer is 555.",
+        "abstain": false,
+        "correct_value": 555
+      },
+      {
+        "gold": 232,
+        "text": "The answer is 232.",
+        "abstain": false,
+        "correct_value": 232
+      },
+      {
+        "gold": 594,
+        "text": "First 28, then 17. So the result is 594",
+        "abstain": false,
+        "correct_value": 594
+      },
+      {
+        "gold": 27,
+        "text": "The answer is 27.",
+        "abstain": false,
+        "correct_value": 27
+      },
+      {
+        "gold": 847,
+        "text": "First 29, then 17. So the result is 847.",
+        "abstain": false,
+        "correct_value": 847
+      },
+      {
+        "gold": 943,
+        "text": "943",
+        "abstain": false,
+        "correct_value": 943
+      },
+      {
+        "gold": 147,
+        "text": "The answer is 147.",
+        "abstain": false,
+        "correct_value": 147
+      },
+      {
+        "gold": 818,
+        "text": "First 17, then 39. So the result is 822.",
+        "abstain": false,
+        "correct_value": 822
+      },
+      {
+        "gold": 407,
+        "text": "The answer is 407.",
+        "abstain": false,
+        "correct_value": 407
+      },
+      {
+        "gold": 43,
+        "text": "43",
+        "abstain": false,
+        "correct_value": 43
+      },
+      {
+        "gold": 909,
+        "text": "909 (approximately)",
+        "abstain": false,
+        "correct_value": 909
+      },
+      {
+        "gold": 940,
+        "text": "First 33, then 11. So the result is 940",
+        "abstain": false,
+        "correct_value": 940
+      },
+      {
+        "gold": 44,
+        "text": "First 21, then 36. So the result is 51.",
+        "abstain": false,
+        "correct_value": 51
+      },
+      {
+        "gold": 593,
+        "text": "593",
+        "abstain": false,
+        "correct_value": 593
+      },
+      {
+        "gold": 822,
+        "text": "The answer is 822.",
+        "abstain": false,
+        "correct_value": 822
+      },
+      {
+        "gold": 789,
+        "text": "797",
+        "abstain": false,
+        "correct_value": 797
+      },
+      {
+        "gold": 416,
+        "text": "The answer is 416.",
+        "abstain": false,
+        "correct_value": 416
+      },
+      {
+        "gold": 859,
+        "text": "861 (approximately)",
+        "abstain": false,
+        "correct_value": 861
+      },
+      {
+        "gold": 829,
+        "text": "829",
+        "abstain": false,
+        "correct_value": 829
+      },
+      {
+        "gold": 115,
+        "text": "The answer is 116.",
+        "abstain": false,
+        "correct_value": 116
+      },
+      {
+        "gold": 11,
+        "text": "11",
+        "abstain": false,
+        "correct_value": 11
+      },
+      {
+        "gold": 103,
+        "text": "103 metres",
+        "abstain": false,
+        "correct_value": 103
+      },
+      {
+        "gold": 365,
+        "text": "The answer is 371.",
+        "abstain": false,
+        "correct_value": 371
+      },
+      {
+        "gold": 111,
+        "text": "The answer is 111.",
+        "abstain": false,
+        "correct_value": 111
+      },
+      {
+        "gold": 80,
+        "text": "The answer is 80.",
+        "abstain": false,
+        "correct_value": 80
+      },
+      {
+        "gold": 259,
+        "text": "266",
+        "abstain": false,
+        "correct_value": 266
+      },
+      {
+        "gold": 652,
+        "text": "The answer is 652.",
+        "abstain": false,
+        "correct_value": 652
+      },
+      {
+        "gold": 524,
+        "text": "524",
+        "abstain": false,
+        "correct_value": 524
+      },
+      {
+        "gold": 275,
+        "text": "275",
+        "abstain": false,
+        "correct_value": 275
+      },
+      {
+        "gold": 949,
+        "text": "First 43, then 10. So the result is 949.",
+        "abstain": false,
+        "correct_value": 949
+      },
+      {
+        "gold": 702,
+        "text": "The answer is 702.",
+        "abstain": false,
+        "correct_value": 702
+      },
+      {
+        "gold": 634,
+        "text": "The answer is 634.",
+        "abstain": false,
+        "correct_value": 634
+      },
+      {
+        "gold": 942,
+        "text": "943",
+        "abstain": false,
+        "correct_value": 943
+      },
+      {
+        "gold": 785,
+        "text": "785",
+        "abstain": false,
+        "correct_value": 785
+      },
+      {
+        "gold": 128,
+        "text": "The answer is 130.",
+        "abstain": false,
+        "correct_value": 130
+      },
+      {
+        "gold": 38,
+        "text": "38",
+        "abstain": false,
+        "correct_value": 38
+      },
+      {
+        "gold": 864,
+        "text": "The answer is 864.",
+        "abstain": false,
+        "correct_value": 864
+      },
+      {
+        "gold": 408,
+        "text": "408 metres",
+        "abstain": false,
+        "correct_value": 408
+      },
+      {
+        "gold": 61,
+        "text": "The answer is 63.",
+        "abstain": false,
+        "correct_value": 63
+      },
+      {
+        "gold": 477,
+        "text": "477 (approximately)",
+        "abstain": false,
+        "correct_value": 477
+      },
+      {
+        "gold": 381,
+        "text": "381",
+        "abstain": false,
+        "correct_value": 381
+      },
+      {
+        "gold": 431,
+        "text": "439",
+        "abstain": false,
+        "correct_value": 439
+      },
+      {
+        "gold": 430,
+        "text": "437 (approximately)",
+        "abstain": false,
+        "correct_value": 437
+      },
+      {
+        "gold": 315,
+        "text": "The answer is 315.",
+        "abstain": false,
+        "correct_value": 315
+      },
+      {
+        "gold": 489,
+        "text": "First 4, then 41. So the result is 489",
+        "abstain": false,
+        "correct_value": 489
+      },
+      {
+        "gold": 492,
+        "text": "The answer is 495.",
+        "abstain": false,
+        "correct_value": 495
+      },
+      {
+        "gold": 975,
+        "text": "975 metres",
+        "abstain": false,
+        "correct_value": 975
+      },
+      {
+        "gold": 692,
+        "text": "699 (approximately)",
+        "abstain": false,
+        "correct_value": 699
+      },
+      {
+        "gold": 775,
+        "text": "781",
+        "abstain": false,
+        "correct_value": 781
+      },
+      {
+        "gold": 10,
+        "text": "The answer is 11.",
+        "abstain": false,
+        "correct_value": 11
+      },
+      {
+        "gold": 309,
+        "text": "The answer is 309.",
+        "abstain": false,
+        "correct_value": 309
+      },
+      {
+        "gold": 982,
+        "text": "The answer is 985.",
+        "abstain": false,
+        "correct_value": 985
+      },
+      {
+        "gold": 271,
+        "text": "276 (approximately)",
+        "abstain": false,
+        "correct_value": 276
+      },
+      {
+        "gold": 510,
+        "text": "The answer is 510.",
+        "abstain": false,
+        "correct_value": 510
+      },
+      {
+        "gold": 862,
+        "text": "866 (approximately)",
+        "abstain": false,
+        "correct_value": 866
+      },
+      {
+        "gold": 638,
+        "text": "638",
+        "abstain": false,
+        "correct_value": 638
+      },
+      {
+        "gold": 880,
+        "text": "880 (approximately)",
+        "abstain": false,
+        "correct_value": 880
+      },
+      {
+        "gold": 165,
+        "text": "The answer is 165.",
+        "abstain": false,
+        "correct_value": 165
+      },
+      {
+        "gold": 511,
+        "text": "First 15, then 34. So the result is 511",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 635,
+        "text": "We compute step by step. \\\\boxed{635}",
+        "abstain": false,
+        "correct_value": 635
+      },
+      {
+        "gold": 345,
+        "text": "348 metres",
+        "abstain": false,
+        "correct_value": 348
+      },
+      {
+        "gold": 574,
+        "text": "We compute step by step. \\\\boxed{578}",
+        "abstain": false,
+        "correct_value": 578
+      },
+      {
+        "gold": 993,
+        "text": "997 (approximately)",
+        "abstain": false,
+        "correct_value": 997
+      },
+      {
+        "gold": 736,
+        "text": "The answer is 736.",
+        "abstain": false,
+        "correct_value": 736
+      },
+      {
+        "gold": 316,
+        "text": "First 49, then 42. So the result is 316",
+        "abstain": false,
+        "correct_value": 316
+      },
+      {
+        "gold": 65,
+        "text": "The answer is 71.",
+        "abstain": false,
+        "correct_value": 71
+      },
+      {
+        "gold": 184,
+        "text": "184 metres",
+        "abstain": false,
+        "correct_value": 184
+      },
+      {
+        "gold": 273,
+        "text": "The answer is 277.",
+        "abstain": false,
+        "correct_value": 277
+      },
+      {
+        "gold": 879,
+        "text": "886 (approximately)",
+        "abstain": false,
+        "correct_value": 886
+      },
+      {
+        "gold": 272,
+        "text": "We compute step by step. \\\\boxed{276}",
+        "abstain": false,
+        "correct_value": 276
+      },
+      {
+        "gold": 811,
+        "text": "The answer is 811.",
+        "abstain": false,
+        "correct_value": 811
+      },
+      {
+        "gold": 275,
+        "text": "275",
+        "abstain": false,
+        "correct_value": 275
+      },
+      {
+        "gold": 667,
+        "text": "670 metres",
+        "abstain": false,
+        "correct_value": 670
+      },
+      {
+        "gold": 527,
+        "text": "527 metres",
+        "abstain": false,
+        "correct_value": 527
+      },
+      {
+        "gold": 957,
+        "text": "The answer is 964.",
+        "abstain": false,
+        "correct_value": 964
+      },
+      {
+        "gold": 566,
+        "text": "566 (approximately)",
+        "abstain": false,
+        "correct_value": 566
+      },
+      {
+        "gold": 924,
+        "text": "The answer is 924.",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 961,
+        "text": "961 metres",
+        "abstain": false,
+        "correct_value": 961
+      },
+      {
+        "gold": 748,
+        "text": "748",
+        "abstain": false,
+        "correct_value": 748
+      },
+      {
+        "gold": 628,
+        "text": "The answer is 634.",
+        "abstain": false,
+        "correct_value": 634
+      },
+      {
+        "gold": 860,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 995,
+        "text": "995",
+        "abstain": false,
+        "correct_value": 995
+      },
+      {
+        "gold": 248,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 562,
+        "text": "562",
+        "abstain": false,
+        "correct_value": 562
+      },
+      {
+        "gold": 142,
+        "text": "The answer is 142.",
+        "abstain": false,
+        "correct_value": 142
+      },
+      {
+        "gold": 106,
+        "text": "108",
+        "abstain": false,
+        "correct_value": 108
+      },
+      {
+        "gold": 670,
+        "text": "675 (approximately)",
+        "abstain": false,
+        "correct_value": 675
+      },
+      {
+        "gold": 49,
+        "text": "First 21, then 27. So the result is 49",
+        "abstain": false,
+        "correct_value": 49
+      },
+      {
+        "gold": 714,
+        "text": "714 (approximately)",
+        "abstain": false,
+        "correct_value": 714
+      },
+      {
+        "gold": 820,
+        "text": "The answer is 820.",
+        "abstain": false,
+        "correct_value": 820
+      },
+      {
+        "gold": 168,
+        "text": "173 metres",
+        "abstain": false,
+        "correct_value": 173
+      },
+      {
+        "gold": 680,
+        "text": "680 (approximately)",
+        "abstain": false,
+        "correct_value": 680
+      },
+      {
+        "gold": 396,
+        "text": "We compute step by step. \\\\boxed{396}",
+        "abstain": false,
+        "correct_value": 396
+      },
+      {
+        "gold": 892,
+        "text": "First 14, then 49. So the result is 892",
+        "abstain": false,
+        "correct_value": 892
+      },
+      {
+        "gold": 909,
+        "text": "The answer is 909.",
+        "abstain": false,
+        "correct_value": 909
+      },
+      {
+        "gold": 577,
+        "text": "First 33, then 16. So the result is 585",
+        "abstain": false,
+        "correct_value": 585
+      },
+      {
+        "gold": 561,
+        "text": "The answer is 561.",
+        "abstain": false,
+        "correct_value": 561
+      },
+      {
+        "gold": 710,
+        "text": "710",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 578,
+        "text": "We compute step by step. \\\\boxed{584}",
+        "abstain": false,
+        "correct_value": 584
+      },
+      {
+        "gold": 745,
+        "text": "The answer is 749.",
+        "abstain": false,
+        "correct_value": 749
+      },
+      {
+        "gold": 195,
+        "text": "195 metres",
+        "abstain": false,
+        "correct_value": 195
+      },
+      {
+        "gold": 781,
+        "text": "We compute step by step. \\\\boxed{781}",
+        "abstain": false,
+        "correct_value": 781
+      },
+      {
+        "gold": 526,
+        "text": "534",
+        "abstain": false,
+        "correct_value": 534
+      },
+      {
+        "gold": 751,
+        "text": "751 (approximately)",
+        "abstain": false,
+        "correct_value": 751
+      },
+      {
+        "gold": 523,
+        "text": "We compute step by step. \\\\boxed{523}",
+        "abstain": false,
+        "correct_value": 523
+      },
+      {
+        "gold": 307,
+        "text": "307 (approximately)",
+        "abstain": false,
+        "correct_value": 307
+      },
+      {
+        "gold": 90,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 525,
+        "text": "The answer is 525.",
+        "abstain": false,
+        "correct_value": 525
+      },
+      {
+        "gold": 980,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 37,
+        "text": "The answer is 37.",
+        "abstain": false,
+        "correct_value": 37
+      },
+      {
+        "gold": 571,
+        "text": "574 metres",
+        "abstain": false,
+        "correct_value": 574
+      },
+      {
+        "gold": 447,
+        "text": "The answer is 447.",
+        "abstain": false,
+        "correct_value": 447
+      },
+      {
+        "gold": 8,
+        "text": "14",
+        "abstain": false,
+        "correct_value": 14
+      },
+      {
+        "gold": 543,
+        "text": "The answer is 551.",
+        "abstain": false,
+        "correct_value": 551
+      },
+      {
+        "gold": 772,
+        "text": "772 metres",
+        "abstain": false,
+        "correct_value": 772
+      },
+      {
+        "gold": 741,
+        "text": "741 (approximately)",
+        "abstain": false,
+        "correct_value": 741
+      },
+      {
+        "gold": 977,
+        "text": "The answer is 978.",
+        "abstain": false,
+        "correct_value": 978
+      },
+      {
+        "gold": 529,
+        "text": "The answer is 536.",
+        "abstain": false,
+        "correct_value": 536
+      },
+      {
+        "gold": 590,
+        "text": "We compute step by step. \\\\boxed{590}",
+        "abstain": false,
+        "correct_value": 590
+      },
+      {
+        "gold": 964,
+        "text": "964 metres",
+        "abstain": false,
+        "correct_value": 964
+      },
+      {
+        "gold": 320,
+        "text": "320",
+        "abstain": false,
+        "correct_value": 320
+      },
+      {
+        "gold": 798,
+        "text": "The answer is 798.",
+        "abstain": false,
+        "correct_value": 798
+      },
+      {
+        "gold": 188,
+        "text": "188 metres",
+        "abstain": false,
+        "correct_value": 188
+      },
+      {
+        "gold": 362,
+        "text": "The answer is 362.",
+        "abstain": false,
+        "correct_value": 362
+      },
+      {
+        "gold": 672,
+        "text": "676 (approximately)",
+        "abstain": false,
+        "correct_value": 676
+      },
+      {
+        "gold": 579,
+        "text": "The answer is 584.",
+        "abstain": false,
+        "correct_value": 584
+      },
+      {
+        "gold": 196,
+        "text": "The answer is 196.",
+        "abstain": false,
+        "correct_value": 196
+      },
+      {
+        "gold": 659,
+        "text": "We compute step by step. \\\\boxed{664}",
+        "abstain": false,
+        "correct_value": 664
+      },
+      {
+        "gold": 577,
+        "text": "We compute step by step. \\\\boxed{579}",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 919,
+        "text": "919",
+        "abstain": false,
+        "correct_value": 919
+      },
+      {
+        "gold": 602,
+        "text": "The answer is 602.",
+        "abstain": false,
+        "correct_value": 602
+      },
+      {
+        "gold": 883,
+        "text": "889 metres",
+        "abstain": false,
+        "correct_value": 889
+      },
+      {
+        "gold": 961,
+        "text": "First 26, then 36. So the result is 961",
+        "abstain": false,
+        "correct_value": 961
+      },
+      {
+        "gold": 89,
+        "text": "The answer is 89.",
+        "abstain": false,
+        "correct_value": 89
+      },
+      {
+        "gold": 74,
+        "text": "The answer is 80.",
+        "abstain": false,
+        "correct_value": 80
+      },
+      {
+        "gold": 503,
+        "text": "We compute step by step. \\\\boxed{503}",
+        "abstain": false,
+        "correct_value": 503
+      },
+      {
+        "gold": 500,
+        "text": "The answer is 500.",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 555,
+        "text": "We compute step by step. \\\\boxed{555}",
+        "abstain": false,
+        "correct_value": 555
+      },
+      {
+        "gold": 743,
+        "text": "The answer is 743.",
+        "abstain": false,
+        "correct_value": 743
+      },
+      {
+        "gold": 316,
+        "text": "We compute step by step. \\\\boxed{316}",
+        "abstain": false,
+        "correct_value": 316
+      },
+      {
+        "gold": 178,
+        "text": "The answer is 178.",
+        "abstain": false,
+        "correct_value": 178
+      },
+      {
+        "gold": 680,
+        "text": "The answer is 688.",
+        "abstain": false,
+        "correct_value": 688
+      },
+      {
+        "gold": 388,
+        "text": "The answer is 388.",
+        "abstain": false,
+        "correct_value": 388
+      },
+      {
+        "gold": 928,
+        "text": "928 metres",
+        "abstain": false,
+        "correct_value": 928
+      },
+      {
+        "gold": 64,
+        "text": "The answer is 64.",
+        "abstain": false,
+        "correct_value": 64
+      },
+      {
+        "gold": 709,
+        "text": "The answer is 709.",
+        "abstain": false,
+        "correct_value": 709
+      },
+      {
+        "gold": 725,
+        "text": "731",
+        "abstain": false,
+        "correct_value": 731
+      },
+      {
+        "gold": 272,
+        "text": "272",
+        "abstain": false,
+        "correct_value": 272
+      },
+      {
+        "gold": 89,
+        "text": "The answer is 89.",
+        "abstain": false,
+        "correct_value": 89
+      },
+      {
+        "gold": 319,
+        "text": "The answer is 323.",
+        "abstain": false,
+        "correct_value": 323
+      },
+      {
+        "gold": 395,
+        "text": "We compute step by step. \\\\boxed{395}",
+        "abstain": false,
+        "correct_value": 395
+      },
+      {
+        "gold": 978,
+        "text": "980",
+        "abstain": false,
+        "correct_value": 980
+      },
+      {
+        "gold": 872,
+        "text": "The answer is 872.",
+        "abstain": false,
+        "correct_value": 872
+      },
+      {
+        "gold": 232,
+        "text": "We compute step by step. \\\\boxed{232}",
+        "abstain": false,
+        "correct_value": 232
+      },
+      {
+        "gold": 472,
+        "text": "480",
+        "abstain": false,
+        "correct_value": 480
+      },
+      {
+        "gold": 600,
+        "text": "First 42, then 10. So the result is 600",
+        "abstain": false,
+        "correct_value": 600
+      },
+      {
+        "gold": 911,
+        "text": "The answer is 917.",
+        "abstain": false,
+        "correct_value": 917
+      },
+      {
+        "gold": 136,
+        "text": "First 23, then 33. So the result is 136",
+        "abstain": false,
+        "correct_value": 136
+      },
+      {
+        "gold": 765,
+        "text": "The answer is 765.",
+        "abstain": false,
+        "correct_value": 765
+      },
+      {
+        "gold": 924,
+        "text": "The answer is 924.",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 914,
+        "text": "920",
+        "abstain": false,
+        "correct_value": 920
+      },
+      {
+        "gold": 278,
+        "text": "The answer is 286.",
+        "abstain": false,
+        "correct_value": 286
+      },
+      {
+        "gold": 129,
+        "text": "The answer is 135.",
+        "abstain": false,
+        "correct_value": 135
+      },
+      {
+        "gold": 594,
+        "text": "594 metres",
+        "abstain": false,
+        "correct_value": 594
+      },
+      {
+        "gold": 75,
+        "text": "75",
+        "abstain": false,
+        "correct_value": 75
+      },
+      {
+        "gold": 131,
+        "text": "131 (approximately)",
+        "abstain": false,
+        "correct_value": 131
+      },
+      {
+        "gold": 72,
+        "text": "The answer is 72.",
+        "abstain": false,
+        "correct_value": 72
+      },
+      {
+        "gold": 212,
+        "text": "First 44, then 48. So the result is 212",
+        "abstain": false,
+        "correct_value": 212
+      },
+      {
+        "gold": 868,
+        "text": "First 36, then 46. So the result is 868",
+        "abstain": false,
+        "correct_value": 868
+      },
+      {
+        "gold": 672,
+        "text": "The answer is 672.",
+        "abstain": false,
+        "correct_value": 672
+      },
+      {
+        "gold": 634,
+        "text": "The answer is 634.",
+        "abstain": false,
+        "correct_value": 634
+      },
+      {
+        "gold": 984,
+        "text": "The answer is 984.",
+        "abstain": false,
+        "correct_value": 984
+      },
+      {
+        "gold": 497,
+        "text": "500 (approximately)",
+        "abstain": false,
+        "correct_value": 500
+      },
+      {
+        "gold": 41,
+        "text": "First 42, then 38. So the result is 49",
+        "abstain": false,
+        "correct_value": 49
+      },
+      {
+        "gold": 165,
+        "text": "The answer is 165.",
+        "abstain": false,
+        "correct_value": 165
+      },
+      {
+        "gold": 261,
+        "text": "261",
+        "abstain": false,
+        "correct_value": 261
+      },
+      {
+        "gold": 673,
+        "text": "The answer is 677.",
+        "abstain": false,
+        "correct_value": 677
+      },
+      {
+        "gold": 357,
+        "text": "358",
+        "abstain": false,
+        "correct_value": 358
+      },
+      {
+        "gold": 319,
+        "text": "322",
+        "abstain": false,
+        "correct_value": 322
+      },
+      {
+        "gold": 113,
+        "text": "The answer is 117.",
+        "abstain": false,
+        "correct_value": 117
+      },
+      {
+        "gold": 710,
+        "text": "The answer is 710.",
+        "abstain": false,
+        "correct_value": 710
+      },
+      {
+        "gold": 26,
+        "text": "32 (approximately)",
+        "abstain": false,
+        "correct_value": 32
+      },
+      {
+        "gold": 460,
+        "text": "The answer is 460.",
+        "abstain": false,
+        "correct_value": 460
+      },
+      {
+        "gold": 744,
+        "text": "The answer is 746.",
+        "abstain": false,
+        "correct_value": 746
+      },
+      {
+        "gold": 507,
+        "text": "The answer is 508.",
+        "abstain": false,
+        "correct_value": 508
+      },
+      {
+        "gold": 686,
+        "text": "686",
+        "abstain": false,
+        "correct_value": 686
+      },
+      {
+        "gold": 789,
+        "text": "First 40, then 22. So the result is 789.",
+        "abstain": false,
+        "correct_value": 789
+      },
+      {
+        "gold": 226,
+        "text": "The answer is 226.",
+        "abstain": false,
+        "correct_value": 226
+      },
+      {
+        "gold": 94,
+        "text": "94 (approximately)",
+        "abstain": false,
+        "correct_value": 94
+      },
+      {
+        "gold": 58,
+        "text": "The answer is 58.",
+        "abstain": false,
+        "correct_value": 58
+      },
+      {
+        "gold": 579,
+        "text": "The answer is 579.",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 265,
+        "text": "271",
+        "abstain": false,
+        "correct_value": 271
+      },
+      {
+        "gold": 198,
+        "text": "The answer is 198.",
+        "abstain": false,
+        "correct_value": 198
+      },
+      {
+        "gold": 734,
+        "text": "The answer is 734.",
+        "abstain": false,
+        "correct_value": 734
+      },
+      {
+        "gold": 807,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 953,
+        "text": "First 26, then 19. So the result is 953",
+        "abstain": false,
+        "correct_value": 953
+      },
+      {
+        "gold": 489,
+        "text": "The answer is 492.",
+        "abstain": false,
+        "correct_value": 492
+      },
+      {
+        "gold": 523,
+        "text": "523",
+        "abstain": false,
+        "correct_value": 523
+      },
+      {
+        "gold": 987,
+        "text": "987 (approximately)",
+        "abstain": false,
+        "correct_value": 987
+      },
+      {
+        "gold": 504,
+        "text": "511 metres",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 184,
+        "text": "First 12, then 8. So the result is 184.",
+        "abstain": false,
+        "correct_value": 184
+      },
+      {
+        "gold": 257,
+        "text": "First 11, then 21. So the result is 257",
+        "abstain": false,
+        "correct_value": 257
+      },
+      {
+        "gold": 962,
+        "text": "The answer is 962.",
+        "abstain": false,
+        "correct_value": 962
+      },
+      {
+        "gold": 45,
+        "text": "45",
+        "abstain": false,
+        "correct_value": 45
+      },
+      {
+        "gold": 800,
+        "text": "The answer is 800.",
+        "abstain": false,
+        "correct_value": 800
+      },
+      {
+        "gold": 647,
+        "text": "The answer is 654.",
+        "abstain": false,
+        "correct_value": 654
+      },
+      {
+        "gold": 481,
+        "text": "The answer is 481.",
+        "abstain": false,
+        "correct_value": 481
+      },
+      {
+        "gold": 832,
+        "text": "The answer is 832.",
+        "abstain": false,
+        "correct_value": 832
+      },
+      {
+        "gold": 813,
+        "text": "The answer is 813.",
+        "abstain": false,
+        "correct_value": 813
+      },
+      {
+        "gold": 440,
+        "text": "440",
+        "abstain": false,
+        "correct_value": 440
+      },
+      {
+        "gold": 603,
+        "text": "The answer is 604.",
+        "abstain": false,
+        "correct_value": 604
+      },
+      {
+        "gold": 763,
+        "text": "We compute step by step. \\\\boxed{763}",
+        "abstain": false,
+        "correct_value": 763
+      },
+      {
+        "gold": 655,
+        "text": "655 metres",
+        "abstain": false,
+        "correct_value": 655
+      },
+      {
+        "gold": 486,
+        "text": "The answer is 486.",
+        "abstain": false,
+        "correct_value": 486
+      },
+      {
+        "gold": 912,
+        "text": "912 metres",
+        "abstain": false,
+        "correct_value": 912
+      },
+      {
+        "gold": 882,
+        "text": "The answer is 882.",
+        "abstain": false,
+        "correct_value": 882
+      },
+      {
+        "gold": 67,
+        "text": "67 metres",
+        "abstain": false,
+        "correct_value": 67
+      },
+      {
+        "gold": 547,
+        "text": "First 9, then 5. So the result is 547",
+        "abstain": false,
+        "correct_value": 547
+      },
+      {
+        "gold": 834,
+        "text": "We compute step by step. \\\\boxed{838}",
+        "abstain": false,
+        "correct_value": 838
+      },
+      {
+        "gold": 86,
+        "text": "86 (approximately)",
+        "abstain": false,
+        "correct_value": 86
+      },
+      {
+        "gold": 382,
+        "text": "383",
+        "abstain": false,
+        "correct_value": 383
+      },
+      {
+        "gold": 509,
+        "text": "515",
+        "abstain": false,
+        "correct_value": 515
+      },
+      {
+        "gold": 326,
+        "text": "326 metres",
+        "abstain": false,
+        "correct_value": 326
+      },
+      {
+        "gold": 695,
+        "text": "The answer is 695.",
+        "abstain": false,
+        "correct_value": 695
+      },
+      {
+        "gold": 993,
+        "text": "The answer is 993.",
+        "abstain": false,
+        "correct_value": 993
+      },
+      {
+        "gold": 364,
+        "text": "First 14, then 36. So the result is 369.",
+        "abstain": false,
+        "correct_value": 369
+      },
+      {
+        "gold": 780,
+        "text": "780 (approximately)",
+        "abstain": false,
+        "correct_value": 780
+      },
+      {
+        "gold": 118,
+        "text": "118 metres",
+        "abstain": false,
+        "correct_value": 118
+      },
+      {
+        "gold": 486,
+        "text": "487",
+        "abstain": false,
+        "correct_value": 487
+      },
+      {
+        "gold": 7,
+        "text": "First 19, then 31. So the result is 12",
+        "abstain": false,
+        "correct_value": 12
+      },
+      {
+        "gold": 423,
+        "text": "The answer is 423.",
+        "abstain": false,
+        "correct_value": 423
+      },
+      {
+        "gold": 15,
+        "text": "The answer is 15.",
+        "abstain": false,
+        "correct_value": 15
+      },
+      {
+        "gold": 876,
+        "text": "876 (approximately)",
+        "abstain": false,
+        "correct_value": 876
+      },
+      {
+        "gold": 968,
+        "text": "974 (approximately)",
+        "abstain": false,
+        "correct_value": 974
+      },
+      {
+        "gold": 88,
+        "text": "93",
+        "abstain": false,
+        "correct_value": 93
+      },
+      {
+        "gold": 817,
+        "text": "First 40, then 9. So the result is 817.",
+        "abstain": false,
+        "correct_value": 817
+      },
+      {
+        "gold": 708,
+        "text": "I cannot determine this.",
+        "abstain": true,
+        "correct_value": null
+      },
+      {
+        "gold": 301,
+        "text": "The answer is 301.",
+        "abstain": false,
+        "correct_value": 301
+      },
+      {
+        "gold": 788,
+        "text": "The answer is 792.",
+        "abstain": false,
+        "correct_value": 792
+      },
+      {
+        "gold": 961,
+        "text": "961 metres",
+        "abstain": false,
+        "correct_value": 961
+      },
+      {
+        "gold": 798,
+        "text": "We compute step by step. \\\\boxed{798}",
+        "abstain": false,
+        "correct_value": 798
+      },
+      {
+        "gold": 692,
+        "text": "693 (approximately)",
+        "abstain": false,
+        "correct_value": 693
+      },
+      {
+        "gold": 323,
+        "text": "The answer is 323.",
+        "abstain": false,
+        "correct_value": 323
+      },
+      {
+        "gold": 606,
+        "text": "The answer is 606.",
+        "abstain": false,
+        "correct_value": 606
+      },
+      {
+        "gold": 796,
+        "text": "The answer is 796.",
+        "abstain": false,
+        "correct_value": 796
+      },
+      {
+        "gold": 714,
+        "text": "The answer is 722.",
+        "abstain": false,
+        "correct_value": 722
+      },
+      {
+        "gold": 226,
+        "text": "First 25, then 29. So the result is 226.",
+        "abstain": false,
+        "correct_value": 226
+      },
+      {
+        "gold": 412,
+        "text": "First 31, then 2. So the result is 412.",
+        "abstain": false,
+        "correct_value": 412
+      },
+      {
+        "gold": 363,
+        "text": "The answer is 365.",
+        "abstain": false,
+        "correct_value": 365
+      },
+      {
+        "gold": 694,
+        "text": "We compute step by step. \\\\boxed{699}",
+        "abstain": false,
+        "correct_value": 699
+      },
+      {
+        "gold": 418,
+        "text": "The answer is 418.",
+        "abstain": false,
+        "correct_value": 418
+      },
+      {
+        "gold": 420,
+        "text": "The answer is 427.",
+        "abstain": false,
+        "correct_value": 427
+      },
+      {
+        "gold": 541,
+        "text": "541",
+        "abstain": false,
+        "correct_value": 541
+      },
+      {
+        "gold": 579,
+        "text": "579 metres",
+        "abstain": false,
+        "correct_value": 579
+      },
+      {
+        "gold": 114,
+        "text": "114 metres",
+        "abstain": false,
+        "correct_value": 114
+      },
+      {
+        "gold": 924,
+        "text": "The answer is 924.",
+        "abstain": false,
+        "correct_value": 924
+      },
+      {
+        "gold": 407,
+        "text": "407",
+        "abstain": false,
+        "correct_value": 407
+      },
+      {
+        "gold": 176,
+        "text": "First 42, then 23. So the result is 176.",
+        "abstain": false,
+        "correct_value": 176
+      },
+      {
+        "gold": 2,
+        "text": "The answer is 2.",
+        "abstain": false,
+        "correct_value": 2
+      },
+      {
+        "gold": 435,
+        "text": "We compute step by step. \\\\boxed{435}",
+        "abstain": false,
+        "correct_value": 435
+      },
+      {
+        "gold": 744,
+        "text": "The answer is 744.",
+        "abstain": false,
+        "correct_value": 744
+      },
+      {
+        "gold": 297,
+        "text": "297 metres",
+        "abstain": false,
+        "correct_value": 297
+      },
+      {
+        "gold": 851,
+        "text": "The answer is 851.",
+        "abstain": false,
+        "correct_value": 851
+      },
+      {
+        "gold": 201,
+        "text": "201",
+        "abstain": false,
+        "correct_value": 201
+      },
+      {
+        "gold": 140,
+        "text": "First 36, then 17. So the result is 140.",
+        "abstain": false,
+        "correct_value": 140
+      },
+      {
+        "gold": 391,
+        "text": "First 19, then 8. So the result is 391",
+        "abstain": false,
+        "correct_value": 391
+      },
+      {
+        "gold": 703,
+        "text": "The answer is 703.",
+        "abstain": false,
+        "correct_value": 703
+      },
+      {
+        "gold": 300,
+        "text": "The answer is 300.",
+        "abstain": false,
+        "correct_value": 300
+      },
+      {
+        "gold": 820,
+        "text": "The answer is 824.",
+        "abstain": false,
+        "correct_value": 824
+      },
+      {
+        "gold": 22,
+        "text": "22 (approximately)",
+        "abstain": false,
+        "correct_value": 22
+      },
+      {
+        "gold": 980,
+        "text": "First 15, then 25. So the result is 980",
+        "abstain": false,
+        "correct_value": 980
+      },
+      {
+        "gold": 48,
+        "text": "We compute step by step. \\\\boxed{48}",
+        "abstain": false,
+        "correct_value": 48
+      },
+      {
+        "gold": 843,
+        "text": "First 9, then 49. So the result is 847.",
+        "abstain": false,
+        "correct_value": 847
+      },
+      {
+        "gold": 5,
+        "text": "5 (approximately)",
+        "abstain": false,
+        "correct_value": 5
+      },
+      {
+        "gold": 424,
+        "text": "The answer is 424.",
+        "abstain": false,
+        "correct_value": 424
+      },
+      {
+        "gold": 310,
+        "text": "First 34, then 46. So the result is 312",
+        "abstain": false,
+        "correct_value": 312
+      },
+      {
+        "gold": 978,
+        "text": "We compute step by step. \\\\boxed{978}",
+        "abstain": false,
+        "correct_value": 978
+      },
+      {
+        "gold": 654,
+        "text": "First 6, then 39. So the result is 661",
+        "abstain": false,
+        "correct_value": 661
+      },
+      {
+        "gold": 973,
+        "text": "981",
+        "abstain": false,
+        "correct_value": 981
+      },
+      {
+        "gold": 415,
+        "text": "The answer is 415.",
+        "abstain": false,
+        "correct_value": 415
+      },
+      {
+        "gold": 504,
+        "text": "First 14, then 26. So the result is 508",
+        "abstain": false,
+        "correct_value": 508
+      },
+      {
+        "gold": 502,
+        "text": "We compute step by step. \\\\boxed{502}",
+        "abstain": false,
+        "correct_value": 502
+      },
+      {
+        "gold": 753,
+        "text": "753 (approximately)",
+        "abstain": false,
+        "correct_value": 753
+      },
+      {
+        "gold": 509,
+        "text": "First 41, then 21. So the result is 511.",
+        "abstain": false,
+        "correct_value": 511
+      },
+      {
+        "gold": 913,
+        "text": "913 (approximately)",
+        "abstain": false,
+        "correct_value": 913
+      },
+      {
+        "gold": 193,
+        "text": "193 (approximately)",
+        "abstain": false,
+        "correct_value": 193
+      },
+      {
+        "gold": 476,
+        "text": "First 20, then 42. So the result is 479",
+        "abstain": false,
+        "correct_value": 479
+      },
+      {
+        "gold": 248,
+        "text": "248 (approximately)",
+        "abstain": false,
+        "correct_value": 248
+      },
+      {
+        "gold": 863,
+        "text": "The answer is 863.",
+        "abstain": false,
+        "correct_value": 863
+      },
+      {
+        "gold": 138,
+        "text": "143",
+        "abstain": false,
+        "correct_value": 143
+      },
+      {
+        "gold": 701,
+        "text": "701",
+        "abstain": false,
+        "correct_value": 701
+      },
+      {
+        "gold": 911,
+        "text": "First 47, then 19. So the result is 911",
+        "abstain": false,
+        "correct_value": 911
+      },
+      {
+        "gold": 295,
+        "text": "295 metres",
+        "abstain": false,
+        "correct_value": 295
+      },
+      {
+        "gold": 280,
+        "text": "280",
+        "abstain": false,
+        "correct_value": 280
+      },
+      {
+        "gold": 767,
+        "text": "The answer is 767.",
+        "abstain": false,
+        "correct_value": 767
+      },
+      {
+        "gold": 591,
+        "text": "First 22, then 35. So the result is 591",
+        "abstain": false,
+        "correct_value": 591
+      },
+      {
+        "gold": 570,
+        "text": "The answer is 570.",
+        "abstain": false,
+        "correct_value": 570
+      },
+      {
+        "gold": 883,
+        "text": "883 (approximately)",
+        "abstain": false,
+        "correct_value": 883
+      },
+      {
+        "gold": 95,
+        "text": "95 (approximately)",
+        "abstain": false,
+        "correct_value": 95
+      },
+      {
+        "gold": 274,
+        "text": "274",
+        "abstain": false,
+        "correct_value": 274
+      },
+      {
+        "gold": 392,
+        "text": "392",
+        "abstain": false,
+        "correct_value": 392
+      },
+      {
+        "gold": 916,
+        "text": "918",
+        "abstain": false,
+        "correct_value": 918
+      },
+      {
+        "gold": 75,
+        "text": "75",
+        "abstain": false,
+        "correct_value": 75
+      },
+      {
+        "gold": 453,
+        "text": "The answer is 453.",
+        "abstain": false,
+        "correct_value": 453
+      },
+      {
+        "gold": 476,
+        "text": "The answer is 476.",
+        "abstain": false,
+        "correct_value": 476
+      },
+      {
+        "gold": 16,
+        "text": "The answer is 18.",
+        "abstain": false,
+        "correct_value": 18
+      },
+      {
+        "gold": 429,
+        "text": "429 (approximately)",
+        "abstain": false,
+        "correct_value": 429
+      },
+      {
+        "gold": 648,
+        "text": "The answer is 648.",
+        "abstain": false,
+        "correct_value": 648
+      },
+      {
+        "gold": 424,
+        "text": "424",
+        "abstain": false,
+        "correct_value": 424
+      },
+      {
+        "gold": 306,
+        "text": "306 (approximately)",
+        "abstain": false,
+        "correct_value": 306
+      },
+      {
+        "gold": 586,
+        "text": "First 48, then 33. So the result is 592",
+        "abstain": false,
+        "correct_value": 592
+      },
+      {
+        "gold": 979,
+        "text": "First 22, then 14. So the result is 979",
+        "abstain": false,
+        "correct_value": 979
+      },
+      {
+        "gold": 124,
+        "text": "First 13, then 18. So the result is 127.",
+        "abstain": false,
+        "correct_value": 127
+      },
+      {
+        "gold": 287,
+        "text": "293 metres",
+        "abstain": false,
+        "correct_value": 293
+      },
+      {
+        "gold": 932,
+        "text": "932",
+        "abstain": false,
+        "correct_value": 932
+      },
+      {
+        "gold": 297,
+        "text": "297",
+        "abstain": false,
+        "correct_value": 297
+      },
+      {
+        "gold": 683,
+        "text": "683",
+        "abstain": false,
+        "correct_value": 683
+      },
+      {
+        "gold": 352,
+        "text": "The answer is 352.",
+        "abstain": false,
+        "correct_value": 352
+      },
+      {
+        "gold": 823,
+        "text": "823",
+        "abstain": false,
+        "correct_value": 823
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shadeparadox"
+version = "0.2.0"
+description = "Coupled thermal/visual/circadian shading control experiments (lx melanopic EDI, CIE S 026)"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0", "streetlux>=0.2.0"]
+
+[project.scripts]
+shadeparadox = "shadeparadox.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["shadeparadox*"]

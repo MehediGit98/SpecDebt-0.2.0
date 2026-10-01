@@ -1,0 +1,19 @@
+{
+  "d65_chromaticity": [
+    0.31272,
+    0.32901
+  ],
+  "d65_chromaticity_target": [
+    0.31272,
+    0.32903
+  ],
+  "d65_chromaticity_error": 2e-05,
+  "der_d65": 1.000165,
+  "der_d65_error_pct": 0.0165,
+  "k_mel_v_d65_derived": 0.0013264190212874294,
+  "k_mel_v_d65_official": 0.0013262,
+  "k_mel_deviation_pct": 0.0165,
+  "official_action_spectra_loaded": true,
+  "official_solar_spectrum_loaded": true,
+  "official_daylight_components_loaded": false
+}

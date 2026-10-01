@@ -1,0 +1,12 @@
+Quantity,Daylight,Synthetic scoring
+Nominal specifications,1152,144
+Scalar minimum,109.95 lx,−0.11667
+Scalar maximum,3648.52 lx,+0.07007
+True decision count,988,84
+False decision count,164,60
+Explicit ties,Not applicable,6
+Minority share,14.24%,41.67%
+Pairwise disagreement,24.42%,48.61%
+Minimum declarations at 1%,5,3
+Weighted residual,0.5208%,0%
+Largest remaining cell residual,50%,0%

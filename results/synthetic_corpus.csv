@@ -1,0 +1,1201 @@
+model,item_id,gold,text,abstain,correct_value
+Model A,0,850,"First 7, then 36. So the result is 850",False,850
+Model A,1,637,637 (approximately),False,637
+Model A,2,511,We compute step by step. \\boxed{511},False,511
+Model A,3,270,"First 17, then 36. So the result is 270.",False,270
+Model A,4,308,We compute step by step. \\boxed{310},False,310
+Model A,5,42,"First 45, then 30. So the result is 42",False,42
+Model A,6,77,77 metres,False,77
+Model A,7,18,"First 11, then 32. So the result is 18",False,18
+Model A,8,176,The answer is 176.,False,176
+Model A,9,812,The answer is 813.,False,813
+Model A,10,649,The answer is 649.,False,649
+Model A,11,912,The answer is 913.,False,913
+Model A,12,504,504,False,504
+Model A,13,606,606 (approximately),False,606
+Model A,14,969,"First 30, then 32. So the result is 969",False,969
+Model A,15,729,"First 38, then 23. So the result is 730.",False,730
+Model A,16,632,636,False,636
+Model A,17,543,We compute step by step. \\boxed{543},False,543
+Model A,18,560,"First 21, then 42. So the result is 561",False,561
+Model A,19,934,934 (approximately),False,934
+Model A,20,278,285 metres,False,285
+Model A,21,815,"First 43, then 22. So the result is 822.",False,822
+Model A,22,670,"First 6, then 46. So the result is 678",False,678
+Model A,23,4,"First 47, then 30. So the result is 7",False,7
+Model A,24,394,399 metres,False,399
+Model A,25,856,The answer is 863.,False,863
+Model A,26,554,554 (approximately),False,554
+Model A,27,35,35,False,35
+Model A,28,764,We compute step by step. \\boxed{764},False,764
+Model A,29,729,729,False,729
+Model A,30,846,"First 26, then 35. So the result is 846",False,846
+Model A,31,177,The answer is 178.,False,178
+Model A,32,91,"First 42, then 17. So the result is 91",False,91
+Model A,33,862,We compute step by step. \\boxed{862},False,862
+Model A,34,24,We compute step by step. \\boxed{29},False,29
+Model A,35,541,"First 4, then 11. So the result is 542",False,542
+Model A,36,82,"First 32, then 49. So the result is 82",False,82
+Model A,37,300,The answer is 300.,False,300
+Model A,38,481,483 (approximately),False,483
+Model A,39,423,We compute step by step. \\boxed{423},False,423
+Model A,40,404,The answer is 404.,False,404
+Model A,41,30,The answer is 30.,False,30
+Model A,42,7,The answer is 7.,False,7
+Model A,43,125,The answer is 125.,False,125
+Model A,44,10,15 (approximately),False,15
+Model A,45,670,We compute step by step. \\boxed{670},False,670
+Model A,46,526,528 metres,False,528
+Model A,47,647,"First 33, then 22. So the result is 649.",False,649
+Model A,48,258,"First 46, then 45. So the result is 258",False,258
+Model A,49,615,We compute step by step. \\boxed{615},False,615
+Model A,50,763,763,False,763
+Model A,51,384,388 (approximately),False,388
+Model A,52,461,We compute step by step. \\boxed{461},False,461
+Model A,53,996,"First 43, then 18. So the result is 997",False,997
+Model A,54,804,"First 26, then 11. So the result is 804",False,804
+Model A,55,979,We compute step by step. \\boxed{979},False,979
+Model A,56,380,"First 16, then 16. So the result is 380.",False,380
+Model A,57,685,The answer is 685.,False,685
+Model A,58,949,"First 44, then 49. So the result is 949",False,949
+Model A,59,650,"First 23, then 19. So the result is 651.",False,651
+Model A,60,839,"First 40, then 15. So the result is 839",False,839
+Model A,61,688,The answer is 688.,False,688
+Model A,62,703,The answer is 703.,False,703
+Model A,63,389,"First 25, then 6. So the result is 389.",False,389
+Model A,64,874,874 (approximately),False,874
+Model A,65,136,136,False,136
+Model A,66,579,"First 19, then 36. So the result is 579",False,579
+Model A,67,721,The answer is 721.,False,721
+Model A,68,844,"First 45, then 22. So the result is 844.",False,844
+Model A,69,525,The answer is 525.,False,525
+Model A,70,376,"First 4, then 37. So the result is 376",False,376
+Model A,71,311,311,False,311
+Model A,72,423,We compute step by step. \\boxed{423},False,423
+Model A,73,486,486 metres,False,486
+Model A,74,718,718,False,718
+Model A,75,888,888,False,888
+Model A,76,74,81 (approximately),False,81
+Model A,77,933,"First 30, then 35. So the result is 933.",False,933
+Model A,78,531,"First 18, then 42. So the result is 535",False,535
+Model A,79,358,"First 29, then 21. So the result is 358",False,358
+Model A,80,672,"First 24, then 23. So the result is 675.",False,675
+Model A,81,571,We compute step by step. \\boxed{571},False,571
+Model A,82,255,"First 26, then 5. So the result is 263.",False,263
+Model A,83,322,The answer is 322.,False,322
+Model A,84,719,719,False,719
+Model A,85,594,594,False,594
+Model A,86,504,"First 42, then 12. So the result is 504.",False,504
+Model A,87,338,"First 14, then 38. So the result is 338.",False,338
+Model A,88,760,760 (approximately),False,760
+Model A,89,392,We compute step by step. \\boxed{392},False,392
+Model A,90,329,The answer is 329.,False,329
+Model A,91,889,889 (approximately),False,889
+Model A,92,265,269 metres,False,269
+Model A,93,228,The answer is 228.,False,228
+Model A,94,714,714 (approximately),False,714
+Model A,95,623,We compute step by step. \\boxed{623},False,623
+Model A,96,50,The answer is 57.,False,57
+Model A,97,85,"First 21, then 21. So the result is 91.",False,91
+Model A,98,378,"First 39, then 25. So the result is 378",False,378
+Model A,99,832,832 (approximately),False,832
+Model A,100,401,404,False,404
+Model A,101,786,"First 24, then 22. So the result is 794",False,794
+Model A,102,317,317 metres,False,317
+Model A,103,240,"First 31, then 45. So the result is 248",False,248
+Model A,104,791,The answer is 791.,False,791
+Model A,105,875,"First 46, then 31. So the result is 875.",False,875
+Model A,106,81,We compute step by step. \\boxed{81},False,81
+Model A,107,60,"First 45, then 20. So the result is 60",False,60
+Model A,108,671,"First 22, then 48. So the result is 671.",False,671
+Model A,109,337,337,False,337
+Model A,110,573,We compute step by step. \\boxed{573},False,573
+Model A,111,151,"First 40, then 35. So the result is 151",False,151
+Model A,112,859,"First 13, then 29. So the result is 859",False,859
+Model A,113,450,450 metres,False,450
+Model A,114,894,We compute step by step. \\boxed{894},False,894
+Model A,115,795,We compute step by step. \\boxed{798},False,798
+Model A,116,705,"First 14, then 29. So the result is 705.",False,705
+Model A,117,231,231 (approximately),False,231
+Model A,118,766,"First 44, then 17. So the result is 766.",False,766
+Model A,119,53,53 (approximately),False,53
+Model A,120,570,We compute step by step. \\boxed{570},False,570
+Model A,121,405,406,False,406
+Model A,122,995,995,False,995
+Model A,123,199,The answer is 205.,False,205
+Model A,124,945,"First 16, then 20. So the result is 945.",False,945
+Model A,125,92,98 (approximately),False,98
+Model A,126,623,623 (approximately),False,623
+Model A,127,580,"First 38, then 33. So the result is 580.",False,580
+Model A,128,898,We compute step by step. \\boxed{906},False,906
+Model A,129,299,299 (approximately),False,299
+Model A,130,901,901 (approximately),False,901
+Model A,131,671,"First 19, then 2. So the result is 671.",False,671
+Model A,132,889,"First 30, then 24. So the result is 893",False,893
+Model A,133,200,207 metres,False,207
+Model A,134,757,The answer is 760.,False,760
+Model A,135,941,941 metres,False,941
+Model A,136,50,We compute step by step. \\boxed{50},False,50
+Model A,137,366,The answer is 366.,False,366
+Model A,138,636,We compute step by step. \\boxed{636},False,636
+Model A,139,107,107 (approximately),False,107
+Model A,140,510,512,False,512
+Model A,141,629,"First 28, then 44. So the result is 629.",False,629
+Model A,142,763,763,False,763
+Model A,143,926,926 (approximately),False,926
+Model A,144,410,The answer is 410.,False,410
+Model A,145,441,441,False,441
+Model A,146,474,We compute step by step. \\boxed{474},False,474
+Model A,147,953,953,False,953
+Model A,148,197,"First 27, then 15. So the result is 197.",False,197
+Model A,149,500,500 metres,False,500
+Model A,150,51,51 (approximately),False,51
+Model A,151,425,425 metres,False,425
+Model A,152,944,950 (approximately),False,950
+Model A,153,620,620 (approximately),False,620
+Model A,154,350,350 (approximately),False,350
+Model A,155,994,"First 10, then 29. So the result is 994",False,994
+Model A,156,603,"First 14, then 20. So the result is 603.",False,603
+Model A,157,948,We compute step by step. \\boxed{948},False,948
+Model A,158,18,"First 24, then 4. So the result is 18.",False,18
+Model A,159,460,The answer is 460.,False,460
+Model A,160,834,"First 9, then 24. So the result is 842",False,842
+Model A,161,757,"First 48, then 41. So the result is 757.",False,757
+Model A,162,408,"First 42, then 17. So the result is 408",False,408
+Model A,163,497,497 (approximately),False,497
+Model A,164,420,"First 26, then 28. So the result is 420",False,420
+Model A,165,529,"First 28, then 43. So the result is 529.",False,529
+Model A,166,231,231,False,231
+Model A,167,785,The answer is 785.,False,785
+Model A,168,79,We compute step by step. \\boxed{83},False,83
+Model A,169,415,420 (approximately),False,420
+Model A,170,283,We compute step by step. \\boxed{284},False,284
+Model A,171,734,736 (approximately),False,736
+Model A,172,749,753 (approximately),False,753
+Model A,173,711,711,False,711
+Model A,174,923,"First 30, then 3. So the result is 926",False,926
+Model A,175,931,We compute step by step. \\boxed{931},False,931
+Model A,176,186,"First 42, then 38. So the result is 193.",False,193
+Model A,177,116,"First 40, then 14. So the result is 116",False,116
+Model A,178,133,"First 40, then 29. So the result is 133.",False,133
+Model A,179,728,"First 13, then 27. So the result is 733.",False,733
+Model A,180,969,I cannot determine this.,True,
+Model A,181,926,926 (approximately),False,926
+Model A,182,668,"First 37, then 32. So the result is 668.",False,668
+Model A,183,967,The answer is 967.,False,967
+Model A,184,870,870,False,870
+Model A,185,16,16 (approximately),False,16
+Model A,186,120,123,False,123
+Model A,187,863,I cannot determine this.,True,
+Model A,188,84,84 (approximately),False,84
+Model A,189,980,I cannot determine this.,True,
+Model A,190,826,834 metres,False,834
+Model A,191,956,"First 38, then 37. So the result is 956.",False,956
+Model A,192,361,We compute step by step. \\boxed{361},False,361
+Model A,193,150,I cannot determine this.,True,
+Model A,194,517,The answer is 517.,False,517
+Model A,195,971,"First 33, then 27. So the result is 972",False,972
+Model A,196,368,368 metres,False,368
+Model A,197,889,889 (approximately),False,889
+Model A,198,384,390 metres,False,390
+Model A,199,821,821,False,821
+Model A,200,230,230 (approximately),False,230
+Model A,201,480,The answer is 480.,False,480
+Model A,202,327,"First 46, then 7. So the result is 327",False,327
+Model A,203,233,"First 38, then 25. So the result is 239.",False,239
+Model A,204,892,892,False,892
+Model A,205,801,801 (approximately),False,801
+Model A,206,141,The answer is 141.,False,141
+Model A,207,922,"First 33, then 25. So the result is 922.",False,922
+Model A,208,970,"First 9, then 24. So the result is 973",False,973
+Model A,209,267,267,False,267
+Model A,210,427,The answer is 427.,False,427
+Model A,211,539,The answer is 539.,False,539
+Model A,212,657,"First 48, then 14. So the result is 657.",False,657
+Model A,213,443,The answer is 443.,False,443
+Model A,214,150,"First 27, then 10. So the result is 150.",False,150
+Model A,215,930,I cannot determine this.,True,
+Model A,216,691,691 (approximately),False,691
+Model A,217,42,42 metres,False,42
+Model A,218,813,816,False,816
+Model A,219,731,732 (approximately),False,732
+Model A,220,184,"First 28, then 47. So the result is 184.",False,184
+Model A,221,614,The answer is 614.,False,614
+Model A,222,502,502,False,502
+Model A,223,30,"First 27, then 48. So the result is 30.",False,30
+Model A,224,926,926 metres,False,926
+Model A,225,719,"First 33, then 15. So the result is 719",False,719
+Model A,226,311,The answer is 311.,False,311
+Model A,227,17,24 (approximately),False,24
+Model A,228,93,"First 8, then 30. So the result is 97.",False,97
+Model A,229,757,I cannot determine this.,True,
+Model A,230,150,150 (approximately),False,150
+Model A,231,513,"First 18, then 29. So the result is 513.",False,513
+Model A,232,898,"First 24, then 4. So the result is 898.",False,898
+Model A,233,928,We compute step by step. \\boxed{928},False,928
+Model A,234,269,I cannot determine this.,True,
+Model A,235,67,I cannot determine this.,True,
+Model A,236,495,"First 13, then 11. So the result is 495",False,495
+Model A,237,840,846 metres,False,846
+Model A,238,624,"First 22, then 10. So the result is 624.",False,624
+Model A,239,68,"First 46, then 40. So the result is 68.",False,68
+Model A,240,650,The answer is 650.,False,650
+Model A,241,345,The answer is 345.,False,345
+Model A,242,227,We compute step by step. \\boxed{233},False,233
+Model A,243,431,"First 25, then 30. So the result is 431",False,431
+Model A,244,872,"First 48, then 9. So the result is 872",False,872
+Model A,245,965,965 (approximately),False,965
+Model A,246,142,"First 3, then 49. So the result is 145.",False,145
+Model A,247,562,562,False,562
+Model A,248,761,We compute step by step. \\boxed{763},False,763
+Model A,249,260,The answer is 265.,False,265
+Model A,250,273,"First 49, then 48. So the result is 280",False,280
+Model A,251,242,"First 29, then 21. So the result is 248",False,248
+Model A,252,210,210,False,210
+Model A,253,887,888 metres,False,888
+Model A,254,219,219 (approximately),False,219
+Model A,255,227,We compute step by step. \\boxed{227},False,227
+Model A,256,127,132,False,132
+Model A,257,126,133 metres,False,133
+Model A,258,778,778,False,778
+Model A,259,289,I cannot determine this.,True,
+Model A,260,801,"First 42, then 38. So the result is 802.",False,802
+Model A,261,586,"First 49, then 48. So the result is 586",False,586
+Model A,262,857,We compute step by step. \\boxed{857},False,857
+Model A,263,554,"First 18, then 17. So the result is 554.",False,554
+Model A,264,763,763,False,763
+Model A,265,809,"First 21, then 35. So the result is 809",False,809
+Model A,266,62,62 (approximately),False,62
+Model A,267,560,We compute step by step. \\boxed{560},False,560
+Model A,268,455,We compute step by step. \\boxed{455},False,455
+Model A,269,289,294 (approximately),False,294
+Model A,270,453,We compute step by step. \\boxed{453},False,453
+Model A,271,413,The answer is 414.,False,414
+Model A,272,492,492 (approximately),False,492
+Model A,273,817,819,False,819
+Model A,274,825,We compute step by step. \\boxed{831},False,831
+Model A,275,626,"First 19, then 3. So the result is 626",False,626
+Model A,276,710,"First 7, then 20. So the result is 710",False,710
+Model A,277,958,958 metres,False,958
+Model A,278,636,We compute step by step. \\boxed{637},False,637
+Model A,279,370,"First 48, then 43. So the result is 370",False,370
+Model A,280,83,"First 11, then 10. So the result is 83.",False,83
+Model A,281,552,We compute step by step. \\boxed{552},False,552
+Model A,282,232,"First 19, then 45. So the result is 235.",False,235
+Model A,283,594,"First 10, then 49. So the result is 594.",False,594
+Model A,284,27,The answer is 27.,False,27
+Model A,285,847,The answer is 847.,False,847
+Model A,286,943,943 metres,False,943
+Model A,287,147,"First 46, then 37. So the result is 147",False,147
+Model A,288,818,"First 22, then 11. So the result is 818",False,818
+Model A,289,407,We compute step by step. \\boxed{414},False,414
+Model A,290,43,We compute step by step. \\boxed{43},False,43
+Model A,291,909,We compute step by step. \\boxed{909},False,909
+Model A,292,940,940 metres,False,940
+Model A,293,44,We compute step by step. \\boxed{49},False,49
+Model A,294,593,"First 39, then 43. So the result is 593",False,593
+Model A,295,822,We compute step by step. \\boxed{827},False,827
+Model A,296,789,"First 30, then 24. So the result is 789",False,789
+Model A,297,416,416,False,416
+Model A,298,859,859 (approximately),False,859
+Model A,299,829,We compute step by step. \\boxed{837},False,837
+Model A,300,115,"First 23, then 18. So the result is 115",False,115
+Model A,301,11,"First 2, then 27. So the result is 11.",False,11
+Model A,302,103,We compute step by step. \\boxed{103},False,103
+Model A,303,365,The answer is 365.,False,365
+Model A,304,111,"First 9, then 8. So the result is 119.",False,119
+Model A,305,80,The answer is 80.,False,80
+Model A,306,259,"First 3, then 12. So the result is 260",False,260
+Model A,307,652,652 metres,False,652
+Model A,308,524,We compute step by step. \\boxed{524},False,524
+Model A,309,275,275 (approximately),False,275
+Model A,310,949,"First 16, then 26. So the result is 957",False,957
+Model A,311,702,I cannot determine this.,True,
+Model A,312,634,634 metres,False,634
+Model A,313,942,We compute step by step. \\boxed{950},False,950
+Model A,314,785,"First 13, then 18. So the result is 785.",False,785
+Model A,315,128,We compute step by step. \\boxed{128},False,128
+Model A,316,38,I cannot determine this.,True,
+Model A,317,864,"First 38, then 31. So the result is 864",False,864
+Model A,318,408,"First 9, then 46. So the result is 413.",False,413
+Model A,319,61,We compute step by step. \\boxed{68},False,68
+Model A,320,477,"First 23, then 13. So the result is 477",False,477
+Model A,321,381,"First 45, then 23. So the result is 381.",False,381
+Model A,322,431,431 (approximately),False,431
+Model A,323,430,430 metres,False,430
+Model A,324,315,320,False,320
+Model A,325,489,We compute step by step. \\boxed{489},False,489
+Model A,326,492,"First 22, then 18. So the result is 500",False,500
+Model A,327,975,The answer is 975.,False,975
+Model A,328,692,The answer is 692.,False,692
+Model A,329,775,775 (approximately),False,775
+Model A,330,10,The answer is 16.,False,16
+Model A,331,309,We compute step by step. \\boxed{310},False,310
+Model A,332,982,"First 33, then 37. So the result is 989",False,989
+Model A,333,271,We compute step by step. \\boxed{271},False,271
+Model A,334,510,The answer is 510.,False,510
+Model A,335,862,"First 47, then 33. So the result is 862.",False,862
+Model A,336,638,"First 42, then 37. So the result is 638",False,638
+Model A,337,880,I cannot determine this.,True,
+Model A,338,165,165 metres,False,165
+Model A,339,511,We compute step by step. \\boxed{511},False,511
+Model A,340,635,"First 21, then 3. So the result is 635",False,635
+Model A,341,345,"First 5, then 19. So the result is 345.",False,345
+Model A,342,574,"First 28, then 10. So the result is 581",False,581
+Model A,343,993,"First 45, then 22. So the result is 993.",False,993
+Model A,344,736,The answer is 736.,False,736
+Model A,345,316,"First 22, then 47. So the result is 316.",False,316
+Model A,346,65,We compute step by step. \\boxed{65},False,65
+Model A,347,184,"First 29, then 5. So the result is 188.",False,188
+Model A,348,273,We compute step by step. \\boxed{273},False,273
+Model A,349,879,We compute step by step. \\boxed{879},False,879
+Model A,350,272,I cannot determine this.,True,
+Model A,351,811,"First 10, then 22. So the result is 811.",False,811
+Model A,352,275,275 metres,False,275
+Model A,353,667,We compute step by step. \\boxed{667},False,667
+Model A,354,527,527 metres,False,527
+Model A,355,957,"First 11, then 27. So the result is 957",False,957
+Model A,356,566,569 (approximately),False,569
+Model A,357,924,We compute step by step. \\boxed{924},False,924
+Model A,358,961,We compute step by step. \\boxed{961},False,961
+Model A,359,748,748 (approximately),False,748
+Model A,360,628,I cannot determine this.,True,
+Model A,361,860,The answer is 860.,False,860
+Model A,362,995,995 metres,False,995
+Model A,363,248,The answer is 255.,False,255
+Model A,364,562,We compute step by step. \\boxed{562},False,562
+Model A,365,142,"First 41, then 37. So the result is 142.",False,142
+Model A,366,106,"First 16, then 8. So the result is 106.",False,106
+Model A,367,670,"First 29, then 11. So the result is 670.",False,670
+Model A,368,49,49 (approximately),False,49
+Model A,369,714,"First 31, then 47. So the result is 720",False,720
+Model A,370,820,"First 41, then 12. So the result is 820",False,820
+Model A,371,168,173 metres,False,173
+Model A,372,680,"First 16, then 13. So the result is 680.",False,680
+Model A,373,396,"First 33, then 43. So the result is 398",False,398
+Model A,374,892,"First 16, then 35. So the result is 892",False,892
+Model A,375,909,The answer is 909.,False,909
+Model A,376,577,We compute step by step. \\boxed{577},False,577
+Model A,377,561,561,False,561
+Model A,378,710,"First 22, then 32. So the result is 710",False,710
+Model A,379,578,578,False,578
+Model A,380,745,745,False,745
+Model A,381,195,195 metres,False,195
+Model A,382,781,We compute step by step. \\boxed{781},False,781
+Model A,383,526,"First 43, then 35. So the result is 526",False,526
+Model A,384,751,"First 29, then 17. So the result is 751.",False,751
+Model A,385,523,The answer is 523.,False,523
+Model A,386,307,The answer is 307.,False,307
+Model A,387,90,94 (approximately),False,94
+Model A,388,525,525 metres,False,525
+Model A,389,980,980 metres,False,980
+Model A,390,37,"First 4, then 29. So the result is 37",False,37
+Model A,391,571,"First 31, then 29. So the result is 571.",False,571
+Model A,392,447,"First 16, then 44. So the result is 447",False,447
+Model A,393,8,8 metres,False,8
+Model A,394,543,543 metres,False,543
+Model A,395,772,773,False,773
+Model A,396,741,"First 22, then 6. So the result is 741.",False,741
+Model A,397,977,"First 47, then 27. So the result is 977.",False,977
+Model A,398,529,We compute step by step. \\boxed{529},False,529
+Model A,399,590,"First 32, then 12. So the result is 590.",False,590
+Model A,400,964,The answer is 972.,False,972
+Model A,401,320,We compute step by step. \\boxed{320},False,320
+Model A,402,798,"First 3, then 46. So the result is 798.",False,798
+Model A,403,188,We compute step by step. \\boxed{188},False,188
+Model A,404,362,"First 49, then 10. So the result is 362",False,362
+Model A,405,672,672 (approximately),False,672
+Model A,406,579,We compute step by step. \\boxed{579},False,579
+Model A,407,196,The answer is 196.,False,196
+Model A,408,659,The answer is 659.,False,659
+Model A,409,577,We compute step by step. \\boxed{581},False,581
+Model A,410,919,919 (approximately),False,919
+Model A,411,602,"First 7, then 39. So the result is 602.",False,602
+Model A,412,883,I cannot determine this.,True,
+Model A,413,961,"First 8, then 7. So the result is 968.",False,968
+Model A,414,89,89,False,89
+Model A,415,74,81,False,81
+Model A,416,503,The answer is 503.,False,503
+Model A,417,500,The answer is 500.,False,500
+Model A,418,555,The answer is 555.,False,555
+Model A,419,743,"First 26, then 41. So the result is 748.",False,748
+Model A,420,316,We compute step by step. \\boxed{316},False,316
+Model A,421,178,178,False,178
+Model A,422,680,680,False,680
+Model A,423,388,I cannot determine this.,True,
+Model A,424,928,I cannot determine this.,True,
+Model A,425,64,"First 45, then 20. So the result is 64.",False,64
+Model A,426,709,709,False,709
+Model A,427,725,725 metres,False,725
+Model A,428,272,272,False,272
+Model A,429,89,I cannot determine this.,True,
+Model A,430,319,I cannot determine this.,True,
+Model A,431,395,395,False,395
+Model A,432,978,"First 24, then 30. So the result is 978",False,978
+Model A,433,872,We compute step by step. \\boxed{876},False,876
+Model A,434,232,232 metres,False,232
+Model A,435,472,472 metres,False,472
+Model A,436,600,We compute step by step. \\boxed{600},False,600
+Model A,437,911,"First 28, then 13. So the result is 912.",False,912
+Model A,438,136,136 (approximately),False,136
+Model A,439,765,We compute step by step. \\boxed{768},False,768
+Model A,440,924,The answer is 924.,False,924
+Model A,441,914,914,False,914
+Model A,442,278,279,False,279
+Model A,443,129,The answer is 129.,False,129
+Model A,444,594,The answer is 596.,False,596
+Model A,445,75,"First 3, then 28. So the result is 75.",False,75
+Model A,446,131,We compute step by step. \\boxed{131},False,131
+Model A,447,72,"First 27, then 44. So the result is 80.",False,80
+Model A,448,212,216,False,216
+Model A,449,868,We compute step by step. \\boxed{868},False,868
+Model A,450,672,"First 5, then 32. So the result is 672.",False,672
+Model A,451,634,638 (approximately),False,638
+Model A,452,984,The answer is 988.,False,988
+Model A,453,497,The answer is 497.,False,497
+Model A,454,41,"First 35, then 47. So the result is 47.",False,47
+Model A,455,165,"First 27, then 30. So the result is 165.",False,165
+Model A,456,261,The answer is 261.,False,261
+Model A,457,673,The answer is 680.,False,680
+Model A,458,357,357,False,357
+Model A,459,319,The answer is 319.,False,319
+Model A,460,113,We compute step by step. \\boxed{113},False,113
+Model A,461,710,710,False,710
+Model A,462,26,We compute step by step. \\boxed{26},False,26
+Model A,463,460,We compute step by step. \\boxed{460},False,460
+Model A,464,744,744 (approximately),False,744
+Model A,465,507,We compute step by step. \\boxed{507},False,507
+Model A,466,686,I cannot determine this.,True,
+Model A,467,789,I cannot determine this.,True,
+Model A,468,226,"First 42, then 23. So the result is 226",False,226
+Model A,469,94,94 (approximately),False,94
+Model A,470,58,We compute step by step. \\boxed{58},False,58
+Model A,471,579,579 (approximately),False,579
+Model A,472,265,The answer is 265.,False,265
+Model A,473,198,We compute step by step. \\boxed{198},False,198
+Model A,474,734,740,False,740
+Model A,475,807,"First 31, then 34. So the result is 815.",False,815
+Model A,476,953,We compute step by step. \\boxed{958},False,958
+Model A,477,489,492 (approximately),False,492
+Model A,478,523,I cannot determine this.,True,
+Model A,479,987,We compute step by step. \\boxed{990},False,990
+Model A,480,504,"First 15, then 22. So the result is 512.",False,512
+Model A,481,184,187 (approximately),False,187
+Model A,482,257,260,False,260
+Model A,483,962,We compute step by step. \\boxed{965},False,965
+Model A,484,45,We compute step by step. \\boxed{45},False,45
+Model A,485,800,"First 39, then 18. So the result is 800.",False,800
+Model A,486,647,We compute step by step. \\boxed{647},False,647
+Model A,487,481,"First 26, then 47. So the result is 483",False,483
+Model A,488,832,"First 45, then 5. So the result is 832.",False,832
+Model A,489,813,I cannot determine this.,True,
+Model A,490,440,440,False,440
+Model A,491,603,603,False,603
+Model A,492,763,The answer is 763.,False,763
+Model A,493,655,The answer is 655.,False,655
+Model A,494,486,486 metres,False,486
+Model A,495,912,"First 26, then 33. So the result is 912",False,912
+Model A,496,882,"First 25, then 10. So the result is 882",False,882
+Model A,497,67,67 (approximately),False,67
+Model A,498,547,549,False,549
+Model A,499,834,"First 43, then 21. So the result is 834",False,834
+Model A,500,86,92 (approximately),False,92
+Model A,501,382,384 metres,False,384
+Model A,502,509,"First 8, then 31. So the result is 509",False,509
+Model A,503,326,I cannot determine this.,True,
+Model A,504,695,695 (approximately),False,695
+Model A,505,993,"First 17, then 28. So the result is 993",False,993
+Model A,506,364,"First 33, then 36. So the result is 364.",False,364
+Model A,507,780,The answer is 782.,False,782
+Model A,508,118,We compute step by step. \\boxed{118},False,118
+Model A,509,486,I cannot determine this.,True,
+Model A,510,7,7,False,7
+Model A,511,423,429 metres,False,429
+Model A,512,15,"First 26, then 46. So the result is 15.",False,15
+Model A,513,876,I cannot determine this.,True,
+Model A,514,968,968,False,968
+Model A,515,88,"First 6, then 13. So the result is 94",False,94
+Model A,516,817,817 metres,False,817
+Model A,517,708,The answer is 708.,False,708
+Model A,518,301,I cannot determine this.,True,
+Model A,519,788,We compute step by step. \\boxed{788},False,788
+Model A,520,961,"First 13, then 3. So the result is 967",False,967
+Model A,521,798,"First 47, then 25. So the result is 798.",False,798
+Model A,522,692,"First 16, then 29. So the result is 692",False,692
+Model A,523,323,We compute step by step. \\boxed{323},False,323
+Model A,524,606,We compute step by step. \\boxed{609},False,609
+Model A,525,796,We compute step by step. \\boxed{796},False,796
+Model A,526,714,"First 20, then 47. So the result is 714.",False,714
+Model A,527,226,"First 7, then 40. So the result is 226",False,226
+Model A,528,412,We compute step by step. \\boxed{412},False,412
+Model A,529,363,363 metres,False,363
+Model A,530,694,694 (approximately),False,694
+Model A,531,418,"First 5, then 49. So the result is 424.",False,424
+Model A,532,420,We compute step by step. \\boxed{420},False,420
+Model A,533,541,The answer is 541.,False,541
+Model A,534,579,579 metres,False,579
+Model A,535,114,"First 20, then 22. So the result is 121",False,121
+Model A,536,924,The answer is 924.,False,924
+Model A,537,407,407 (approximately),False,407
+Model A,538,176,The answer is 176.,False,176
+Model A,539,2,I cannot determine this.,True,
+Model A,540,435,"First 48, then 31. So the result is 435",False,435
+Model A,541,744,748,False,748
+Model A,542,297,297 (approximately),False,297
+Model A,543,851,We compute step by step. \\boxed{858},False,858
+Model A,544,201,201,False,201
+Model A,545,140,140 (approximately),False,140
+Model A,546,391,"First 49, then 36. So the result is 391",False,391
+Model A,547,703,"First 10, then 29. So the result is 703.",False,703
+Model A,548,300,300 (approximately),False,300
+Model A,549,820,820,False,820
+Model A,550,22,The answer is 22.,False,22
+Model A,551,980,"First 32, then 31. So the result is 980",False,980
+Model A,552,48,"First 30, then 39. So the result is 48",False,48
+Model A,553,843,We compute step by step. \\boxed{843},False,843
+Model A,554,5,The answer is 5.,False,5
+Model A,555,424,"First 28, then 8. So the result is 424.",False,424
+Model A,556,310,310 (approximately),False,310
+Model A,557,978,I cannot determine this.,True,
+Model A,558,654,We compute step by step. \\boxed{654},False,654
+Model A,559,973,"First 21, then 5. So the result is 973.",False,973
+Model A,560,415,"First 22, then 3. So the result is 415",False,415
+Model A,561,504,"First 35, then 8. So the result is 504",False,504
+Model A,562,502,The answer is 502.,False,502
+Model A,563,753,753 metres,False,753
+Model A,564,509,The answer is 509.,False,509
+Model A,565,913,"First 24, then 5. So the result is 913",False,913
+Model A,566,193,We compute step by step. \\boxed{193},False,193
+Model A,567,476,We compute step by step. \\boxed{476},False,476
+Model A,568,248,I cannot determine this.,True,
+Model A,569,863,We compute step by step. \\boxed{863},False,863
+Model A,570,138,"First 27, then 8. So the result is 138",False,138
+Model A,571,701,The answer is 701.,False,701
+Model A,572,911,The answer is 917.,False,917
+Model A,573,295,I cannot determine this.,True,
+Model A,574,280,"First 41, then 43. So the result is 280.",False,280
+Model A,575,767,767 metres,False,767
+Model A,576,591,591 metres,False,591
+Model A,577,570,"First 11, then 6. So the result is 570",False,570
+Model A,578,883,"First 34, then 17. So the result is 883.",False,883
+Model A,579,95,"First 15, then 15. So the result is 95.",False,95
+Model A,580,274,274 (approximately),False,274
+Model A,581,392,"First 33, then 6. So the result is 392.",False,392
+Model A,582,916,916 (approximately),False,916
+Model A,583,75,"First 39, then 20. So the result is 75.",False,75
+Model A,584,453,We compute step by step. \\boxed{453},False,453
+Model A,585,476,476,False,476
+Model A,586,16,The answer is 24.,False,24
+Model A,587,429,430 (approximately),False,430
+Model A,588,648,"First 30, then 27. So the result is 648",False,648
+Model A,589,424,424 (approximately),False,424
+Model A,590,306,We compute step by step. \\boxed{306},False,306
+Model A,591,586,586,False,586
+Model A,592,979,979,False,979
+Model A,593,124,124 (approximately),False,124
+Model A,594,287,290 metres,False,290
+Model A,595,932,We compute step by step. \\boxed{933},False,933
+Model A,596,297,304 (approximately),False,304
+Model A,597,683,683 (approximately),False,683
+Model A,598,352,The answer is 353.,False,353
+Model A,599,823,We compute step by step. \\boxed{823},False,823
+Model B,0,850,"First 26, then 48. So the result is 850",False,850
+Model B,1,637,637 metres,False,637
+Model B,2,511,"First 36, then 25. So the result is 515",False,515
+Model B,3,270,270 (approximately),False,270
+Model B,4,308,"First 24, then 27. So the result is 308",False,308
+Model B,5,42,49 (approximately),False,49
+Model B,6,77,77 (approximately),False,77
+Model B,7,18,22 (approximately),False,22
+Model B,8,176,181,False,181
+Model B,9,812,The answer is 812.,False,812
+Model B,10,649,649 (approximately),False,649
+Model B,11,912,912 (approximately),False,912
+Model B,12,504,The answer is 511.,False,511
+Model B,13,606,The answer is 613.,False,613
+Model B,14,969,The answer is 969.,False,969
+Model B,15,729,The answer is 729.,False,729
+Model B,16,632,638,False,638
+Model B,17,543,"First 33, then 3. So the result is 543.",False,543
+Model B,18,560,The answer is 560.,False,560
+Model B,19,934,934 metres,False,934
+Model B,20,278,We compute step by step. \\boxed{278},False,278
+Model B,21,815,815,False,815
+Model B,22,670,670,False,670
+Model B,23,4,10,False,10
+Model B,24,394,"First 20, then 26. So the result is 394.",False,394
+Model B,25,856,The answer is 856.,False,856
+Model B,26,554,The answer is 554.,False,554
+Model B,27,35,The answer is 35.,False,35
+Model B,28,764,The answer is 769.,False,769
+Model B,29,729,The answer is 729.,False,729
+Model B,30,846,"First 4, then 8. So the result is 846",False,846
+Model B,31,177,The answer is 177.,False,177
+Model B,32,91,91,False,91
+Model B,33,862,"First 5, then 30. So the result is 862.",False,862
+Model B,34,24,24,False,24
+Model B,35,541,541 (approximately),False,541
+Model B,36,82,82 metres,False,82
+Model B,37,300,The answer is 306.,False,306
+Model B,38,481,The answer is 487.,False,487
+Model B,39,423,The answer is 423.,False,423
+Model B,40,404,We compute step by step. \\boxed{408},False,408
+Model B,41,30,The answer is 37.,False,37
+Model B,42,7,7,False,7
+Model B,43,125,127,False,127
+Model B,44,10,"First 17, then 24. So the result is 13.",False,13
+Model B,45,670,The answer is 670.,False,670
+Model B,46,526,The answer is 526.,False,526
+Model B,47,647,The answer is 654.,False,654
+Model B,48,258,258 (approximately),False,258
+Model B,49,615,"First 20, then 7. So the result is 615.",False,615
+Model B,50,763,The answer is 763.,False,763
+Model B,51,384,We compute step by step. \\boxed{384},False,384
+Model B,52,461,461,False,461
+Model B,53,996,The answer is 996.,False,996
+Model B,54,804,"First 7, then 2. So the result is 807",False,807
+Model B,55,979,The answer is 979.,False,979
+Model B,56,380,"First 40, then 28. So the result is 387",False,387
+Model B,57,685,The answer is 685.,False,685
+Model B,58,949,949,False,949
+Model B,59,650,We compute step by step. \\boxed{650},False,650
+Model B,60,839,839 (approximately),False,839
+Model B,61,688,"First 48, then 42. So the result is 688.",False,688
+Model B,62,703,703,False,703
+Model B,63,389,389,False,389
+Model B,64,874,874 metres,False,874
+Model B,65,136,The answer is 136.,False,136
+Model B,66,579,579,False,579
+Model B,67,721,The answer is 729.,False,729
+Model B,68,844,The answer is 851.,False,851
+Model B,69,525,The answer is 530.,False,530
+Model B,70,376,The answer is 376.,False,376
+Model B,71,311,We compute step by step. \\boxed{318},False,318
+Model B,72,423,"First 40, then 2. So the result is 423",False,423
+Model B,73,486,"First 40, then 34. So the result is 487.",False,487
+Model B,74,718,718 metres,False,718
+Model B,75,888,"First 20, then 18. So the result is 893",False,893
+Model B,76,74,"First 28, then 29. So the result is 74",False,74
+Model B,77,933,The answer is 933.,False,933
+Model B,78,531,We compute step by step. \\boxed{531},False,531
+Model B,79,358,The answer is 362.,False,362
+Model B,80,672,677 metres,False,677
+Model B,81,571,"First 33, then 29. So the result is 571",False,571
+Model B,82,255,258 (approximately),False,258
+Model B,83,322,The answer is 322.,False,322
+Model B,84,719,719,False,719
+Model B,85,594,594,False,594
+Model B,86,504,We compute step by step. \\boxed{504},False,504
+Model B,87,338,338 metres,False,338
+Model B,88,760,"First 30, then 35. So the result is 760",False,760
+Model B,89,392,392 (approximately),False,392
+Model B,90,329,The answer is 333.,False,333
+Model B,91,889,The answer is 889.,False,889
+Model B,92,265,The answer is 271.,False,271
+Model B,93,228,228,False,228
+Model B,94,714,The answer is 714.,False,714
+Model B,95,623,630 (approximately),False,630
+Model B,96,50,The answer is 50.,False,50
+Model B,97,85,85 metres,False,85
+Model B,98,378,378 (approximately),False,378
+Model B,99,832,The answer is 832.,False,832
+Model B,100,401,The answer is 402.,False,402
+Model B,101,786,I cannot determine this.,True,
+Model B,102,317,321,False,321
+Model B,103,240,"First 26, then 2. So the result is 240.",False,240
+Model B,104,791,The answer is 791.,False,791
+Model B,105,875,875,False,875
+Model B,106,81,81,False,81
+Model B,107,60,The answer is 60.,False,60
+Model B,108,671,671 (approximately),False,671
+Model B,109,337,340 metres,False,340
+Model B,110,573,We compute step by step. \\boxed{575},False,575
+Model B,111,151,151 metres,False,151
+Model B,112,859,"First 34, then 46. So the result is 859.",False,859
+Model B,113,450,The answer is 450.,False,450
+Model B,114,894,The answer is 897.,False,897
+Model B,115,795,803 (approximately),False,803
+Model B,116,705,The answer is 705.,False,705
+Model B,117,231,The answer is 239.,False,239
+Model B,118,766,The answer is 766.,False,766
+Model B,119,53,The answer is 55.,False,55
+Model B,120,570,570 metres,False,570
+Model B,121,405,"First 44, then 38. So the result is 405.",False,405
+Model B,122,995,996 (approximately),False,996
+Model B,123,199,"First 4, then 46. So the result is 199",False,199
+Model B,124,945,The answer is 945.,False,945
+Model B,125,92,95,False,95
+Model B,126,623,The answer is 626.,False,626
+Model B,127,580,The answer is 582.,False,582
+Model B,128,898,The answer is 899.,False,899
+Model B,129,299,300,False,300
+Model B,130,901,901 (approximately),False,901
+Model B,131,671,671 (approximately),False,671
+Model B,132,889,The answer is 892.,False,892
+Model B,133,200,We compute step by step. \\boxed{200},False,200
+Model B,134,757,"First 20, then 21. So the result is 757.",False,757
+Model B,135,941,The answer is 941.,False,941
+Model B,136,50,50,False,50
+Model B,137,366,370 metres,False,370
+Model B,138,636,642 (approximately),False,642
+Model B,139,107,The answer is 107.,False,107
+Model B,140,510,The answer is 510.,False,510
+Model B,141,629,629 (approximately),False,629
+Model B,142,763,770 metres,False,770
+Model B,143,926,933,False,933
+Model B,144,410,418 metres,False,418
+Model B,145,441,The answer is 441.,False,441
+Model B,146,474,474 metres,False,474
+Model B,147,953,The answer is 953.,False,953
+Model B,148,197,The answer is 200.,False,200
+Model B,149,500,500 (approximately),False,500
+Model B,150,51,51,False,51
+Model B,151,425,"First 42, then 35. So the result is 425.",False,425
+Model B,152,944,The answer is 945.,False,945
+Model B,153,620,"First 27, then 17. So the result is 624.",False,624
+Model B,154,350,The answer is 350.,False,350
+Model B,155,994,The answer is 994.,False,994
+Model B,156,603,The answer is 603.,False,603
+Model B,157,948,"First 18, then 7. So the result is 951.",False,951
+Model B,158,18,We compute step by step. \\boxed{24},False,24
+Model B,159,460,The answer is 460.,False,460
+Model B,160,834,834,False,834
+Model B,161,757,The answer is 757.,False,757
+Model B,162,408,409 (approximately),False,409
+Model B,163,497,The answer is 497.,False,497
+Model B,164,420,420,False,420
+Model B,165,529,The answer is 529.,False,529
+Model B,166,231,The answer is 231.,False,231
+Model B,167,785,785,False,785
+Model B,168,79,87,False,87
+Model B,169,415,The answer is 415.,False,415
+Model B,170,283,283 (approximately),False,283
+Model B,171,734,The answer is 734.,False,734
+Model B,172,749,749 (approximately),False,749
+Model B,173,711,The answer is 718.,False,718
+Model B,174,923,923,False,923
+Model B,175,931,The answer is 932.,False,932
+Model B,176,186,The answer is 191.,False,191
+Model B,177,116,"First 17, then 43. So the result is 116",False,116
+Model B,178,133,133 (approximately),False,133
+Model B,179,728,The answer is 728.,False,728
+Model B,180,969,The answer is 969.,False,969
+Model B,181,926,I cannot determine this.,True,
+Model B,182,668,670 (approximately),False,670
+Model B,183,967,"First 35, then 37. So the result is 969.",False,969
+Model B,184,870,The answer is 870.,False,870
+Model B,185,16,The answer is 16.,False,16
+Model B,186,120,The answer is 122.,False,122
+Model B,187,863,"First 36, then 13. So the result is 863.",False,863
+Model B,188,84,The answer is 84.,False,84
+Model B,189,980,"First 14, then 27. So the result is 980",False,980
+Model B,190,826,We compute step by step. \\boxed{826},False,826
+Model B,191,956,The answer is 956.,False,956
+Model B,192,361,The answer is 361.,False,361
+Model B,193,150,The answer is 150.,False,150
+Model B,194,517,The answer is 525.,False,525
+Model B,195,971,971 (approximately),False,971
+Model B,196,368,The answer is 368.,False,368
+Model B,197,889,The answer is 895.,False,895
+Model B,198,384,We compute step by step. \\boxed{384},False,384
+Model B,199,821,821 (approximately),False,821
+Model B,200,230,230 (approximately),False,230
+Model B,201,480,The answer is 480.,False,480
+Model B,202,327,The answer is 327.,False,327
+Model B,203,233,The answer is 239.,False,239
+Model B,204,892,The answer is 892.,False,892
+Model B,205,801,801,False,801
+Model B,206,141,141,False,141
+Model B,207,922,The answer is 929.,False,929
+Model B,208,970,970,False,970
+Model B,209,267,The answer is 270.,False,270
+Model B,210,427,433,False,433
+Model B,211,539,542,False,542
+Model B,212,657,The answer is 657.,False,657
+Model B,213,443,"First 9, then 15. So the result is 444.",False,444
+Model B,214,150,The answer is 154.,False,154
+Model B,215,930,930,False,930
+Model B,216,691,"First 40, then 14. So the result is 691",False,691
+Model B,217,42,42 metres,False,42
+Model B,218,813,814,False,814
+Model B,219,731,The answer is 731.,False,731
+Model B,220,184,185,False,185
+Model B,221,614,614,False,614
+Model B,222,502,"First 21, then 47. So the result is 502",False,502
+Model B,223,30,36 metres,False,36
+Model B,224,926,The answer is 931.,False,931
+Model B,225,719,The answer is 719.,False,719
+Model B,226,311,313,False,313
+Model B,227,17,The answer is 17.,False,17
+Model B,228,93,93 (approximately),False,93
+Model B,229,757,The answer is 763.,False,763
+Model B,230,150,150,False,150
+Model B,231,513,The answer is 513.,False,513
+Model B,232,898,We compute step by step. \\boxed{898},False,898
+Model B,233,928,We compute step by step. \\boxed{928},False,928
+Model B,234,269,274 (approximately),False,274
+Model B,235,67,"First 39, then 40. So the result is 75.",False,75
+Model B,236,495,The answer is 497.,False,497
+Model B,237,840,The answer is 844.,False,844
+Model B,238,624,The answer is 626.,False,626
+Model B,239,68,The answer is 68.,False,68
+Model B,240,650,The answer is 650.,False,650
+Model B,241,345,The answer is 353.,False,353
+Model B,242,227,227 (approximately),False,227
+Model B,243,431,431,False,431
+Model B,244,872,We compute step by step. \\boxed{872},False,872
+Model B,245,965,966,False,966
+Model B,246,142,The answer is 146.,False,146
+Model B,247,562,562 metres,False,562
+Model B,248,761,We compute step by step. \\boxed{766},False,766
+Model B,249,260,266,False,266
+Model B,250,273,We compute step by step. \\boxed{273},False,273
+Model B,251,242,245,False,245
+Model B,252,210,The answer is 212.,False,212
+Model B,253,887,887,False,887
+Model B,254,219,"First 25, then 26. So the result is 224.",False,224
+Model B,255,227,231 (approximately),False,231
+Model B,256,127,127 metres,False,127
+Model B,257,126,The answer is 126.,False,126
+Model B,258,778,The answer is 778.,False,778
+Model B,259,289,The answer is 291.,False,291
+Model B,260,801,801 (approximately),False,801
+Model B,261,586,The answer is 586.,False,586
+Model B,262,857,The answer is 865.,False,865
+Model B,263,554,"First 11, then 42. So the result is 554",False,554
+Model B,264,763,The answer is 763.,False,763
+Model B,265,809,809 (approximately),False,809
+Model B,266,62,The answer is 62.,False,62
+Model B,267,560,560,False,560
+Model B,268,455,"First 18, then 33. So the result is 455.",False,455
+Model B,269,289,"First 12, then 34. So the result is 289",False,289
+Model B,270,453,453,False,453
+Model B,271,413,413 metres,False,413
+Model B,272,492,The answer is 492.,False,492
+Model B,273,817,817 (approximately),False,817
+Model B,274,825,We compute step by step. \\boxed{825},False,825
+Model B,275,626,626 (approximately),False,626
+Model B,276,710,The answer is 710.,False,710
+Model B,277,958,The answer is 958.,False,958
+Model B,278,636,636,False,636
+Model B,279,370,370 metres,False,370
+Model B,280,83,The answer is 83.,False,83
+Model B,281,552,The answer is 555.,False,555
+Model B,282,232,The answer is 232.,False,232
+Model B,283,594,"First 28, then 17. So the result is 594",False,594
+Model B,284,27,The answer is 27.,False,27
+Model B,285,847,"First 29, then 17. So the result is 847.",False,847
+Model B,286,943,943,False,943
+Model B,287,147,The answer is 147.,False,147
+Model B,288,818,"First 17, then 39. So the result is 822.",False,822
+Model B,289,407,The answer is 407.,False,407
+Model B,290,43,43,False,43
+Model B,291,909,909 (approximately),False,909
+Model B,292,940,"First 33, then 11. So the result is 940",False,940
+Model B,293,44,"First 21, then 36. So the result is 51.",False,51
+Model B,294,593,593,False,593
+Model B,295,822,The answer is 822.,False,822
+Model B,296,789,797,False,797
+Model B,297,416,The answer is 416.,False,416
+Model B,298,859,861 (approximately),False,861
+Model B,299,829,829,False,829
+Model B,300,115,The answer is 116.,False,116
+Model B,301,11,11,False,11
+Model B,302,103,103 metres,False,103
+Model B,303,365,The answer is 371.,False,371
+Model B,304,111,The answer is 111.,False,111
+Model B,305,80,The answer is 80.,False,80
+Model B,306,259,266,False,266
+Model B,307,652,The answer is 652.,False,652
+Model B,308,524,524,False,524
+Model B,309,275,275,False,275
+Model B,310,949,"First 43, then 10. So the result is 949.",False,949
+Model B,311,702,The answer is 702.,False,702
+Model B,312,634,The answer is 634.,False,634
+Model B,313,942,943,False,943
+Model B,314,785,785,False,785
+Model B,315,128,The answer is 130.,False,130
+Model B,316,38,38,False,38
+Model B,317,864,The answer is 864.,False,864
+Model B,318,408,408 metres,False,408
+Model B,319,61,The answer is 63.,False,63
+Model B,320,477,477 (approximately),False,477
+Model B,321,381,381,False,381
+Model B,322,431,439,False,439
+Model B,323,430,437 (approximately),False,437
+Model B,324,315,The answer is 315.,False,315
+Model B,325,489,"First 4, then 41. So the result is 489",False,489
+Model B,326,492,The answer is 495.,False,495
+Model B,327,975,975 metres,False,975
+Model B,328,692,699 (approximately),False,699
+Model B,329,775,781,False,781
+Model B,330,10,The answer is 11.,False,11
+Model B,331,309,The answer is 309.,False,309
+Model B,332,982,The answer is 985.,False,985
+Model B,333,271,276 (approximately),False,276
+Model B,334,510,The answer is 510.,False,510
+Model B,335,862,866 (approximately),False,866
+Model B,336,638,638,False,638
+Model B,337,880,880 (approximately),False,880
+Model B,338,165,The answer is 165.,False,165
+Model B,339,511,"First 15, then 34. So the result is 511",False,511
+Model B,340,635,We compute step by step. \\boxed{635},False,635
+Model B,341,345,348 metres,False,348
+Model B,342,574,We compute step by step. \\boxed{578},False,578
+Model B,343,993,997 (approximately),False,997
+Model B,344,736,The answer is 736.,False,736
+Model B,345,316,"First 49, then 42. So the result is 316",False,316
+Model B,346,65,The answer is 71.,False,71
+Model B,347,184,184 metres,False,184
+Model B,348,273,The answer is 277.,False,277
+Model B,349,879,886 (approximately),False,886
+Model B,350,272,We compute step by step. \\boxed{276},False,276
+Model B,351,811,The answer is 811.,False,811
+Model B,352,275,275,False,275
+Model B,353,667,670 metres,False,670
+Model B,354,527,527 metres,False,527
+Model B,355,957,The answer is 964.,False,964
+Model B,356,566,566 (approximately),False,566
+Model B,357,924,The answer is 924.,False,924
+Model B,358,961,961 metres,False,961
+Model B,359,748,748,False,748
+Model B,360,628,The answer is 634.,False,634
+Model B,361,860,I cannot determine this.,True,
+Model B,362,995,995,False,995
+Model B,363,248,I cannot determine this.,True,
+Model B,364,562,562,False,562
+Model B,365,142,The answer is 142.,False,142
+Model B,366,106,108,False,108
+Model B,367,670,675 (approximately),False,675
+Model B,368,49,"First 21, then 27. So the result is 49",False,49
+Model B,369,714,714 (approximately),False,714
+Model B,370,820,The answer is 820.,False,820
+Model B,371,168,173 metres,False,173
+Model B,372,680,680 (approximately),False,680
+Model B,373,396,We compute step by step. \\boxed{396},False,396
+Model B,374,892,"First 14, then 49. So the result is 892",False,892
+Model B,375,909,The answer is 909.,False,909
+Model B,376,577,"First 33, then 16. So the result is 585",False,585
+Model B,377,561,The answer is 561.,False,561
+Model B,378,710,710,False,710
+Model B,379,578,We compute step by step. \\boxed{584},False,584
+Model B,380,745,The answer is 749.,False,749
+Model B,381,195,195 metres,False,195
+Model B,382,781,We compute step by step. \\boxed{781},False,781
+Model B,383,526,534,False,534
+Model B,384,751,751 (approximately),False,751
+Model B,385,523,We compute step by step. \\boxed{523},False,523
+Model B,386,307,307 (approximately),False,307
+Model B,387,90,I cannot determine this.,True,
+Model B,388,525,The answer is 525.,False,525
+Model B,389,980,I cannot determine this.,True,
+Model B,390,37,The answer is 37.,False,37
+Model B,391,571,574 metres,False,574
+Model B,392,447,The answer is 447.,False,447
+Model B,393,8,14,False,14
+Model B,394,543,The answer is 551.,False,551
+Model B,395,772,772 metres,False,772
+Model B,396,741,741 (approximately),False,741
+Model B,397,977,The answer is 978.,False,978
+Model B,398,529,The answer is 536.,False,536
+Model B,399,590,We compute step by step. \\boxed{590},False,590
+Model B,400,964,964 metres,False,964
+Model B,401,320,320,False,320
+Model B,402,798,The answer is 798.,False,798
+Model B,403,188,188 metres,False,188
+Model B,404,362,The answer is 362.,False,362
+Model B,405,672,676 (approximately),False,676
+Model B,406,579,The answer is 584.,False,584
+Model B,407,196,The answer is 196.,False,196
+Model B,408,659,We compute step by step. \\boxed{664},False,664
+Model B,409,577,We compute step by step. \\boxed{579},False,579
+Model B,410,919,919,False,919
+Model B,411,602,The answer is 602.,False,602
+Model B,412,883,889 metres,False,889
+Model B,413,961,"First 26, then 36. So the result is 961",False,961
+Model B,414,89,The answer is 89.,False,89
+Model B,415,74,The answer is 80.,False,80
+Model B,416,503,We compute step by step. \\boxed{503},False,503
+Model B,417,500,The answer is 500.,False,500
+Model B,418,555,We compute step by step. \\boxed{555},False,555
+Model B,419,743,The answer is 743.,False,743
+Model B,420,316,We compute step by step. \\boxed{316},False,316
+Model B,421,178,The answer is 178.,False,178
+Model B,422,680,The answer is 688.,False,688
+Model B,423,388,The answer is 388.,False,388
+Model B,424,928,928 metres,False,928
+Model B,425,64,The answer is 64.,False,64
+Model B,426,709,The answer is 709.,False,709
+Model B,427,725,731,False,731
+Model B,428,272,272,False,272
+Model B,429,89,The answer is 89.,False,89
+Model B,430,319,The answer is 323.,False,323
+Model B,431,395,We compute step by step. \\boxed{395},False,395
+Model B,432,978,980,False,980
+Model B,433,872,The answer is 872.,False,872
+Model B,434,232,We compute step by step. \\boxed{232},False,232
+Model B,435,472,480,False,480
+Model B,436,600,"First 42, then 10. So the result is 600",False,600
+Model B,437,911,The answer is 917.,False,917
+Model B,438,136,"First 23, then 33. So the result is 136",False,136
+Model B,439,765,The answer is 765.,False,765
+Model B,440,924,The answer is 924.,False,924
+Model B,441,914,920,False,920
+Model B,442,278,The answer is 286.,False,286
+Model B,443,129,The answer is 135.,False,135
+Model B,444,594,594 metres,False,594
+Model B,445,75,75,False,75
+Model B,446,131,131 (approximately),False,131
+Model B,447,72,The answer is 72.,False,72
+Model B,448,212,"First 44, then 48. So the result is 212",False,212
+Model B,449,868,"First 36, then 46. So the result is 868",False,868
+Model B,450,672,The answer is 672.,False,672
+Model B,451,634,The answer is 634.,False,634
+Model B,452,984,The answer is 984.,False,984
+Model B,453,497,500 (approximately),False,500
+Model B,454,41,"First 42, then 38. So the result is 49",False,49
+Model B,455,165,The answer is 165.,False,165
+Model B,456,261,261,False,261
+Model B,457,673,The answer is 677.,False,677
+Model B,458,357,358,False,358
+Model B,459,319,322,False,322
+Model B,460,113,The answer is 117.,False,117
+Model B,461,710,The answer is 710.,False,710
+Model B,462,26,32 (approximately),False,32
+Model B,463,460,The answer is 460.,False,460
+Model B,464,744,The answer is 746.,False,746
+Model B,465,507,The answer is 508.,False,508
+Model B,466,686,686,False,686
+Model B,467,789,"First 40, then 22. So the result is 789.",False,789
+Model B,468,226,The answer is 226.,False,226
+Model B,469,94,94 (approximately),False,94
+Model B,470,58,The answer is 58.,False,58
+Model B,471,579,The answer is 579.,False,579
+Model B,472,265,271,False,271
+Model B,473,198,The answer is 198.,False,198
+Model B,474,734,The answer is 734.,False,734
+Model B,475,807,I cannot determine this.,True,
+Model B,476,953,"First 26, then 19. So the result is 953",False,953
+Model B,477,489,The answer is 492.,False,492
+Model B,478,523,523,False,523
+Model B,479,987,987 (approximately),False,987
+Model B,480,504,511 metres,False,511
+Model B,481,184,"First 12, then 8. So the result is 184.",False,184
+Model B,482,257,"First 11, then 21. So the result is 257",False,257
+Model B,483,962,The answer is 962.,False,962
+Model B,484,45,45,False,45
+Model B,485,800,The answer is 800.,False,800
+Model B,486,647,The answer is 654.,False,654
+Model B,487,481,The answer is 481.,False,481
+Model B,488,832,The answer is 832.,False,832
+Model B,489,813,The answer is 813.,False,813
+Model B,490,440,440,False,440
+Model B,491,603,The answer is 604.,False,604
+Model B,492,763,We compute step by step. \\boxed{763},False,763
+Model B,493,655,655 metres,False,655
+Model B,494,486,The answer is 486.,False,486
+Model B,495,912,912 metres,False,912
+Model B,496,882,The answer is 882.,False,882
+Model B,497,67,67 metres,False,67
+Model B,498,547,"First 9, then 5. So the result is 547",False,547
+Model B,499,834,We compute step by step. \\boxed{838},False,838
+Model B,500,86,86 (approximately),False,86
+Model B,501,382,383,False,383
+Model B,502,509,515,False,515
+Model B,503,326,326 metres,False,326
+Model B,504,695,The answer is 695.,False,695
+Model B,505,993,The answer is 993.,False,993
+Model B,506,364,"First 14, then 36. So the result is 369.",False,369
+Model B,507,780,780 (approximately),False,780
+Model B,508,118,118 metres,False,118
+Model B,509,486,487,False,487
+Model B,510,7,"First 19, then 31. So the result is 12",False,12
+Model B,511,423,The answer is 423.,False,423
+Model B,512,15,The answer is 15.,False,15
+Model B,513,876,876 (approximately),False,876
+Model B,514,968,974 (approximately),False,974
+Model B,515,88,93,False,93
+Model B,516,817,"First 40, then 9. So the result is 817.",False,817
+Model B,517,708,I cannot determine this.,True,
+Model B,518,301,The answer is 301.,False,301
+Model B,519,788,The answer is 792.,False,792
+Model B,520,961,961 metres,False,961
+Model B,521,798,We compute step by step. \\boxed{798},False,798
+Model B,522,692,693 (approximately),False,693
+Model B,523,323,The answer is 323.,False,323
+Model B,524,606,The answer is 606.,False,606
+Model B,525,796,The answer is 796.,False,796
+Model B,526,714,The answer is 722.,False,722
+Model B,527,226,"First 25, then 29. So the result is 226.",False,226
+Model B,528,412,"First 31, then 2. So the result is 412.",False,412
+Model B,529,363,The answer is 365.,False,365
+Model B,530,694,We compute step by step. \\boxed{699},False,699
+Model B,531,418,The answer is 418.,False,418
+Model B,532,420,The answer is 427.,False,427
+Model B,533,541,541,False,541
+Model B,534,579,579 metres,False,579
+Model B,535,114,114 metres,False,114
+Model B,536,924,The answer is 924.,False,924
+Model B,537,407,407,False,407
+Model B,538,176,"First 42, then 23. So the result is 176.",False,176
+Model B,539,2,The answer is 2.,False,2
+Model B,540,435,We compute step by step. \\boxed{435},False,435
+Model B,541,744,The answer is 744.,False,744
+Model B,542,297,297 metres,False,297
+Model B,543,851,The answer is 851.,False,851
+Model B,544,201,201,False,201
+Model B,545,140,"First 36, then 17. So the result is 140.",False,140
+Model B,546,391,"First 19, then 8. So the result is 391",False,391
+Model B,547,703,The answer is 703.,False,703
+Model B,548,300,The answer is 300.,False,300
+Model B,549,820,The answer is 824.,False,824
+Model B,550,22,22 (approximately),False,22
+Model B,551,980,"First 15, then 25. So the result is 980",False,980
+Model B,552,48,We compute step by step. \\boxed{48},False,48
+Model B,553,843,"First 9, then 49. So the result is 847.",False,847
+Model B,554,5,5 (approximately),False,5
+Model B,555,424,The answer is 424.,False,424
+Model B,556,310,"First 34, then 46. So the result is 312",False,312
+Model B,557,978,We compute step by step. \\boxed{978},False,978
+Model B,558,654,"First 6, then 39. So the result is 661",False,661
+Model B,559,973,981,False,981
+Model B,560,415,The answer is 415.,False,415
+Model B,561,504,"First 14, then 26. So the result is 508",False,508
+Model B,562,502,We compute step by step. \\boxed{502},False,502
+Model B,563,753,753 (approximately),False,753
+Model B,564,509,"First 41, then 21. So the result is 511.",False,511
+Model B,565,913,913 (approximately),False,913
+Model B,566,193,193 (approximately),False,193
+Model B,567,476,"First 20, then 42. So the result is 479",False,479
+Model B,568,248,248 (approximately),False,248
+Model B,569,863,The answer is 863.,False,863
+Model B,570,138,143,False,143
+Model B,571,701,701,False,701
+Model B,572,911,"First 47, then 19. So the result is 911",False,911
+Model B,573,295,295 metres,False,295
+Model B,574,280,280,False,280
+Model B,575,767,The answer is 767.,False,767
+Model B,576,591,"First 22, then 35. So the result is 591",False,591
+Model B,577,570,The answer is 570.,False,570
+Model B,578,883,883 (approximately),False,883
+Model B,579,95,95 (approximately),False,95
+Model B,580,274,274,False,274
+Model B,581,392,392,False,392
+Model B,582,916,918,False,918
+Model B,583,75,75,False,75
+Model B,584,453,The answer is 453.,False,453
+Model B,585,476,The answer is 476.,False,476
+Model B,586,16,The answer is 18.,False,18
+Model B,587,429,429 (approximately),False,429
+Model B,588,648,The answer is 648.,False,648
+Model B,589,424,424,False,424
+Model B,590,306,306 (approximately),False,306
+Model B,591,586,"First 48, then 33. So the result is 592",False,592
+Model B,592,979,"First 22, then 14. So the result is 979",False,979
+Model B,593,124,"First 13, then 18. So the result is 127.",False,127
+Model B,594,287,293 metres,False,293
+Model B,595,932,932,False,932
+Model B,596,297,297,False,297
+Model B,597,683,683,False,683
+Model B,598,352,The answer is 352.,False,352
+Model B,599,823,823,False,823

@@ -1,0 +1,15 @@
+{
+  "release": "specdebt_v0.2.0_results_figures_code_submission",
+  "scope": "code/results/figures supplement only",
+  "manuscript_included": false,
+  "regression_tests": 9,
+  "regression_status": "PASS",
+  "numeric_fields_compared": 193,
+  "comparison_status": "PASS",
+  "comparison_rtol": 1e-09,
+  "comparison_atol": 1e-08,
+  "reproduction_runtime_seconds": 2.03,
+  "reproduction_environment": "Python 3.13.5; NumPy 2.3.5; Matplotlib 3.10.8",
+  "archived_baseline_environment": "Python 3.12.14; NumPy 2.3.5",
+  "notes": "Manuscript DOCX/PDF and manuscript-build metadata are intentionally excluded from this archive."
+}

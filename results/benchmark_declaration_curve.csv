@@ -1,0 +1,7 @@
+declared,n,residual_flip_rate,search,max_cell_residual,mixed_cells,n_cells
+[],0,0.41666666666666663,exhaustive_best_subset,0.41666666666666663,1,1
+"[""extraction""]",1,0.08333333333333333,exhaustive_best_subset,0.3333333333333333,1,4
+"[""extraction"", ""abstention""]",2,0.04166666666666667,exhaustive_best_subset,0.33333333333333337,1,8
+"[""extraction"", ""abstention"", ""subsample_seed""]",3,0.0,exhaustive_best_subset,0.0,0,24
+"[""extraction"", ""abstention"", ""max_chars"", ""subsample_seed""]",4,0.0,exhaustive_best_subset,0.0,0,48
+"[""extraction"", ""normalisation"", ""abstention"", ""max_chars"", ""subsample_seed""]",5,0.0,exhaustive_best_subset,0.0,0,144

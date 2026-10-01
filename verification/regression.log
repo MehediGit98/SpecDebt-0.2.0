@@ -1,0 +1,14 @@
+test_spectral_reference (__main__.SharedChecks.test_spectral_reference) ... ok
+test_strict_json (__main__.SharedChecks.test_strict_json) ... ok
+test_fail_fast (__main__.SpecDebtChecks.test_fail_fast) ... ok
+test_interactions_require_joint_declaration (__main__.SpecDebtChecks.test_interactions_require_joint_declaration) ... ok
+test_ties_are_distinct (__main__.SpecDebtChecks.test_ties_are_distinct) ... ok
+test_weighted_residual_is_not_cell_guarantee (__main__.SpecDebtChecks.test_weighted_residual_is_not_cell_guarantee) ... ok
+test_design_invariants (__main__.StreetChecks.test_design_invariants) ... ok
+test_invalid_eye_location (__main__.StreetChecks.test_invalid_eye_location) ... ok
+test_pareto_indices (__main__.StreetChecks.test_pareto_indices) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.059s
+
+OK

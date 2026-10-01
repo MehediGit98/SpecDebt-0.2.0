@@ -1,0 +1,7 @@
+Field,Specification
+Subject area,Computer science; environmental modelling
+Specific subject area,Finite-grid sensitivity and reporting of binary decisions
+Method name,Exact declaration audit
+Original method,Extension of multiverse and specification-curve analysis with exact minimum-cardinality declaration search
+Resource availability,"Supplementary local Python source, complete result grids, synthetic fixture and figure scripts"
+Required environment,Python 3.10 or later; NumPy 2.0 or later; Matplotlib for figures
